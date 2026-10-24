@@ -1,0 +1,8 @@
+Hindi voice fallback: eSpeak NG, compiled by the Echogarden project.
+Package: @echogarden/espeak-ng-emscripten 0.3.5
+License: GNU GPL version 3 (COPYING-espeak.txt).
+Source and build instructions: https://github.com/echogarden-project/espeak-ng-emscripten
+Underlying engine source: https://github.com/echogarden-project/espeak-ng/tree/fork
+Original package: https://registry.npmjs.org/@echogarden/espeak-ng-emscripten/-/espeak-ng-emscripten-0.3.5.tgz
+Local modifications: trimmed dictionaries to Hindi and English; embedded data; classic-script factory; PCM wrapper.
+The reproducible packaging script and original npm archive are included in speech-source/.

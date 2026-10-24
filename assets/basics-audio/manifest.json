@@ -1,0 +1,2242 @@
+[
+  {
+    "id": "vowels-1",
+    "text": "अ",
+    "label": "अ",
+    "file": "assets/basics-audio/vowels-1.wav",
+    "phonemes": "ˈʌ",
+    "sampleRate": 22050,
+    "seconds": 0.20299319727891157,
+    "peak": 21704
+  },
+  {
+    "id": "vowels-2",
+    "text": "आ",
+    "label": "आ",
+    "file": "assets/basics-audio/vowels-2.wav",
+    "phonemes": "ˈaː",
+    "sampleRate": 22050,
+    "seconds": 0.27156462585034014,
+    "peak": 21435
+  },
+  {
+    "id": "vowels-3",
+    "text": "इ",
+    "label": "इ",
+    "file": "assets/basics-audio/vowels-3.wav",
+    "phonemes": "ˈɪ",
+    "sampleRate": 22050,
+    "seconds": 0.13514739229024944,
+    "peak": 19469
+  },
+  {
+    "id": "vowels-4",
+    "text": "ई",
+    "label": "ई",
+    "file": "assets/basics-audio/vowels-4.wav",
+    "phonemes": "ˈi",
+    "sampleRate": 22050,
+    "seconds": 0.2924716553287982,
+    "peak": 13769
+  },
+  {
+    "id": "vowels-5",
+    "text": "उ",
+    "label": "उ",
+    "file": "assets/basics-audio/vowels-5.wav",
+    "phonemes": "ˈʊ",
+    "sampleRate": 22050,
+    "seconds": 0.2036281179138322,
+    "peak": 19785
+  },
+  {
+    "id": "vowels-6",
+    "text": "ऊ",
+    "label": "ऊ",
+    "file": "assets/basics-audio/vowels-6.wav",
+    "phonemes": "ˈu",
+    "sampleRate": 22050,
+    "seconds": 0.23718820861678006,
+    "peak": 11712
+  },
+  {
+    "id": "vowels-7",
+    "text": "ऋ",
+    "label": "ऋ",
+    "file": "assets/basics-audio/vowels-7.wav",
+    "phonemes": "ɾ_ˈɪ",
+    "sampleRate": 22050,
+    "seconds": 0.24213151927437643,
+    "peak": 19703
+  },
+  {
+    "id": "vowels-8",
+    "text": "ए",
+    "label": "ए",
+    "file": "assets/basics-audio/vowels-8.wav",
+    "phonemes": "ˈeː",
+    "sampleRate": 22050,
+    "seconds": 0.2944671201814059,
+    "peak": 21395
+  },
+  {
+    "id": "vowels-9",
+    "text": "ऐ",
+    "label": "ऐ",
+    "file": "assets/basics-audio/vowels-9.wav",
+    "phonemes": "ˈɛː",
+    "sampleRate": 22050,
+    "seconds": 0.2943764172335601,
+    "peak": 21717
+  },
+  {
+    "id": "vowels-10",
+    "text": "ओ",
+    "label": "ओ",
+    "file": "assets/basics-audio/vowels-10.wav",
+    "phonemes": "ˈoː",
+    "sampleRate": 22050,
+    "seconds": 0.29356009070294786,
+    "peak": 16589
+  },
+  {
+    "id": "vowels-11",
+    "text": "औ",
+    "label": "औ",
+    "file": "assets/basics-audio/vowels-11.wav",
+    "phonemes": "ˈɔː",
+    "sampleRate": 22050,
+    "seconds": 0.28294784580498866,
+    "peak": 22635
+  },
+  {
+    "id": "consonants-1",
+    "text": "क",
+    "label": "क",
+    "file": "assets/basics-audio/consonants-1.wav",
+    "phonemes": "k_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.29732426303854875,
+    "peak": 17987
+  },
+  {
+    "id": "consonants-2",
+    "text": "ख",
+    "label": "ख",
+    "file": "assets/basics-audio/consonants-2.wav",
+    "phonemes": "kʰ_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.3403628117913832,
+    "peak": 18526
+  },
+  {
+    "id": "consonants-3",
+    "text": "ग",
+    "label": "ग",
+    "file": "assets/basics-audio/consonants-3.wav",
+    "phonemes": "ɡ_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.24045351473922902,
+    "peak": 18218
+  },
+  {
+    "id": "consonants-4",
+    "text": "घ",
+    "label": "घ",
+    "file": "assets/basics-audio/consonants-4.wav",
+    "phonemes": "ɡʰ_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.2691156462585034,
+    "peak": 17766
+  },
+  {
+    "id": "consonants-5",
+    "text": "ङअ",
+    "label": "ङ",
+    "file": "assets/basics-audio/consonants-5.wav",
+    "phonemes": "ŋ_ˈʌ",
+    "sampleRate": 22050,
+    "seconds": 0.342312925170068,
+    "peak": 23310
+  },
+  {
+    "id": "consonants-6",
+    "text": "च",
+    "label": "च",
+    "file": "assets/basics-audio/consonants-6.wav",
+    "phonemes": "c_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.2965986394557823,
+    "peak": 17728
+  },
+  {
+    "id": "consonants-7",
+    "text": "छ",
+    "label": "छ",
+    "file": "assets/basics-audio/consonants-7.wav",
+    "phonemes": "cʰ_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.35687074829931975,
+    "peak": 17681
+  },
+  {
+    "id": "consonants-8",
+    "text": "ज",
+    "label": "ज",
+    "file": "assets/basics-audio/consonants-8.wav",
+    "phonemes": "ɟ_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.2817233560090703,
+    "peak": 18325
+  },
+  {
+    "id": "consonants-9",
+    "text": "झ",
+    "label": "झ",
+    "file": "assets/basics-audio/consonants-9.wav",
+    "phonemes": "ɟʰ_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.31351473922902495,
+    "peak": 18278
+  },
+  {
+    "id": "consonants-10",
+    "text": "ञ",
+    "label": "ञ",
+    "file": "assets/basics-audio/consonants-10.wav",
+    "phonemes": "ɲ_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.35002267573696144,
+    "peak": 18058
+  },
+  {
+    "id": "consonants-11",
+    "text": "ट",
+    "label": "ट",
+    "file": "assets/basics-audio/consonants-11.wav",
+    "phonemes": "ʈ_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.2675283446712018,
+    "peak": 17813
+  },
+  {
+    "id": "consonants-12",
+    "text": "ठ",
+    "label": "ठ",
+    "file": "assets/basics-audio/consonants-12.wav",
+    "phonemes": "ʈʰ_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.3113832199546485,
+    "peak": 18351
+  },
+  {
+    "id": "consonants-13",
+    "text": "ड",
+    "label": "ड",
+    "file": "assets/basics-audio/consonants-13.wav",
+    "phonemes": "ɖ_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.23741496598639455,
+    "peak": 17799
+  },
+  {
+    "id": "consonants-14",
+    "text": "ढ",
+    "label": "ढ",
+    "file": "assets/basics-audio/consonants-14.wav",
+    "phonemes": "ɖʰ_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.23705215419501133,
+    "peak": 18147
+  },
+  {
+    "id": "consonants-15",
+    "text": "णअ",
+    "label": "ण",
+    "file": "assets/basics-audio/consonants-15.wav",
+    "phonemes": "ɳ_ˈʌ",
+    "sampleRate": 22050,
+    "seconds": 0.31160997732426304,
+    "peak": 23429
+  },
+  {
+    "id": "consonants-16",
+    "text": "त",
+    "label": "त",
+    "file": "assets/basics-audio/consonants-16.wav",
+    "phonemes": "t_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.27369614512471657,
+    "peak": 17812
+  },
+  {
+    "id": "consonants-17",
+    "text": "थ",
+    "label": "थ",
+    "file": "assets/basics-audio/consonants-17.wav",
+    "phonemes": "tʰ_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.28888888888888886,
+    "peak": 18233
+  },
+  {
+    "id": "consonants-18",
+    "text": "द",
+    "label": "द",
+    "file": "assets/basics-audio/consonants-18.wav",
+    "phonemes": "d_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.22843537414965986,
+    "peak": 18240
+  },
+  {
+    "id": "consonants-19",
+    "text": "ध",
+    "label": "ध",
+    "file": "assets/basics-audio/consonants-19.wav",
+    "phonemes": "dʰ_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.2602721088435374,
+    "peak": 17870
+  },
+  {
+    "id": "consonants-20",
+    "text": "न",
+    "label": "न",
+    "file": "assets/basics-audio/consonants-20.wav",
+    "phonemes": "n_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.27922902494331064,
+    "peak": 17948
+  },
+  {
+    "id": "consonants-21",
+    "text": "प",
+    "label": "प",
+    "file": "assets/basics-audio/consonants-21.wav",
+    "phonemes": "p_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.2783673469387755,
+    "peak": 17798
+  },
+  {
+    "id": "consonants-22",
+    "text": "फ",
+    "label": "फ",
+    "file": "assets/basics-audio/consonants-22.wav",
+    "phonemes": "pʰ_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.2994557823129252,
+    "peak": 18463
+  },
+  {
+    "id": "consonants-23",
+    "text": "ब",
+    "label": "ब",
+    "file": "assets/basics-audio/consonants-23.wav",
+    "phonemes": "b_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.2595918367346939,
+    "peak": 17725
+  },
+  {
+    "id": "consonants-24",
+    "text": "भ",
+    "label": "भ",
+    "file": "assets/basics-audio/consonants-24.wav",
+    "phonemes": "bʰ_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.24775510204081633,
+    "peak": 18059
+  },
+  {
+    "id": "consonants-25",
+    "text": "म",
+    "label": "म",
+    "file": "assets/basics-audio/consonants-25.wav",
+    "phonemes": "m_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.3005895691609977,
+    "peak": 17899
+  },
+  {
+    "id": "consonants-26",
+    "text": "य",
+    "label": "य",
+    "file": "assets/basics-audio/consonants-26.wav",
+    "phonemes": "j_ə",
+    "sampleRate": 22050,
+    "seconds": 0.3036281179138322,
+    "peak": 17828
+  },
+  {
+    "id": "consonants-27",
+    "text": "र",
+    "label": "र",
+    "file": "assets/basics-audio/consonants-27.wav",
+    "phonemes": "ɾ_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.2764625850340136,
+    "peak": 17884
+  },
+  {
+    "id": "consonants-28",
+    "text": "ल",
+    "label": "ल",
+    "file": "assets/basics-audio/consonants-28.wav",
+    "phonemes": "l_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.2802721088435374,
+    "peak": 18219
+  },
+  {
+    "id": "consonants-29",
+    "text": "व",
+    "label": "व",
+    "file": "assets/basics-audio/consonants-29.wav",
+    "phonemes": "ʋ_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.3289795918367347,
+    "peak": 17792
+  },
+  {
+    "id": "consonants-30",
+    "text": "श",
+    "label": "श",
+    "file": "assets/basics-audio/consonants-30.wav",
+    "phonemes": "ʃ_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.32299319727891157,
+    "peak": 17607
+  },
+  {
+    "id": "consonants-31",
+    "text": "ष",
+    "label": "ष",
+    "file": "assets/basics-audio/consonants-31.wav",
+    "phonemes": "ʂ_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.3218140589569161,
+    "peak": 17551
+  },
+  {
+    "id": "consonants-32",
+    "text": "स",
+    "label": "स",
+    "file": "assets/basics-audio/consonants-32.wav",
+    "phonemes": "s_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.2977324263038549,
+    "peak": 17628
+  },
+  {
+    "id": "consonants-33",
+    "text": "ह",
+    "label": "ह",
+    "file": "assets/basics-audio/consonants-33.wav",
+    "phonemes": "h_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.2702040816326531,
+    "peak": 20547
+  },
+  {
+    "id": "extended-1",
+    "text": "ड़अ",
+    "label": "ड़",
+    "file": "assets/basics-audio/extended-1.wav",
+    "phonemes": "r._ˈʌ",
+    "sampleRate": 22050,
+    "seconds": 0.2503401360544218,
+    "peak": 23062
+  },
+  {
+    "id": "extended-2",
+    "text": "ढ़अ",
+    "label": "ढ़",
+    "file": "assets/basics-audio/extended-2.wav",
+    "phonemes": "r._h_ˈʌ",
+    "sampleRate": 22050,
+    "seconds": 0.3783219954648526,
+    "peak": 21065
+  },
+  {
+    "id": "extended-3",
+    "text": "क़",
+    "label": "क़",
+    "file": "assets/basics-audio/extended-3.wav",
+    "phonemes": "q_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.2857596371882086,
+    "peak": 17803
+  },
+  {
+    "id": "extended-4",
+    "text": "ख़",
+    "label": "ख़",
+    "file": "assets/basics-audio/extended-4.wav",
+    "phonemes": "x_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.31528344671201813,
+    "peak": 17521
+  },
+  {
+    "id": "extended-5",
+    "text": "ग़",
+    "label": "ग़",
+    "file": "assets/basics-audio/extended-5.wav",
+    "phonemes": "ɣ_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.31065759637188206,
+    "peak": 18202
+  },
+  {
+    "id": "extended-6",
+    "text": "ज़",
+    "label": "ज़",
+    "file": "assets/basics-audio/extended-6.wav",
+    "phonemes": "z_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.3202721088435374,
+    "peak": 18117
+  },
+  {
+    "id": "extended-7",
+    "text": "फ़",
+    "label": "फ़",
+    "file": "assets/basics-audio/extended-7.wav",
+    "phonemes": "f_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.3019047619047619,
+    "peak": 18203
+  },
+  {
+    "id": "modifiers-1",
+    "text": "अं",
+    "label": "अं",
+    "file": "assets/basics-audio/modifiers-1.wav",
+    "phonemes": "ˈʌ_n",
+    "sampleRate": 22050,
+    "seconds": 0.32639455782312926,
+    "peak": 24792
+  },
+  {
+    "id": "modifiers-2",
+    "text": "अँ",
+    "label": "अँ",
+    "file": "assets/basics-audio/modifiers-2.wav",
+    "phonemes": "ˈʌ_n",
+    "sampleRate": 22050,
+    "seconds": 0.32648526077097506,
+    "peak": 25017
+  },
+  {
+    "id": "modifiers-3",
+    "text": "अः",
+    "label": "अः",
+    "file": "assets/basics-audio/modifiers-3.wav",
+    "phonemes": "ˈʌ_h",
+    "sampleRate": 22050,
+    "seconds": 0.27165532879818594,
+    "peak": 24005
+  },
+  {
+    "id": "modifiers-4",
+    "text": "क्",
+    "label": "क्",
+    "file": "assets/basics-audio/modifiers-4.wav",
+    "phonemes": "k",
+    "sampleRate": 22050,
+    "seconds": 0.11682539682539683,
+    "peak": 3370
+  },
+  {
+    "id": "modifiers-5",
+    "text": "ऑ",
+    "label": "ऑ",
+    "file": "assets/basics-audio/modifiers-5.wav",
+    "phonemes": "ˈɔ",
+    "sampleRate": 22050,
+    "seconds": 0.2038548752834467,
+    "peak": 17280
+  },
+  {
+    "id": "modifiers-6",
+    "text": "ऍ",
+    "label": "ऍ",
+    "file": "assets/basics-audio/modifiers-6.wav",
+    "phonemes": "ˈɛ",
+    "sampleRate": 22050,
+    "seconds": 0.2036734693877551,
+    "peak": 17531
+  },
+  {
+    "id": "compounds-1",
+    "text": "क्ष",
+    "label": "क्ष",
+    "file": "assets/basics-audio/compounds-1.wav",
+    "phonemes": "k_ʃ_ˈʌ",
+    "sampleRate": 22050,
+    "seconds": 0.43578231292517006,
+    "peak": 21899
+  },
+  {
+    "id": "compounds-2",
+    "text": "त्र",
+    "label": "त्र",
+    "file": "assets/basics-audio/compounds-2.wav",
+    "phonemes": "t_ɾ_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.30943310657596373,
+    "peak": 17645
+  },
+  {
+    "id": "compounds-3",
+    "text": "ज्ञ",
+    "label": "ज्ञ",
+    "file": "assets/basics-audio/compounds-3.wav",
+    "phonemes": "ɡ_j_ˈʌ",
+    "sampleRate": 22050,
+    "seconds": 0.32666666666666666,
+    "peak": 23393
+  },
+  {
+    "id": "compounds-4",
+    "text": "श्र",
+    "label": "श्र",
+    "file": "assets/basics-audio/compounds-4.wav",
+    "phonemes": "ʃ_ɾ_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.3365532879818594,
+    "peak": 17795
+  },
+  {
+    "id": "compounds-5",
+    "text": "क्त",
+    "label": "क्त",
+    "file": "assets/basics-audio/compounds-5.wav",
+    "phonemes": "k_t_ˈʌ",
+    "sampleRate": 22050,
+    "seconds": 0.40217687074829933,
+    "peak": 21589
+  },
+  {
+    "id": "compounds-6",
+    "text": "क्र",
+    "label": "क्र",
+    "file": "assets/basics-audio/compounds-6.wav",
+    "phonemes": "k_ɾ_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.33356009070294784,
+    "peak": 18451
+  },
+  {
+    "id": "compounds-7",
+    "text": "क्ल",
+    "label": "क्ल",
+    "file": "assets/basics-audio/compounds-7.wav",
+    "phonemes": "k_l_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.365124716553288,
+    "peak": 17835
+  },
+  {
+    "id": "compounds-8",
+    "text": "क्य",
+    "label": "क्य",
+    "file": "assets/basics-audio/compounds-8.wav",
+    "phonemes": "kː_j_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.4988662131519274,
+    "peak": 18138
+  },
+  {
+    "id": "compounds-9",
+    "text": "ख्य",
+    "label": "ख्य",
+    "file": "assets/basics-audio/compounds-9.wav",
+    "phonemes": "kʰ_j_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.4250340136054422,
+    "peak": 18175
+  },
+  {
+    "id": "compounds-10",
+    "text": "ग्न",
+    "label": "ग्न",
+    "file": "assets/basics-audio/compounds-10.wav",
+    "phonemes": "ɡ_n_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.2946938775510204,
+    "peak": 18579
+  },
+  {
+    "id": "compounds-11",
+    "text": "ग्र",
+    "label": "ग्र",
+    "file": "assets/basics-audio/compounds-11.wav",
+    "phonemes": "ɡ_ɾ_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.2418140589569161,
+    "peak": 17971
+  },
+  {
+    "id": "compounds-12",
+    "text": "ग्ल",
+    "label": "ग्ल",
+    "file": "assets/basics-audio/compounds-12.wav",
+    "phonemes": "ɡ_l_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.2852607709750567,
+    "peak": 17796
+  },
+  {
+    "id": "compounds-13",
+    "text": "घ्र",
+    "label": "घ्र",
+    "file": "assets/basics-audio/compounds-13.wav",
+    "phonemes": "ɡʰ_ɾ_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.2618140589569161,
+    "peak": 18019
+  },
+  {
+    "id": "compounds-14",
+    "text": "च्च",
+    "label": "च्च",
+    "file": "assets/basics-audio/compounds-14.wav",
+    "phonemes": "cː_ˈʌ",
+    "sampleRate": 22050,
+    "seconds": 0.41210884353741495,
+    "peak": 21482
+  },
+  {
+    "id": "compounds-15",
+    "text": "च्छ",
+    "label": "च्छ",
+    "file": "assets/basics-audio/compounds-15.wav",
+    "phonemes": "cʰcʰ_ˈʌ",
+    "sampleRate": 22050,
+    "seconds": 0.4717006802721088,
+    "peak": 21738
+  },
+  {
+    "id": "compounds-16",
+    "text": "ज्ज",
+    "label": "ज्ज",
+    "file": "assets/basics-audio/compounds-16.wav",
+    "phonemes": "ɟː_ˈʌ",
+    "sampleRate": 22050,
+    "seconds": 0.35487528344671204,
+    "peak": 22897
+  },
+  {
+    "id": "compounds-17",
+    "text": "ज्व",
+    "label": "ज्व",
+    "file": "assets/basics-audio/compounds-17.wav",
+    "phonemes": "ɟ_ʋ_ˈʌ",
+    "sampleRate": 22050,
+    "seconds": 0.3746938775510204,
+    "peak": 21656
+  },
+  {
+    "id": "compounds-18",
+    "text": "ज्य",
+    "label": "ज्य",
+    "file": "assets/basics-audio/compounds-18.wav",
+    "phonemes": "ɟ_j_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.32467120181405895,
+    "peak": 18216
+  },
+  {
+    "id": "compounds-19",
+    "text": "ट्ट",
+    "label": "ट्ट",
+    "file": "assets/basics-audio/compounds-19.wav",
+    "phonemes": "ʈʈ_ˈʌ",
+    "sampleRate": 22050,
+    "seconds": 0.3961451247165533,
+    "peak": 21940
+  },
+  {
+    "id": "compounds-20",
+    "text": "ड्ड",
+    "label": "ड्ड",
+    "file": "assets/basics-audio/compounds-20.wav",
+    "phonemes": "ɖɖ_ˈʌ",
+    "sampleRate": 22050,
+    "seconds": 0.30988662131519273,
+    "peak": 23179
+  },
+  {
+    "id": "compounds-21",
+    "text": "त्त",
+    "label": "त्त",
+    "file": "assets/basics-audio/compounds-21.wav",
+    "phonemes": "tː_ˈʌ",
+    "sampleRate": 22050,
+    "seconds": 0.3893877551020408,
+    "peak": 21467
+  },
+  {
+    "id": "compounds-22",
+    "text": "त्व",
+    "label": "त्व",
+    "file": "assets/basics-audio/compounds-22.wav",
+    "phonemes": "t_ʋ_ˈʌ",
+    "sampleRate": 22050,
+    "seconds": 0.4350566893424036,
+    "peak": 23004
+  },
+  {
+    "id": "compounds-23",
+    "text": "त्य",
+    "label": "त्य",
+    "file": "assets/basics-audio/compounds-23.wav",
+    "phonemes": "tː_j_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.47528344671201816,
+    "peak": 18025
+  },
+  {
+    "id": "compounds-24",
+    "text": "द्द",
+    "label": "द्द",
+    "file": "assets/basics-audio/compounds-24.wav",
+    "phonemes": "dː_ˈʌ",
+    "sampleRate": 22050,
+    "seconds": 0.3,
+    "peak": 23349
+  },
+  {
+    "id": "compounds-25",
+    "text": "द्ध",
+    "label": "द्ध",
+    "file": "assets/basics-audio/compounds-25.wav",
+    "phonemes": "dʰː_ˈʌ",
+    "sampleRate": 22050,
+    "seconds": 0.33179138321995466,
+    "peak": 23062
+  },
+  {
+    "id": "compounds-26",
+    "text": "द्य",
+    "label": "द्य",
+    "file": "assets/basics-audio/compounds-26.wav",
+    "phonemes": "d_j_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.3149659863945578,
+    "peak": 18030
+  },
+  {
+    "id": "compounds-27",
+    "text": "द्व",
+    "label": "द्व",
+    "file": "assets/basics-audio/compounds-27.wav",
+    "phonemes": "d_ʋ_ˈʌ",
+    "sampleRate": 22050,
+    "seconds": 0.36689342403628117,
+    "peak": 21439
+  },
+  {
+    "id": "compounds-28",
+    "text": "ध्य",
+    "label": "ध्य",
+    "file": "assets/basics-audio/compounds-28.wav",
+    "phonemes": "dʰ_j_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.32412698412698415,
+    "peak": 17745
+  },
+  {
+    "id": "compounds-29",
+    "text": "न्त",
+    "label": "न्त",
+    "file": "assets/basics-audio/compounds-29.wav",
+    "phonemes": "n_t_ˈʌ",
+    "sampleRate": 22050,
+    "seconds": 0.32866213151927437,
+    "peak": 21623
+  },
+  {
+    "id": "compounds-30",
+    "text": "न्द",
+    "label": "न्द",
+    "file": "assets/basics-audio/compounds-30.wav",
+    "phonemes": "n_d_ˈʌ",
+    "sampleRate": 22050,
+    "seconds": 0.2671655328798186,
+    "peak": 23100
+  },
+  {
+    "id": "compounds-31",
+    "text": "न्ध",
+    "label": "न्ध",
+    "file": "assets/basics-audio/compounds-31.wav",
+    "phonemes": "n_dʰ_ˈʌ",
+    "sampleRate": 22050,
+    "seconds": 0.2980045351473923,
+    "peak": 22453
+  },
+  {
+    "id": "compounds-32",
+    "text": "न्न",
+    "label": "न्न",
+    "file": "assets/basics-audio/compounds-32.wav",
+    "phonemes": "n_n_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.29886621315192746,
+    "peak": 18316
+  },
+  {
+    "id": "compounds-33",
+    "text": "न्य",
+    "label": "न्य",
+    "file": "assets/basics-audio/compounds-33.wav",
+    "phonemes": "n_j_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.3383673469387755,
+    "peak": 18313
+  },
+  {
+    "id": "compounds-34",
+    "text": "प्त",
+    "label": "प्त",
+    "file": "assets/basics-audio/compounds-34.wav",
+    "phonemes": "p_t_ˈʌ",
+    "sampleRate": 22050,
+    "seconds": 0.36680272108843537,
+    "peak": 21262
+  },
+  {
+    "id": "compounds-35",
+    "text": "प्र",
+    "label": "प्र",
+    "file": "assets/basics-audio/compounds-35.wav",
+    "phonemes": "p_ɾ_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.32639455782312926,
+    "peak": 18339
+  },
+  {
+    "id": "compounds-36",
+    "text": "प्ल",
+    "label": "प्ल",
+    "file": "assets/basics-audio/compounds-36.wav",
+    "phonemes": "p_l_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.35537414965986397,
+    "peak": 18198
+  },
+  {
+    "id": "compounds-37",
+    "text": "प्य",
+    "label": "प्य",
+    "file": "assets/basics-audio/compounds-37.wav",
+    "phonemes": "pː_j_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.4794557823129252,
+    "peak": 18097
+  },
+  {
+    "id": "compounds-38",
+    "text": "ब्द",
+    "label": "ब्द",
+    "file": "assets/basics-audio/compounds-38.wav",
+    "phonemes": "b_d_ˈʌ",
+    "sampleRate": 22050,
+    "seconds": 0.30412698412698413,
+    "peak": 23441
+  },
+  {
+    "id": "compounds-39",
+    "text": "ब्र",
+    "label": "ब्र",
+    "file": "assets/basics-audio/compounds-39.wav",
+    "phonemes": "b_ɾ_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.24281179138321995,
+    "peak": 18094
+  },
+  {
+    "id": "compounds-40",
+    "text": "भ्य",
+    "label": "भ्य",
+    "file": "assets/basics-audio/compounds-40.wav",
+    "phonemes": "bʰ_j_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.3255328798185941,
+    "peak": 18372
+  },
+  {
+    "id": "compounds-41",
+    "text": "भ्र",
+    "label": "भ्र",
+    "file": "assets/basics-audio/compounds-41.wav",
+    "phonemes": "bʰ_ɾ_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.24058956916099775,
+    "peak": 17593
+  },
+  {
+    "id": "compounds-42",
+    "text": "म्ब",
+    "label": "म्ब",
+    "file": "assets/basics-audio/compounds-42.wav",
+    "phonemes": "m_b_ˈʌ",
+    "sampleRate": 22050,
+    "seconds": 0.2973696145124717,
+    "peak": 22829
+  },
+  {
+    "id": "compounds-43",
+    "text": "म्प",
+    "label": "म्प",
+    "file": "assets/basics-audio/compounds-43.wav",
+    "phonemes": "m_p_ˈʌ",
+    "sampleRate": 22050,
+    "seconds": 0.32031746031746033,
+    "peak": 22012
+  },
+  {
+    "id": "compounds-44",
+    "text": "म्म",
+    "label": "म्म",
+    "file": "assets/basics-audio/compounds-44.wav",
+    "phonemes": "m_m_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.2871201814058957,
+    "peak": 17744
+  },
+  {
+    "id": "compounds-45",
+    "text": "म्य",
+    "label": "म्य",
+    "file": "assets/basics-audio/compounds-45.wav",
+    "phonemes": "m_j_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.3487528344671202,
+    "peak": 18275
+  },
+  {
+    "id": "compounds-46",
+    "text": "ल्ल",
+    "label": "ल्ल",
+    "file": "assets/basics-audio/compounds-46.wav",
+    "phonemes": "l_l_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.3386394557823129,
+    "peak": 18284
+  },
+  {
+    "id": "compounds-47",
+    "text": "व्र",
+    "label": "व्र",
+    "file": "assets/basics-audio/compounds-47.wav",
+    "phonemes": "ʋ_ɾ_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.3231292517006803,
+    "peak": 17741
+  },
+  {
+    "id": "compounds-48",
+    "text": "श्च",
+    "label": "श्च",
+    "file": "assets/basics-audio/compounds-48.wav",
+    "phonemes": "ʃ_c_ˈʌ",
+    "sampleRate": 22050,
+    "seconds": 0.3675283446712018,
+    "peak": 21621
+  },
+  {
+    "id": "compounds-49",
+    "text": "श्व",
+    "label": "श्व",
+    "file": "assets/basics-audio/compounds-49.wav",
+    "phonemes": "ʃ_ʋ_ˈʌ",
+    "sampleRate": 22050,
+    "seconds": 0.4580045351473923,
+    "peak": 22606
+  },
+  {
+    "id": "compounds-50",
+    "text": "ष्ट",
+    "label": "ष्ट",
+    "file": "assets/basics-audio/compounds-50.wav",
+    "phonemes": "ʂ_ʈ_ˈʌ",
+    "sampleRate": 22050,
+    "seconds": 0.33859410430839004,
+    "peak": 21286
+  },
+  {
+    "id": "compounds-51",
+    "text": "ष्ठ",
+    "label": "ष्ठ",
+    "file": "assets/basics-audio/compounds-51.wav",
+    "phonemes": "ʂ_ʈʰ_ˈʌ",
+    "sampleRate": 22050,
+    "seconds": 0.3689342403628118,
+    "peak": 21942
+  },
+  {
+    "id": "compounds-52",
+    "text": "स्त",
+    "label": "स्त",
+    "file": "assets/basics-audio/compounds-52.wav",
+    "phonemes": "s_t_ˈʌ",
+    "sampleRate": 22050,
+    "seconds": 0.3379591836734694,
+    "peak": 21946
+  },
+  {
+    "id": "compounds-53",
+    "text": "स्थ",
+    "label": "स्थ",
+    "file": "assets/basics-audio/compounds-53.wav",
+    "phonemes": "s_tʰ_ˈʌ",
+    "sampleRate": 22050,
+    "seconds": 0.3449886621315193,
+    "peak": 21621
+  },
+  {
+    "id": "compounds-54",
+    "text": "स्न",
+    "label": "स्न",
+    "file": "assets/basics-audio/compounds-54.wav",
+    "phonemes": "s_n_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.36594104308390024,
+    "peak": 17814
+  },
+  {
+    "id": "compounds-55",
+    "text": "स्म",
+    "label": "स्म",
+    "file": "assets/basics-audio/compounds-55.wav",
+    "phonemes": "s_m_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.3733786848072562,
+    "peak": 18251
+  },
+  {
+    "id": "compounds-56",
+    "text": "स्व",
+    "label": "स्व",
+    "file": "assets/basics-audio/compounds-56.wav",
+    "phonemes": "s_ʋ_ˈʌ",
+    "sampleRate": 22050,
+    "seconds": 0.43342403628117915,
+    "peak": 22776
+  },
+  {
+    "id": "compounds-57",
+    "text": "ह्म",
+    "label": "ह्म",
+    "file": "assets/basics-audio/compounds-57.wav",
+    "phonemes": "h_m_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.3620408163265306,
+    "peak": 17658
+  },
+  {
+    "id": "compounds-58",
+    "text": "ह्न",
+    "label": "ह्न",
+    "file": "assets/basics-audio/compounds-58.wav",
+    "phonemes": "h_n_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.3546938775510204,
+    "peak": 17743
+  },
+  {
+    "id": "compounds-59",
+    "text": "ह्य",
+    "label": "ह्य",
+    "file": "assets/basics-audio/compounds-59.wav",
+    "phonemes": "h_j_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.3598639455782313,
+    "peak": 17957
+  },
+  {
+    "id": "compounds-60",
+    "text": "र्क",
+    "label": "र्क",
+    "file": "assets/basics-audio/compounds-60.wav",
+    "phonemes": "r_k_ˈʌ",
+    "sampleRate": 22050,
+    "seconds": 0.38222222222222224,
+    "peak": 21934
+  },
+  {
+    "id": "compounds-61",
+    "text": "र्मअ",
+    "label": "र्म",
+    "file": "assets/basics-audio/compounds-61.wav",
+    "phonemes": "r_m_ˈʌ",
+    "sampleRate": 22050,
+    "seconds": 0.3395918367346939,
+    "peak": 22645
+  },
+  {
+    "id": "compounds-62",
+    "text": "र्त",
+    "label": "र्त",
+    "file": "assets/basics-audio/compounds-62.wav",
+    "phonemes": "r_t_ˈʌ",
+    "sampleRate": 22050,
+    "seconds": 0.35895691609977326,
+    "peak": 22036
+  },
+  {
+    "id": "compounds-63",
+    "text": "र्द",
+    "label": "र्द",
+    "file": "assets/basics-audio/compounds-63.wav",
+    "phonemes": "r_d_ˈʌ",
+    "sampleRate": 22050,
+    "seconds": 0.30467120181405893,
+    "peak": 22926
+  },
+  {
+    "id": "compounds-64",
+    "text": "र्ण",
+    "label": "र्ण",
+    "file": "assets/basics-audio/compounds-64.wav",
+    "phonemes": "r_ɳ_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.3075736961451247,
+    "peak": 17707
+  },
+  {
+    "id": "compounds-65",
+    "text": "ष्ण",
+    "label": "ष्ण",
+    "file": "assets/basics-audio/compounds-65.wav",
+    "phonemes": "ʂ_ɳ_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.39727891156462586,
+    "peak": 17605
+  },
+  {
+    "id": "compounds-66",
+    "text": "ष्म",
+    "label": "ष्म",
+    "file": "assets/basics-audio/compounds-66.wav",
+    "phonemes": "ʂ_m_ˈə",
+    "sampleRate": 22050,
+    "seconds": 0.397687074829932,
+    "peak": 17795
+  },
+  {
+    "id": "number-001",
+    "text": "एक",
+    "label": "एक",
+    "file": "assets/basics-audio/number-001.wav",
+    "phonemes": "ˈeː_k",
+    "sampleRate": 22050,
+    "seconds": 0.36448979591836733,
+    "peak": 24465
+  },
+  {
+    "id": "number-002",
+    "text": "दो",
+    "label": "दो",
+    "file": "assets/basics-audio/number-002.wav",
+    "phonemes": "d_ˈoː",
+    "sampleRate": 22050,
+    "seconds": 0.32997732426303855,
+    "peak": 18831
+  },
+  {
+    "id": "number-003",
+    "text": "तीन",
+    "label": "तीन",
+    "file": "assets/basics-audio/number-003.wav",
+    "phonemes": "t_ˈiː_n",
+    "sampleRate": 22050,
+    "seconds": 0.5109297052154195,
+    "peak": 14966
+  },
+  {
+    "id": "number-004",
+    "text": "चार",
+    "label": "चार",
+    "file": "assets/basics-audio/number-004.wav",
+    "phonemes": "c_ˈaː_ɾ",
+    "sampleRate": 22050,
+    "seconds": 0.4106575963718821,
+    "peak": 23031
+  },
+  {
+    "id": "number-005",
+    "text": "पाँच",
+    "label": "पाँच",
+    "file": "assets/basics-audio/number-005.wav",
+    "phonemes": "p_ˈã_n_c",
+    "sampleRate": 22050,
+    "seconds": 0.5484353741496598,
+    "peak": 14862
+  },
+  {
+    "id": "number-006",
+    "text": "छह",
+    "label": "छह",
+    "file": "assets/basics-audio/number-006.wav",
+    "phonemes": "cʰ_ˈʌ_h",
+    "sampleRate": 22050,
+    "seconds": 0.43605442176870746,
+    "peak": 23957
+  },
+  {
+    "id": "number-007",
+    "text": "सात",
+    "label": "सात",
+    "file": "assets/basics-audio/number-007.wav",
+    "phonemes": "s_ˈaː_t",
+    "sampleRate": 22050,
+    "seconds": 0.45174603174603173,
+    "peak": 23308
+  },
+  {
+    "id": "number-008",
+    "text": "आठ",
+    "label": "आठ",
+    "file": "assets/basics-audio/number-008.wav",
+    "phonemes": "ˈaː_ʈʰ",
+    "sampleRate": 22050,
+    "seconds": 0.3672562358276644,
+    "peak": 22976
+  },
+  {
+    "id": "number-009",
+    "text": "नौ",
+    "label": "नौ",
+    "file": "assets/basics-audio/number-009.wav",
+    "phonemes": "n_ˈɔː",
+    "sampleRate": 22050,
+    "seconds": 0.36793650793650795,
+    "peak": 22790
+  },
+  {
+    "id": "number-010",
+    "text": "दस",
+    "label": "दस",
+    "file": "assets/basics-audio/number-010.wav",
+    "phonemes": "d_ˈʌ_s",
+    "sampleRate": 22050,
+    "seconds": 0.3566893424036281,
+    "peak": 24925
+  },
+  {
+    "id": "number-011",
+    "text": "ग्यारह",
+    "label": "ग्यारह",
+    "file": "assets/basics-audio/number-011.wav",
+    "phonemes": "ɡ_j_ˈaː_ɾ_ə_h",
+    "sampleRate": 22050,
+    "seconds": 0.5142403628117914,
+    "peak": 19402
+  },
+  {
+    "id": "number-012",
+    "text": "बारह",
+    "label": "बारह",
+    "file": "assets/basics-audio/number-012.wav",
+    "phonemes": "b_ˈaː_ɾ_ə_h",
+    "sampleRate": 22050,
+    "seconds": 0.4776417233560091,
+    "peak": 20655
+  },
+  {
+    "id": "number-013",
+    "text": "तेरह",
+    "label": "तेरह",
+    "file": "assets/basics-audio/number-013.wav",
+    "phonemes": "t_ˈeː_ɾ_ə_h",
+    "sampleRate": 22050,
+    "seconds": 0.5244897959183673,
+    "peak": 23797
+  },
+  {
+    "id": "number-014",
+    "text": "चौदह",
+    "label": "चौदह",
+    "file": "assets/basics-audio/number-014.wav",
+    "phonemes": "c_ˈɔː_d_ə_h",
+    "sampleRate": 22050,
+    "seconds": 0.5987755102040816,
+    "peak": 23845
+  },
+  {
+    "id": "number-015",
+    "text": "पंद्रह",
+    "label": "पंद्रह",
+    "file": "assets/basics-audio/number-015.wav",
+    "phonemes": "p_ˈʌ_n_d_ɾ_ə_h",
+    "sampleRate": 22050,
+    "seconds": 0.6100226757369615,
+    "peak": 24180
+  },
+  {
+    "id": "number-016",
+    "text": "सोलह",
+    "label": "सोलह",
+    "file": "assets/basics-audio/number-016.wav",
+    "phonemes": "s_ˈoː_l_ə_h",
+    "sampleRate": 22050,
+    "seconds": 0.5856235827664399,
+    "peak": 18538
+  },
+  {
+    "id": "number-017",
+    "text": "सत्रह",
+    "label": "सत्रह",
+    "file": "assets/basics-audio/number-017.wav",
+    "phonemes": "s_ˈʌ_t_ɾ_ə_h",
+    "sampleRate": 22050,
+    "seconds": 0.5356462585034013,
+    "peak": 23767
+  },
+  {
+    "id": "number-018",
+    "text": "अठारह",
+    "label": "अठारह",
+    "file": "assets/basics-audio/number-018.wav",
+    "phonemes": "ʌ_ʈʰ_ˈaː_ɾ_ə_h",
+    "sampleRate": 22050,
+    "seconds": 0.6341496598639456,
+    "peak": 23272
+  },
+  {
+    "id": "number-019",
+    "text": "उन्नीस",
+    "label": "उन्नीस",
+    "file": "assets/basics-audio/number-019.wav",
+    "phonemes": "ʊ_n_n_ˈiː_s",
+    "sampleRate": 22050,
+    "seconds": 0.6588208616780046,
+    "peak": 15121
+  },
+  {
+    "id": "number-020",
+    "text": "बीस",
+    "label": "बीस",
+    "file": "assets/basics-audio/number-020.wav",
+    "phonemes": "b_ˈiː_s",
+    "sampleRate": 22050,
+    "seconds": 0.47836734693877553,
+    "peak": 14902
+  },
+  {
+    "id": "number-021",
+    "text": "इक्कीस",
+    "label": "इक्कीस",
+    "file": "assets/basics-audio/number-021.wav",
+    "phonemes": "ɪ_kː_ˈiː_s",
+    "sampleRate": 22050,
+    "seconds": 0.6687074829931973,
+    "peak": 17138
+  },
+  {
+    "id": "number-022",
+    "text": "बाईस",
+    "label": "बाईस",
+    "file": "assets/basics-audio/number-022.wav",
+    "phonemes": "b_aː_ˈiː_s",
+    "sampleRate": 22050,
+    "seconds": 0.5845804988662131,
+    "peak": 16835
+  },
+  {
+    "id": "number-023",
+    "text": "तेईस",
+    "label": "तेईस",
+    "file": "assets/basics-audio/number-023.wav",
+    "phonemes": "t_eː_ˈiː_s",
+    "sampleRate": 22050,
+    "seconds": 0.6257142857142857,
+    "peak": 19021
+  },
+  {
+    "id": "number-024",
+    "text": "चौबीस",
+    "label": "चौबीस",
+    "file": "assets/basics-audio/number-024.wav",
+    "phonemes": "c_ɔː_b_ˈiː_s",
+    "sampleRate": 22050,
+    "seconds": 0.7583673469387755,
+    "peak": 17656
+  },
+  {
+    "id": "number-025",
+    "text": "पच्चीस",
+    "label": "पच्चीस",
+    "file": "assets/basics-audio/number-025.wav",
+    "phonemes": "p_ə_cː_ˈiː_s",
+    "sampleRate": 22050,
+    "seconds": 0.7745124716553288,
+    "peak": 15071
+  },
+  {
+    "id": "number-026",
+    "text": "छब्बीस",
+    "label": "छब्बीस",
+    "file": "assets/basics-audio/number-026.wav",
+    "phonemes": "cʰ_ə_b_b_ˈiː_s",
+    "sampleRate": 22050,
+    "seconds": 0.8179138321995465,
+    "peak": 19881
+  },
+  {
+    "id": "number-027",
+    "text": "सत्ताईस",
+    "label": "सत्ताईस",
+    "file": "assets/basics-audio/number-027.wav",
+    "phonemes": "s_ˌə_tː_aː_ˈiː_s",
+    "sampleRate": 22050,
+    "seconds": 0.9185487528344671,
+    "peak": 17161
+  },
+  {
+    "id": "number-028",
+    "text": "अट्ठाईस",
+    "label": "अट्ठाईस",
+    "file": "assets/basics-audio/number-028.wav",
+    "phonemes": "ˌʌ_ʈʰʈʰ_aː_ˈiː_s",
+    "sampleRate": 22050,
+    "seconds": 0.8609977324263038,
+    "peak": 22262
+  },
+  {
+    "id": "number-029",
+    "text": "उनतीस",
+    "label": "उनतीस",
+    "file": "assets/basics-audio/number-029.wav",
+    "phonemes": "ˌʊ_n_t_ˈiː_s",
+    "sampleRate": 22050,
+    "seconds": 0.6343310657596372,
+    "peak": 17459
+  },
+  {
+    "id": "number-030",
+    "text": "तीस",
+    "label": "तीस",
+    "file": "assets/basics-audio/number-030.wav",
+    "phonemes": "t_ˈiː_s",
+    "sampleRate": 22050,
+    "seconds": 0.4927437641723356,
+    "peak": 15148
+  },
+  {
+    "id": "number-031",
+    "text": "इकतीस",
+    "label": "इकतीस",
+    "file": "assets/basics-audio/number-031.wav",
+    "phonemes": "ˌɪ_k_t_ˈiː_s",
+    "sampleRate": 22050,
+    "seconds": 0.658639455782313,
+    "peak": 18490
+  },
+  {
+    "id": "number-032",
+    "text": "बत्तीस",
+    "label": "बत्तीस",
+    "file": "assets/basics-audio/number-032.wav",
+    "phonemes": "b_ə_tː_ˈiː_s",
+    "sampleRate": 22050,
+    "seconds": 0.7249886621315192,
+    "peak": 15178
+  },
+  {
+    "id": "number-033",
+    "text": "तैंतीस",
+    "label": "तैंतीस",
+    "file": "assets/basics-audio/number-033.wav",
+    "phonemes": "t_ɛ̃_t_ˈiː_s",
+    "sampleRate": 22050,
+    "seconds": 0.695374149659864,
+    "peak": 17725
+  },
+  {
+    "id": "number-034",
+    "text": "चौंतीस",
+    "label": "चौंतीस",
+    "file": "assets/basics-audio/number-034.wav",
+    "phonemes": "c_ɔ̃_t_ˈiː_s",
+    "sampleRate": 22050,
+    "seconds": 0.7190022675736961,
+    "peak": 15224
+  },
+  {
+    "id": "number-035",
+    "text": "पैंतीस",
+    "label": "पैंतीस",
+    "file": "assets/basics-audio/number-035.wav",
+    "phonemes": "p_ɛ̃_t_ˈiː_s",
+    "sampleRate": 22050,
+    "seconds": 0.6995918367346938,
+    "peak": 17710
+  },
+  {
+    "id": "number-036",
+    "text": "छत्तीस",
+    "label": "छत्तीस",
+    "file": "assets/basics-audio/number-036.wav",
+    "phonemes": "cʰ_ə_tː_ˈiː_s",
+    "sampleRate": 22050,
+    "seconds": 0.8175510204081633,
+    "peak": 18055
+  },
+  {
+    "id": "number-037",
+    "text": "सैंतीस",
+    "label": "सैंतीस",
+    "file": "assets/basics-audio/number-037.wav",
+    "phonemes": "s_ɛ̃_t_ˈiː_s",
+    "sampleRate": 22050,
+    "seconds": 0.720453514739229,
+    "peak": 17603
+  },
+  {
+    "id": "number-038",
+    "text": "अड़तीस",
+    "label": "अड़तीस",
+    "file": "assets/basics-audio/number-038.wav",
+    "phonemes": "ˌʌ_r._t_ˈiː_s",
+    "sampleRate": 22050,
+    "seconds": 0.6552834467120181,
+    "peak": 22457
+  },
+  {
+    "id": "number-039",
+    "text": "उनतालीस",
+    "label": "उनतालीस",
+    "file": "assets/basics-audio/number-039.wav",
+    "phonemes": "ˌʊ_n_t_aː_l_ˈiː_s",
+    "sampleRate": 22050,
+    "seconds": 0.8240816326530612,
+    "peak": 17896
+  },
+  {
+    "id": "number-040",
+    "text": "चालीस",
+    "label": "चालीस",
+    "file": "assets/basics-audio/number-040.wav",
+    "phonemes": "c_aː_l_ˈiː_s",
+    "sampleRate": 22050,
+    "seconds": 0.6907482993197279,
+    "peak": 16190
+  },
+  {
+    "id": "number-041",
+    "text": "इकतालीस",
+    "label": "इकतालीस",
+    "file": "assets/basics-audio/number-041.wav",
+    "phonemes": "ˌɪ_k_t_aː_l_ˈiː_s",
+    "sampleRate": 22050,
+    "seconds": 0.835827664399093,
+    "peak": 18542
+  },
+  {
+    "id": "number-042",
+    "text": "बयालीस",
+    "label": "बयालीस",
+    "file": "assets/basics-audio/number-042.wav",
+    "phonemes": "b_ˌə_j_aː_l_ˈiː_s",
+    "sampleRate": 22050,
+    "seconds": 0.7723356009070295,
+    "peak": 22496
+  },
+  {
+    "id": "number-043",
+    "text": "तैंतालीस",
+    "label": "तैंतालीस",
+    "file": "assets/basics-audio/number-043.wav",
+    "phonemes": "t_ˌɛ̃_t_aː_l_ˈiː_s",
+    "sampleRate": 22050,
+    "seconds": 0.8945124716553288,
+    "peak": 21533
+  },
+  {
+    "id": "number-044",
+    "text": "चवालीस",
+    "label": "चवालीस",
+    "file": "assets/basics-audio/number-044.wav",
+    "phonemes": "c_ˌə_ʋ_aː_l_ˈiː_s",
+    "sampleRate": 22050,
+    "seconds": 0.8667120181405896,
+    "peak": 18263
+  },
+  {
+    "id": "number-045",
+    "text": "पैंतालीस",
+    "label": "पैंतालीस",
+    "file": "assets/basics-audio/number-045.wav",
+    "phonemes": "p_ˌɛ̃_t_aː_l_ˈiː_s",
+    "sampleRate": 22050,
+    "seconds": 0.8990476190476191,
+    "peak": 21204
+  },
+  {
+    "id": "number-046",
+    "text": "छियालीस",
+    "label": "छियालीस",
+    "file": "assets/basics-audio/number-046.wav",
+    "phonemes": "cʰ_ˌɪ_j_aː_l_ˈiː_s",
+    "sampleRate": 22050,
+    "seconds": 0.8438548752834467,
+    "peak": 18848
+  },
+  {
+    "id": "number-047",
+    "text": "सैंतालीस",
+    "label": "सैंतालीस",
+    "file": "assets/basics-audio/number-047.wav",
+    "phonemes": "s_ˌɛ̃_t_aː_l_ˈiː_s",
+    "sampleRate": 22050,
+    "seconds": 0.919047619047619,
+    "peak": 20467
+  },
+  {
+    "id": "number-048",
+    "text": "अड़तालीस",
+    "label": "अड़तालीस",
+    "file": "assets/basics-audio/number-048.wav",
+    "phonemes": "ˌʌ_r._t_aː_l_ˈiː_s",
+    "sampleRate": 22050,
+    "seconds": 0.8450340136054422,
+    "peak": 22449
+  },
+  {
+    "id": "number-049",
+    "text": "उनचास",
+    "label": "उनचास",
+    "file": "assets/basics-audio/number-049.wav",
+    "phonemes": "ˌʊ_n_c_ˈaː_s",
+    "sampleRate": 22050,
+    "seconds": 0.6356462585034014,
+    "peak": 23501
+  },
+  {
+    "id": "number-050",
+    "text": "पचास",
+    "label": "पचास",
+    "file": "assets/basics-audio/number-050.wav",
+    "phonemes": "p_ə_c_ˈaː_s",
+    "sampleRate": 22050,
+    "seconds": 0.6496598639455783,
+    "peak": 23217
+  },
+  {
+    "id": "number-051",
+    "text": "इक्यावन",
+    "label": "इक्यावन",
+    "file": "assets/basics-audio/number-051.wav",
+    "phonemes": "ɪ_kː_j_ˈaː_ʋ_ə_n",
+    "sampleRate": 22050,
+    "seconds": 0.8767800453514739,
+    "peak": 18932
+  },
+  {
+    "id": "number-052",
+    "text": "बावन",
+    "label": "बावन",
+    "file": "assets/basics-audio/number-052.wav",
+    "phonemes": "b_ˈaː_ʋ_ə_n",
+    "sampleRate": 22050,
+    "seconds": 0.6066666666666667,
+    "peak": 21025
+  },
+  {
+    "id": "number-053",
+    "text": "तिरपन",
+    "label": "तिरपन",
+    "file": "assets/basics-audio/number-053.wav",
+    "phonemes": "t_ˈɪ_ɾ_ə_p_ˌə_n",
+    "sampleRate": 22050,
+    "seconds": 0.6752380952380952,
+    "peak": 20743
+  },
+  {
+    "id": "number-054",
+    "text": "चौवन",
+    "label": "चौवन",
+    "file": "assets/basics-audio/number-054.wav",
+    "phonemes": "c_ˈɔː_ʋ_ə_n",
+    "sampleRate": 22050,
+    "seconds": 0.6658503401360544,
+    "peak": 23593
+  },
+  {
+    "id": "number-055",
+    "text": "पचपन",
+    "label": "पचपन",
+    "file": "assets/basics-audio/number-055.wav",
+    "phonemes": "p_ˈʌ_c_ə_p_ˌə_n",
+    "sampleRate": 22050,
+    "seconds": 0.7545578231292517,
+    "peak": 24610
+  },
+  {
+    "id": "number-056",
+    "text": "छप्पन",
+    "label": "छप्पन",
+    "file": "assets/basics-audio/number-056.wav",
+    "phonemes": "cʰ_ˈʌ_pː_ə_n",
+    "sampleRate": 22050,
+    "seconds": 0.7311111111111112,
+    "peak": 23060
+  },
+  {
+    "id": "number-057",
+    "text": "सत्तावन",
+    "label": "सत्तावन",
+    "file": "assets/basics-audio/number-057.wav",
+    "phonemes": "s_ə_tː_ˈaː_ʋ_ə_n",
+    "sampleRate": 22050,
+    "seconds": 0.9227210884353741,
+    "peak": 22797
+  },
+  {
+    "id": "number-058",
+    "text": "अट्ठावन",
+    "label": "अट्ठावन",
+    "file": "assets/basics-audio/number-058.wav",
+    "phonemes": "ʌ_ʈʰʈʰ_ˈaː_ʋ_ə_n",
+    "sampleRate": 22050,
+    "seconds": 0.8537414965986394,
+    "peak": 22814
+  },
+  {
+    "id": "number-059",
+    "text": "उनसठ",
+    "label": "उनसठ",
+    "file": "assets/basics-audio/number-059.wav",
+    "phonemes": "ˈʊ_n_ə_s_ˌə_ʈʰ",
+    "sampleRate": 22050,
+    "seconds": 0.5989115646258504,
+    "peak": 20995
+  },
+  {
+    "id": "number-060",
+    "text": "साठ",
+    "label": "साठ",
+    "file": "assets/basics-audio/number-060.wav",
+    "phonemes": "s_ˈaː_ʈʰ",
+    "sampleRate": 22050,
+    "seconds": 0.47419501133786846,
+    "peak": 23147
+  },
+  {
+    "id": "number-061",
+    "text": "इकसठ",
+    "label": "इकसठ",
+    "file": "assets/basics-audio/number-061.wav",
+    "phonemes": "ˈɪ_k_ə_s_ˌə_ʈʰ",
+    "sampleRate": 22050,
+    "seconds": 0.6245351473922902,
+    "peak": 21135
+  },
+  {
+    "id": "number-062",
+    "text": "बासठ",
+    "label": "बासठ",
+    "file": "assets/basics-audio/number-062.wav",
+    "phonemes": "b_ˈaː_s_ə_ʈʰ",
+    "sampleRate": 22050,
+    "seconds": 0.5951927437641723,
+    "peak": 21459
+  },
+  {
+    "id": "number-063",
+    "text": "तिरसठ",
+    "label": "तिरसठ",
+    "file": "assets/basics-audio/number-063.wav",
+    "phonemes": "t_ˈɪ_ɾ_ə_s_ˌə_ʈʰ",
+    "sampleRate": 22050,
+    "seconds": 0.63718820861678,
+    "peak": 19379
+  },
+  {
+    "id": "number-064",
+    "text": "चौंसठ",
+    "label": "चौंसठ",
+    "file": "assets/basics-audio/number-064.wav",
+    "phonemes": "c_ˈɔ̃_s_ə_ʈʰ",
+    "sampleRate": 22050,
+    "seconds": 0.6538321995464853,
+    "peak": 19387
+  },
+  {
+    "id": "number-065",
+    "text": "पैंसठ",
+    "label": "पैंसठ",
+    "file": "assets/basics-audio/number-065.wav",
+    "phonemes": "p_ˈɛ̃_s_ə_ʈʰ",
+    "sampleRate": 22050,
+    "seconds": 0.6477097505668934,
+    "peak": 22346
+  },
+  {
+    "id": "number-066",
+    "text": "छियासठ",
+    "label": "छियासठ",
+    "file": "assets/basics-audio/number-066.wav",
+    "phonemes": "cʰ_ɪ_j_ˈaː_s_ə_ʈʰ",
+    "sampleRate": 22050,
+    "seconds": 0.7871655328798186,
+    "peak": 19828
+  },
+  {
+    "id": "number-067",
+    "text": "सड़सठ",
+    "label": "सड़सठ",
+    "file": "assets/basics-audio/number-067.wav",
+    "phonemes": "s_ˈʌ_r._ə_s_ˌə_ʈʰ",
+    "sampleRate": 22050,
+    "seconds": 0.7042176870748299,
+    "peak": 23703
+  },
+  {
+    "id": "number-068",
+    "text": "अड़सठ",
+    "label": "अड़सठ",
+    "file": "assets/basics-audio/number-068.wav",
+    "phonemes": "ˈʌ_r._ə_s_ˌə_ʈʰ",
+    "sampleRate": 22050,
+    "seconds": 0.5983673469387755,
+    "peak": 24631
+  },
+  {
+    "id": "number-069",
+    "text": "उनहत्तर",
+    "label": "उनहत्तर",
+    "file": "assets/basics-audio/number-069.wav",
+    "phonemes": "ˌʊ_n_ə_h_ˈʌ_tː_ə_ɾ",
+    "sampleRate": 22050,
+    "seconds": 0.7706575963718821,
+    "peak": 23122
+  },
+  {
+    "id": "number-070",
+    "text": "सत्तर",
+    "label": "सत्तर",
+    "file": "assets/basics-audio/number-070.wav",
+    "phonemes": "s_ˈʌ_tː_ə_ɾ",
+    "sampleRate": 22050,
+    "seconds": 0.6056689342403628,
+    "peak": 24392
+  },
+  {
+    "id": "number-071",
+    "text": "इकहत्तर",
+    "label": "इकहत्तर",
+    "file": "assets/basics-audio/number-071.wav",
+    "phonemes": "ˌɪ_k_ə_h_ˈʌ_tː_ə_ɾ",
+    "sampleRate": 22050,
+    "seconds": 0.8126530612244898,
+    "peak": 22426
+  },
+  {
+    "id": "number-072",
+    "text": "बहत्तर",
+    "label": "बहत्तर",
+    "file": "assets/basics-audio/number-072.wav",
+    "phonemes": "b_ə_h_ˈʌ_tː_ə_ɾ",
+    "sampleRate": 22050,
+    "seconds": 0.7049433106575964,
+    "peak": 23221
+  },
+  {
+    "id": "number-073",
+    "text": "तिहत्तर",
+    "label": "तिहत्तर",
+    "file": "assets/basics-audio/number-073.wav",
+    "phonemes": "t_ɪ_h_ˈʌ_tː_ə_ɾ",
+    "sampleRate": 22050,
+    "seconds": 0.7058049886621315,
+    "peak": 22210
+  },
+  {
+    "id": "number-074",
+    "text": "चौहत्तर",
+    "label": "चौहत्तर",
+    "file": "assets/basics-audio/number-074.wav",
+    "phonemes": "c_ɔː_h_ˈʌ_tː_ə_ɾ",
+    "sampleRate": 22050,
+    "seconds": 0.8012698412698412,
+    "peak": 22132
+  },
+  {
+    "id": "number-075",
+    "text": "पचहत्तर",
+    "label": "पचहत्तर",
+    "file": "assets/basics-audio/number-075.wav",
+    "phonemes": "p_ˌə_c_ə_h_ˈʌ_tː_ə_ɾ",
+    "sampleRate": 22050,
+    "seconds": 0.9183219954648526,
+    "peak": 23019
+  },
+  {
+    "id": "number-076",
+    "text": "छिहत्तर",
+    "label": "छिहत्तर",
+    "file": "assets/basics-audio/number-076.wav",
+    "phonemes": "cʰ_ɪ_h_ˈʌ_tː_ə_ɾ",
+    "sampleRate": 22050,
+    "seconds": 0.7656235827664399,
+    "peak": 23454
+  },
+  {
+    "id": "number-077",
+    "text": "सतहत्तर",
+    "label": "सतहत्तर",
+    "file": "assets/basics-audio/number-077.wav",
+    "phonemes": "s_ˌə_t_ə_h_ˈʌ_tː_ə_ɾ",
+    "sampleRate": 22050,
+    "seconds": 0.9262585034013605,
+    "peak": 23308
+  },
+  {
+    "id": "number-078",
+    "text": "अठहत्तर",
+    "label": "अठहत्तर",
+    "file": "assets/basics-audio/number-078.wav",
+    "phonemes": "ˌʌ_ʈʰ_ə_h_ˈʌ_tː_ə_ɾ",
+    "sampleRate": 22050,
+    "seconds": 0.8679365079365079,
+    "peak": 22286
+  },
+  {
+    "id": "number-079",
+    "text": "उन्नासी",
+    "label": "उन्नासी",
+    "file": "assets/basics-audio/number-079.wav",
+    "phonemes": "ʊ_n_n_ˈaː_s_i",
+    "sampleRate": 22050,
+    "seconds": 0.7470294784580499,
+    "peak": 19589
+  },
+  {
+    "id": "number-080",
+    "text": "अस्सी",
+    "label": "अस्सी",
+    "file": "assets/basics-audio/number-080.wav",
+    "phonemes": "ˈʌ_s_s_i",
+    "sampleRate": 22050,
+    "seconds": 0.533968253968254,
+    "peak": 23162
+  },
+  {
+    "id": "number-081",
+    "text": "इक्यासी",
+    "label": "इक्यासी",
+    "file": "assets/basics-audio/number-081.wav",
+    "phonemes": "ɪ_kː_j_ˈaː_s_i",
+    "sampleRate": 22050,
+    "seconds": 0.8235827664399092,
+    "peak": 19944
+  },
+  {
+    "id": "number-082",
+    "text": "बयासी",
+    "label": "बयासी",
+    "file": "assets/basics-audio/number-082.wav",
+    "phonemes": "b_ə_j_ˈaː_s_i",
+    "sampleRate": 22050,
+    "seconds": 0.6834920634920635,
+    "peak": 20394
+  },
+  {
+    "id": "number-083",
+    "text": "तिरासी",
+    "label": "तिरासी",
+    "file": "assets/basics-audio/number-083.wav",
+    "phonemes": "t_ɪ_ɾ_ˈaː_s_i",
+    "sampleRate": 22050,
+    "seconds": 0.6991836734693877,
+    "peak": 21323
+  },
+  {
+    "id": "number-084",
+    "text": "चौरासी",
+    "label": "चौरासी",
+    "file": "assets/basics-audio/number-084.wav",
+    "phonemes": "c_ɔː_ɾ_ˈaː_s_i",
+    "sampleRate": 22050,
+    "seconds": 0.7940589569160997,
+    "peak": 21414
+  },
+  {
+    "id": "number-085",
+    "text": "पचासी",
+    "label": "पचासी",
+    "file": "assets/basics-audio/number-085.wav",
+    "phonemes": "p_ə_c_ˈaː_s_i",
+    "sampleRate": 22050,
+    "seconds": 0.7695238095238095,
+    "peak": 22924
+  },
+  {
+    "id": "number-086",
+    "text": "छियासी",
+    "label": "छियासी",
+    "file": "assets/basics-audio/number-086.wav",
+    "phonemes": "cʰ_ɪ_j_ˈaː_s_i",
+    "sampleRate": 22050,
+    "seconds": 0.7556462585034014,
+    "peak": 19928
+  },
+  {
+    "id": "number-087",
+    "text": "सतासी",
+    "label": "सतासी",
+    "file": "assets/basics-audio/number-087.wav",
+    "phonemes": "s_ə_t_ˈaː_s_i",
+    "sampleRate": 22050,
+    "seconds": 0.7775056689342403,
+    "peak": 23099
+  },
+  {
+    "id": "number-088",
+    "text": "अट्ठासी",
+    "label": "अट्ठासी",
+    "file": "assets/basics-audio/number-088.wav",
+    "phonemes": "ʌ_ʈʰʈʰ_ˈaː_s_i",
+    "sampleRate": 22050,
+    "seconds": 0.8116553287981859,
+    "peak": 22848
+  },
+  {
+    "id": "number-089",
+    "text": "नवासी",
+    "label": "नवासी",
+    "file": "assets/basics-audio/number-089.wav",
+    "phonemes": "n_ə_ʋ_ˈaː_s_i",
+    "sampleRate": 22050,
+    "seconds": 0.7476190476190476,
+    "peak": 21014
+  },
+  {
+    "id": "number-090",
+    "text": "नब्बे",
+    "label": "नब्बे",
+    "file": "assets/basics-audio/number-090.wav",
+    "phonemes": "n_ˈʌ_b_b_eː",
+    "sampleRate": 22050,
+    "seconds": 0.5693877551020409,
+    "peak": 24486
+  },
+  {
+    "id": "number-091",
+    "text": "इक्यानवे",
+    "label": "इक्यानवे",
+    "file": "assets/basics-audio/number-091.wav",
+    "phonemes": "ɪ_kː_j_ˈaː_n_ʋ_ˌeː",
+    "sampleRate": 22050,
+    "seconds": 0.9388208616780045,
+    "peak": 21486
+  },
+  {
+    "id": "number-092",
+    "text": "बानवे",
+    "label": "बानवे",
+    "file": "assets/basics-audio/number-092.wav",
+    "phonemes": "b_ˈaː_n_ʋ_ˌeː",
+    "sampleRate": 22050,
+    "seconds": 0.6677097505668934,
+    "peak": 22085
+  },
+  {
+    "id": "number-093",
+    "text": "तिरानवे",
+    "label": "तिरानवे",
+    "file": "assets/basics-audio/number-093.wav",
+    "phonemes": "t_ɪ_ɾ_ˈaː_n_ʋ_ˌeː",
+    "sampleRate": 22050,
+    "seconds": 0.8143764172335601,
+    "peak": 21581
+  },
+  {
+    "id": "number-094",
+    "text": "चौरानवे",
+    "label": "चौरानवे",
+    "file": "assets/basics-audio/number-094.wav",
+    "phonemes": "c_ɔː_ɾ_ˈaː_n_ʋ_ˌeː",
+    "sampleRate": 22050,
+    "seconds": 0.9094331065759638,
+    "peak": 21657
+  },
+  {
+    "id": "number-095",
+    "text": "पचानवे",
+    "label": "पचानवे",
+    "file": "assets/basics-audio/number-095.wav",
+    "phonemes": "p_ə_c_ˈaː_n_ʋ_ˌeː",
+    "sampleRate": 22050,
+    "seconds": 0.8720634920634921,
+    "peak": 21799
+  },
+  {
+    "id": "number-096",
+    "text": "छियानवे",
+    "label": "छियानवे",
+    "file": "assets/basics-audio/number-096.wav",
+    "phonemes": "cʰ_ɪ_j_ˈaː_n_ʋ_ˌeː",
+    "sampleRate": 22050,
+    "seconds": 0.8592290249433107,
+    "peak": 21689
+  },
+  {
+    "id": "number-097",
+    "text": "सत्तानवे",
+    "label": "सत्तानवे",
+    "file": "assets/basics-audio/number-097.wav",
+    "phonemes": "s_ə_tː_ˈaː_n_ʋ_ˌeː",
+    "sampleRate": 22050,
+    "seconds": 0.9826757369614513,
+    "peak": 21319
+  },
+  {
+    "id": "number-098",
+    "text": "अट्ठानवे",
+    "label": "अट्ठानवे",
+    "file": "assets/basics-audio/number-098.wav",
+    "phonemes": "ʌ_ʈʰʈʰ_ˈaː_n_ʋ_ˌeː",
+    "sampleRate": 22050,
+    "seconds": 0.9149206349206349,
+    "peak": 21530
+  },
+  {
+    "id": "number-099",
+    "text": "निन्यानवे",
+    "label": "निन्यानवे",
+    "file": "assets/basics-audio/number-099.wav",
+    "phonemes": "n_ɪ_n_j_ˈaː_n_ʋ_ˌeː",
+    "sampleRate": 22050,
+    "seconds": 0.8584126984126984,
+    "peak": 21823
+  },
+  {
+    "id": "number-100",
+    "text": "सौ",
+    "label": "सौ",
+    "file": "assets/basics-audio/number-100.wav",
+    "phonemes": "s_ˈɔː",
+    "sampleRate": 22050,
+    "seconds": 0.3887981859410431,
+    "peak": 21913
+  },
+  {
+    "id": "number-000",
+    "text": "शून्य",
+    "label": "शून्य",
+    "file": "assets/basics-audio/number-000.wav",
+    "phonemes": "ʃ_ˈuː_n_j_ə",
+    "sampleRate": 22050,
+    "seconds": 0.6327891156462585,
+    "peak": 14308
+  }
+]
