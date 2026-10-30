@@ -1,0 +1,31 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "जलदेवता नदी से बाहर आए।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 1.008541,
+      "text": "जलदेवता"
+    },
+    {
+      "start": 1.122708,
+      "duration": 0.454541,
+      "text": "नदी"
+    },
+    {
+      "start": 1.591458,
+      "duration": 0.227291,
+      "text": "से"
+    },
+    {
+      "start": 1.832958,
+      "duration": 0.454541,
+      "text": "बाहर"
+    },
+    {
+      "start": 2.301708,
+      "duration": 0.582375,
+      "text": "आए"
+    }
+  ]
+}

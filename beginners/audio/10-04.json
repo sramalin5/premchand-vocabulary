@@ -1,0 +1,41 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "वे बीच में मिलीं और लड़ने लगीं।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.355125,
+      "text": "वे"
+    },
+    {
+      "start": 0.469333,
+      "duration": 0.411916,
+      "text": "बीच"
+    },
+    {
+      "start": 0.895458,
+      "duration": 0.142041,
+      "text": "में"
+    },
+    {
+      "start": 1.051708,
+      "duration": 0.553958,
+      "text": "मिलीं"
+    },
+    {
+      "start": 1.619875,
+      "duration": 0.284083,
+      "text": "और"
+    },
+    {
+      "start": 1.918166,
+      "duration": 0.440333,
+      "text": "लड़ने"
+    },
+    {
+      "start": 2.372708,
+      "duration": 0.724416,
+      "text": "लगीं"
+    }
+  ]
+}

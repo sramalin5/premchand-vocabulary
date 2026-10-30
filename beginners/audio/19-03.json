@@ -1,0 +1,46 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "नमक घुल गया और बोरा हल्का हो गया।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.553958,
+      "text": "नमक"
+    },
+    {
+      "start": 0.668166,
+      "duration": 0.298291,
+      "text": "घुल"
+    },
+    {
+      "start": 0.980666,
+      "duration": 0.340916,
+      "text": "गया"
+    },
+    {
+      "start": 1.335791,
+      "duration": 0.298291,
+      "text": "और"
+    },
+    {
+      "start": 1.648291,
+      "duration": 0.383541,
+      "text": "बोरा"
+    },
+    {
+      "start": 2.046041,
+      "duration": 0.440333,
+      "text": "हल्का"
+    },
+    {
+      "start": 2.500583,
+      "duration": 0.198875,
+      "text": "हो"
+    },
+    {
+      "start": 2.713625,
+      "duration": 0.426125,
+      "text": "गया"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "वहाँ बहुत अच्छा खाना था।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.46875,
+      "text": "वहाँ"
+    },
+    {
+      "start": 0.582958,
+      "duration": 0.426125,
+      "text": "बहुत"
+    },
+    {
+      "start": 1.023291,
+      "duration": 0.397708,
+      "text": "अच्छा"
+    },
+    {
+      "start": 1.435208,
+      "duration": 0.440333,
+      "text": "खाना"
+    },
+    {
+      "start": 1.889791,
+      "duration": 0.411916,
+      "text": "था"
+    }
+  ]
+}

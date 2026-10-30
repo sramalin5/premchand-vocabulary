@@ -1,0 +1,31 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "लोमड़ी ने कहा, \"कौआ भाई!",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.667625,
+      "text": "लोमड़ी"
+    },
+    {
+      "start": 0.781833,
+      "duration": 0.15625,
+      "text": "ने"
+    },
+    {
+      "start": 0.952291,
+      "duration": 0.497166,
+      "text": "कहा"
+    },
+    {
+      "start": 1.676708,
+      "duration": 0.369333,
+      "text": "कौआ"
+    },
+    {
+      "start": 2.060208,
+      "duration": 0.625,
+      "text": "भाई"
+    }
+  ]
+}

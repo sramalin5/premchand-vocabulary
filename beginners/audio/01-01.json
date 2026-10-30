@@ -1,0 +1,31 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "एक शेर सो रहा था।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.355125,
+      "text": "एक"
+    },
+    {
+      "start": 0.469333,
+      "duration": 0.397708,
+      "text": "शेर"
+    },
+    {
+      "start": 0.88125,
+      "duration": 0.198875,
+      "text": "सो"
+    },
+    {
+      "start": 1.094333,
+      "duration": 0.3125,
+      "text": "रहा"
+    },
+    {
+      "start": 1.421041,
+      "duration": 0.383541,
+      "text": "था"
+    }
+  ]
+}

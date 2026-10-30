@@ -1,0 +1,21 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "उसने पनीर देखा।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.511375,
+      "text": "उसने"
+    },
+    {
+      "start": 0.625583,
+      "duration": 0.383541,
+      "text": "पनीर"
+    },
+    {
+      "start": 1.023291,
+      "duration": 0.582375,
+      "text": "देखा"
+    }
+  ]
+}

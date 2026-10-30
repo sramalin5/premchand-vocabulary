@@ -1,0 +1,41 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "उसने अपनी टोपी ज़मीन पर फेंक दी।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.525583,
+      "text": "उसने"
+    },
+    {
+      "start": 0.639791,
+      "duration": 0.426125,
+      "text": "अपनी"
+    },
+    {
+      "start": 1.080125,
+      "duration": 0.454541,
+      "text": "टोपी"
+    },
+    {
+      "start": 1.548875,
+      "duration": 0.440333,
+      "text": "ज़मीन"
+    },
+    {
+      "start": 2.003416,
+      "duration": 0.198875,
+      "text": "पर"
+    },
+    {
+      "start": 2.216458,
+      "duration": 0.426125,
+      "text": "फेंक"
+    },
+    {
+      "start": 2.656833,
+      "duration": 0.397708,
+      "text": "दी"
+    }
+  ]
+}

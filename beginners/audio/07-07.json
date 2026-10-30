@@ -1,0 +1,21 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "लड़का बहुत चिल्लाया।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.625,
+      "text": "लड़का"
+    },
+    {
+      "start": 0.739208,
+      "duration": 0.426125,
+      "text": "बहुत"
+    },
+    {
+      "start": 1.179541,
+      "duration": 0.767041,
+      "text": "चिल्लाया"
+    }
+  ]
+}

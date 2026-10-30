@@ -1,0 +1,31 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "सीख: झूठी तारीफ़ से बचो।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 1.022708,
+      "text": "सीख"
+    },
+    {
+      "start": 1.307375,
+      "duration": 0.667625,
+      "text": "झूठी"
+    },
+    {
+      "start": 1.989208,
+      "duration": 0.525583,
+      "text": "तारीफ़"
+    },
+    {
+      "start": 2.528958,
+      "duration": 0.198875,
+      "text": "से"
+    },
+    {
+      "start": 2.742041,
+      "duration": 0.625,
+      "text": "बचो"
+    }
+  ]
+}

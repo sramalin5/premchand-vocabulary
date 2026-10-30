@@ -1,0 +1,31 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "तुम बहुत अच्छा गाते हो।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.326708,
+      "text": "तुम"
+    },
+    {
+      "start": 0.440916,
+      "duration": 0.369333,
+      "text": "बहुत"
+    },
+    {
+      "start": 0.824416,
+      "duration": 0.383541,
+      "text": "अच्छा"
+    },
+    {
+      "start": 1.222166,
+      "duration": 0.326708,
+      "text": "गाते"
+    },
+    {
+      "start": 1.563083,
+      "duration": 0.454541,
+      "text": "हो"
+    }
+  ]
+}

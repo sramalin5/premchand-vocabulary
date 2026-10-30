@@ -1,0 +1,46 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "शेर हँसा और उसने चूहे को छोड़ दिया।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.511375,
+      "text": "शेर"
+    },
+    {
+      "start": 0.625583,
+      "duration": 0.511375,
+      "text": "हँसा"
+    },
+    {
+      "start": 1.151125,
+      "duration": 0.284083,
+      "text": "और"
+    },
+    {
+      "start": 1.449416,
+      "duration": 0.397708,
+      "text": "उसने"
+    },
+    {
+      "start": 1.861375,
+      "duration": 0.383541,
+      "text": "चूहे"
+    },
+    {
+      "start": 2.259083,
+      "duration": 0.255666,
+      "text": "को"
+    },
+    {
+      "start": 2.528958,
+      "duration": 0.369333,
+      "text": "छोड़"
+    },
+    {
+      "start": 2.9125,
+      "duration": 0.454541,
+      "text": "दिया"
+    }
+  ]
+}

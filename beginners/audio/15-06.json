@@ -1,0 +1,21 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "वह थक गई।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.397708,
+      "text": "वह"
+    },
+    {
+      "start": 0.511916,
+      "duration": 0.3125,
+      "text": "थक"
+    },
+    {
+      "start": 0.838625,
+      "duration": 0.568166,
+      "text": "गई"
+    }
+  ]
+}

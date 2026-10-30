@@ -1,0 +1,51 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "वह समझ गया कि वह जैसा है, अच्छा है।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.383541,
+      "text": "वह"
+    },
+    {
+      "start": 0.497708,
+      "duration": 0.440333,
+      "text": "समझ"
+    },
+    {
+      "start": 0.952291,
+      "duration": 0.326708,
+      "text": "गया"
+    },
+    {
+      "start": 1.293166,
+      "duration": 0.184666,
+      "text": "कि"
+    },
+    {
+      "start": 1.492041,
+      "duration": 0.326708,
+      "text": "वह"
+    },
+    {
+      "start": 1.832958,
+      "duration": 0.482958,
+      "text": "जैसा"
+    },
+    {
+      "start": 2.330125,
+      "duration": 0.326708,
+      "text": "है"
+    },
+    {
+      "start": 2.784666,
+      "duration": 0.46875,
+      "text": "अच्छा"
+    },
+    {
+      "start": 3.267625,
+      "duration": 0.3125,
+      "text": "है"
+    }
+  ]
+}

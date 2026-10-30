@@ -1,0 +1,31 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "एक आदमी टोपियाँ बेचता था।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.369333,
+      "text": "एक"
+    },
+    {
+      "start": 0.483541,
+      "duration": 0.482958,
+      "text": "आदमी"
+    },
+    {
+      "start": 0.980666,
+      "duration": 0.511375,
+      "text": "टोपियाँ"
+    },
+    {
+      "start": 1.50625,
+      "duration": 0.497166,
+      "text": "बेचता"
+    },
+    {
+      "start": 2.017625,
+      "duration": 0.411916,
+      "text": "था"
+    }
+  ]
+}

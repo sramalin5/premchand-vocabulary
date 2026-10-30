@@ -1,0 +1,46 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "उसने हाथी की सूंड में सुई चुभा दी।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.46875,
+      "text": "उसने"
+    },
+    {
+      "start": 0.582958,
+      "duration": 0.525583,
+      "text": "हाथी"
+    },
+    {
+      "start": 1.122708,
+      "duration": 0.184666,
+      "text": "की"
+    },
+    {
+      "start": 1.321583,
+      "duration": 0.383541,
+      "text": "सूंड"
+    },
+    {
+      "start": 1.719333,
+      "duration": 0.184666,
+      "text": "में"
+    },
+    {
+      "start": 1.918166,
+      "duration": 0.355125,
+      "text": "सुई"
+    },
+    {
+      "start": 2.2875,
+      "duration": 0.355125,
+      "text": "चुभा"
+    },
+    {
+      "start": 2.656833,
+      "duration": 0.397708,
+      "text": "दी"
+    }
+  ]
+}

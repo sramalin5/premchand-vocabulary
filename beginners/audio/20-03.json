@@ -1,0 +1,31 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "गाँव का चूहा शहर गया।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.539791,
+      "text": "गाँव"
+    },
+    {
+      "start": 0.653958,
+      "duration": 0.241458,
+      "text": "का"
+    },
+    {
+      "start": 0.909666,
+      "duration": 0.440333,
+      "text": "चूहा"
+    },
+    {
+      "start": 1.364208,
+      "duration": 0.454541,
+      "text": "शहर"
+    },
+    {
+      "start": 1.832958,
+      "duration": 0.46875,
+      "text": "गया"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "एक गाँव का चूहा था और एक शहर का चूहा था।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.397708,
+      "text": "एक"
+    },
+    {
+      "start": 0.511916,
+      "duration": 0.411916,
+      "text": "गाँव"
+    },
+    {
+      "start": 0.938083,
+      "duration": 0.213083,
+      "text": "का"
+    },
+    {
+      "start": 1.165333,
+      "duration": 0.454541,
+      "text": "चूहा"
+    },
+    {
+      "start": 1.634083,
+      "duration": 0.284083,
+      "text": "था"
+    },
+    {
+      "start": 1.932375,
+      "duration": 0.3125,
+      "text": "और"
+    },
+    {
+      "start": 2.259083,
+      "duration": 0.213083,
+      "text": "एक"
+    },
+    {
+      "start": 2.486375,
+      "duration": 0.440333,
+      "text": "शहर"
+    },
+    {
+      "start": 2.940916,
+      "duration": 0.198875,
+      "text": "का"
+    },
+    {
+      "start": 3.153958,
+      "duration": 0.397708,
+      "text": "चूहा"
+    },
+    {
+      "start": 3.565916,
+      "duration": 0.397708,
+      "text": "था"
+    }
+  ]
+}

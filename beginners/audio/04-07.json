@@ -1,0 +1,36 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "कोई भी उसे नहीं तोड़ सका।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.440333,
+      "text": "कोई"
+    },
+    {
+      "start": 0.554541,
+      "duration": 0.284083,
+      "text": "भी"
+    },
+    {
+      "start": 0.852833,
+      "duration": 0.340916,
+      "text": "उसे"
+    },
+    {
+      "start": 1.207958,
+      "duration": 0.340916,
+      "text": "नहीं"
+    },
+    {
+      "start": 1.563083,
+      "duration": 0.269875,
+      "text": "तोड़"
+    },
+    {
+      "start": 1.847166,
+      "duration": 0.525583,
+      "text": "सका"
+    }
+  ]
+}

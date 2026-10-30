@@ -1,0 +1,26 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "गधे को सबक मिला।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.525583,
+      "text": "गधे"
+    },
+    {
+      "start": 0.639791,
+      "duration": 0.227291,
+      "text": "को"
+    },
+    {
+      "start": 0.88125,
+      "duration": 0.454541,
+      "text": "सबक"
+    },
+    {
+      "start": 1.35,
+      "duration": 0.482958,
+      "text": "मिला"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "दोनों दोस्त थे।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.582375,
+      "text": "दोनों"
+    },
+    {
+      "start": 0.696583,
+      "duration": 0.397708,
+      "text": "दोस्त"
+    },
+    {
+      "start": 1.108541,
+      "duration": 0.383541,
+      "text": "थे"
+    }
+  ]
+}

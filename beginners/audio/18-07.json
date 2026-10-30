@@ -1,0 +1,31 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "सीख: खुद से प्यार करो।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.980125,
+      "text": "सीख"
+    },
+    {
+      "start": 1.364208,
+      "duration": 0.369333,
+      "text": "खुद"
+    },
+    {
+      "start": 1.747708,
+      "duration": 0.241458,
+      "text": "से"
+    },
+    {
+      "start": 2.003416,
+      "duration": 0.397708,
+      "text": "प्यार"
+    },
+    {
+      "start": 2.415333,
+      "duration": 0.511375,
+      "text": "करो"
+    }
+  ]
+}

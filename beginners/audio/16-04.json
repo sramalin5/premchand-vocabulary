@@ -1,0 +1,36 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "सभी चिड़ियाँ जाल लेकर उड़ गईं।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.653416,
+      "text": "सभी"
+    },
+    {
+      "start": 0.767625,
+      "duration": 0.46875,
+      "text": "चिड़ियाँ"
+    },
+    {
+      "start": 1.250583,
+      "duration": 0.284083,
+      "text": "जाल"
+    },
+    {
+      "start": 1.548875,
+      "duration": 0.411916,
+      "text": "लेकर"
+    },
+    {
+      "start": 1.975,
+      "duration": 0.241458,
+      "text": "उड़"
+    },
+    {
+      "start": 2.230666,
+      "duration": 0.625,
+      "text": "गईं"
+    }
+  ]
+}

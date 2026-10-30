@@ -1,0 +1,51 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "एक हाथी रोज़ नदी पर पानी पीने जाता था।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.383541,
+      "text": "एक"
+    },
+    {
+      "start": 0.497708,
+      "duration": 0.46875,
+      "text": "हाथी"
+    },
+    {
+      "start": 0.980666,
+      "duration": 0.355125,
+      "text": "रोज़"
+    },
+    {
+      "start": 1.35,
+      "duration": 0.369333,
+      "text": "नदी"
+    },
+    {
+      "start": 1.733541,
+      "duration": 0.227291,
+      "text": "पर"
+    },
+    {
+      "start": 1.975,
+      "duration": 0.46875,
+      "text": "पानी"
+    },
+    {
+      "start": 2.457958,
+      "duration": 0.355125,
+      "text": "पीने"
+    },
+    {
+      "start": 2.827291,
+      "duration": 0.383541,
+      "text": "जाता"
+    },
+    {
+      "start": 3.225,
+      "duration": 0.397708,
+      "text": "था"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "नदी में एक मगरमच्छ रहता था।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.497166,
+      "text": "नदी"
+    },
+    {
+      "start": 0.611375,
+      "duration": 0.184666,
+      "text": "में"
+    },
+    {
+      "start": 0.810208,
+      "duration": 0.298291,
+      "text": "एक"
+    },
+    {
+      "start": 1.122708,
+      "duration": 0.667625,
+      "text": "मगरमच्छ"
+    },
+    {
+      "start": 1.804541,
+      "duration": 0.383541,
+      "text": "रहता"
+    },
+    {
+      "start": 2.202291,
+      "duration": 0.383541,
+      "text": "था"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "सीख: एकता में बड़ी शक्ति है।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 1.008541,
+      "text": "सीख"
+    },
+    {
+      "start": 1.35,
+      "duration": 0.539791,
+      "text": "एकता"
+    },
+    {
+      "start": 1.903958,
+      "duration": 0.170458,
+      "text": "में"
+    },
+    {
+      "start": 2.088625,
+      "duration": 0.355125,
+      "text": "बड़ी"
+    },
+    {
+      "start": 2.457958,
+      "duration": 0.46875,
+      "text": "शक्ति"
+    },
+    {
+      "start": 2.940916,
+      "duration": 0.284083,
+      "text": "है"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "वह अक्सर झूठ बोलता था।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.46875,
+      "text": "वह"
+    },
+    {
+      "start": 0.582958,
+      "duration": 0.454541,
+      "text": "अक्सर"
+    },
+    {
+      "start": 1.051708,
+      "duration": 0.426125,
+      "text": "झूठ"
+    },
+    {
+      "start": 1.492041,
+      "duration": 0.482958,
+      "text": "बोलता"
+    },
+    {
+      "start": 1.989208,
+      "duration": 0.440333,
+      "text": "था"
+    }
+  ]
+}

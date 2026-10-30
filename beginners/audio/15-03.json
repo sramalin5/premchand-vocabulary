@@ -1,0 +1,26 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "अंगूर बहुत ऊपर थे।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.568166,
+      "text": "अंगूर"
+    },
+    {
+      "start": 0.682375,
+      "duration": 0.426125,
+      "text": "बहुत"
+    },
+    {
+      "start": 1.122708,
+      "duration": 0.369333,
+      "text": "ऊपर"
+    },
+    {
+      "start": 1.50625,
+      "duration": 0.397708,
+      "text": "थे"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "गाँव का चूहा वापस आ गया।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.525583,
+      "text": "गाँव"
+    },
+    {
+      "start": 0.639791,
+      "duration": 0.227291,
+      "text": "का"
+    },
+    {
+      "start": 0.88125,
+      "duration": 0.454541,
+      "text": "चूहा"
+    },
+    {
+      "start": 1.35,
+      "duration": 0.497166,
+      "text": "वापस"
+    },
+    {
+      "start": 1.861375,
+      "duration": 0.085208,
+      "text": "आ"
+    },
+    {
+      "start": 1.960791,
+      "duration": 0.454541,
+      "text": "गया"
+    }
+  ]
+}

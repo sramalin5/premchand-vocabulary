@@ -1,0 +1,51 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "दर्जी रोज़ हाथी को कुछ खाने को देता था।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.610791,
+      "text": "दर्जी"
+    },
+    {
+      "start": 0.725,
+      "duration": 0.340916,
+      "text": "रोज़"
+    },
+    {
+      "start": 1.080125,
+      "duration": 0.497166,
+      "text": "हाथी"
+    },
+    {
+      "start": 1.591458,
+      "duration": 0.213083,
+      "text": "को"
+    },
+    {
+      "start": 1.81875,
+      "duration": 0.298291,
+      "text": "कुछ"
+    },
+    {
+      "start": 2.13125,
+      "duration": 0.426125,
+      "text": "खाने"
+    },
+    {
+      "start": 2.571583,
+      "duration": 0.184666,
+      "text": "को"
+    },
+    {
+      "start": 2.770458,
+      "duration": 0.397708,
+      "text": "देता"
+    },
+    {
+      "start": 3.182375,
+      "duration": 0.426125,
+      "text": "था"
+    }
+  ]
+}

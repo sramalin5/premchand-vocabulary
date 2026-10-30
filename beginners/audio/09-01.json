@@ -1,0 +1,21 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "एक लकड़हारा था।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.369333,
+      "text": "एक"
+    },
+    {
+      "start": 0.483541,
+      "duration": 0.767041,
+      "text": "लकड़हारा"
+    },
+    {
+      "start": 1.264791,
+      "duration": 0.426125,
+      "text": "था"
+    }
+  ]
+}

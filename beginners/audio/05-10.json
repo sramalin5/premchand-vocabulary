@@ -1,0 +1,31 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "सीख: सूझबूझ से काम लें।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 1.008541,
+      "text": "सीख"
+    },
+    {
+      "start": 1.321583,
+      "duration": 0.909083,
+      "text": "सूझबूझ"
+    },
+    {
+      "start": 2.244875,
+      "duration": 0.213083,
+      "text": "से"
+    },
+    {
+      "start": 2.472166,
+      "duration": 0.369333,
+      "text": "काम"
+    },
+    {
+      "start": 2.855666,
+      "duration": 0.440333,
+      "text": "लें"
+    }
+  ]
+}

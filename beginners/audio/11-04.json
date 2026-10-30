@@ -1,0 +1,41 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "दूसरी बकरी उसके ऊपर से निकल गई।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.696041,
+      "text": "दूसरी"
+    },
+    {
+      "start": 0.810208,
+      "duration": 0.440333,
+      "text": "बकरी"
+    },
+    {
+      "start": 1.264791,
+      "duration": 0.440333,
+      "text": "उसके"
+    },
+    {
+      "start": 1.719333,
+      "duration": 0.369333,
+      "text": "ऊपर"
+    },
+    {
+      "start": 2.102833,
+      "duration": 0.170458,
+      "text": "से"
+    },
+    {
+      "start": 2.2875,
+      "duration": 0.369333,
+      "text": "निकल"
+    },
+    {
+      "start": 2.671041,
+      "duration": 0.397708,
+      "text": "गई"
+    }
+  ]
+}

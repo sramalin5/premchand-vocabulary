@@ -1,0 +1,31 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "गधा फिर पानी में गिरा।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.525583,
+      "text": "गधा"
+    },
+    {
+      "start": 0.639791,
+      "duration": 0.340916,
+      "text": "फिर"
+    },
+    {
+      "start": 0.994875,
+      "duration": 0.411916,
+      "text": "पानी"
+    },
+    {
+      "start": 1.421041,
+      "duration": 0.127833,
+      "text": "में"
+    },
+    {
+      "start": 1.563083,
+      "duration": 0.497166,
+      "text": "गिरा"
+    }
+  ]
+}

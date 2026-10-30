@@ -1,0 +1,31 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "एक लड़का बकरियाँ चराता था।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.355125,
+      "text": "एक"
+    },
+    {
+      "start": 0.469333,
+      "duration": 0.511375,
+      "text": "लड़का"
+    },
+    {
+      "start": 0.994875,
+      "duration": 0.553958,
+      "text": "बकरियाँ"
+    },
+    {
+      "start": 1.563083,
+      "duration": 0.511375,
+      "text": "चराता"
+    },
+    {
+      "start": 2.088625,
+      "duration": 0.369333,
+      "text": "था"
+    }
+  ]
+}

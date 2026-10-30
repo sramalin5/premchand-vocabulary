@@ -1,0 +1,41 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "उसके मुँह में पनीर का टुकड़ा था।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.482958,
+      "text": "उसके"
+    },
+    {
+      "start": 0.597166,
+      "duration": 0.298291,
+      "text": "मुँह"
+    },
+    {
+      "start": 0.909666,
+      "duration": 0.184666,
+      "text": "में"
+    },
+    {
+      "start": 1.108541,
+      "duration": 0.46875,
+      "text": "पनीर"
+    },
+    {
+      "start": 1.591458,
+      "duration": 0.198875,
+      "text": "का"
+    },
+    {
+      "start": 1.804541,
+      "duration": 0.497166,
+      "text": "टुकड़ा"
+    },
+    {
+      "start": 2.315916,
+      "duration": 0.454541,
+      "text": "था"
+    }
+  ]
+}

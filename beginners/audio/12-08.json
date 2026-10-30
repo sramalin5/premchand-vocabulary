@@ -1,0 +1,46 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "अब उसे रोज़ एक अंडा भी नहीं मिला।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.298291,
+      "text": "अब"
+    },
+    {
+      "start": 0.4125,
+      "duration": 0.340916,
+      "text": "उसे"
+    },
+    {
+      "start": 0.767625,
+      "duration": 0.383541,
+      "text": "रोज़"
+    },
+    {
+      "start": 1.165333,
+      "duration": 0.284083,
+      "text": "एक"
+    },
+    {
+      "start": 1.463625,
+      "duration": 0.411916,
+      "text": "अंडा"
+    },
+    {
+      "start": 1.889791,
+      "duration": 0.198875,
+      "text": "भी"
+    },
+    {
+      "start": 2.102833,
+      "duration": 0.298291,
+      "text": "नहीं"
+    },
+    {
+      "start": 2.415333,
+      "duration": 0.46875,
+      "text": "मिला"
+    }
+  ]
+}

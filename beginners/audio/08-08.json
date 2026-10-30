@@ -1,0 +1,46 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "सीख: आज की मेहनत कल काम आती है।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.965916,
+      "text": "सीख"
+    },
+    {
+      "start": 1.35,
+      "duration": 0.411916,
+      "text": "आज"
+    },
+    {
+      "start": 1.776125,
+      "duration": 0.170458,
+      "text": "की"
+    },
+    {
+      "start": 1.960791,
+      "duration": 0.46875,
+      "text": "मेहनत"
+    },
+    {
+      "start": 2.44375,
+      "duration": 0.241458,
+      "text": "कल"
+    },
+    {
+      "start": 2.699416,
+      "duration": 0.3125,
+      "text": "काम"
+    },
+    {
+      "start": 3.026125,
+      "duration": 0.355125,
+      "text": "आती"
+    },
+    {
+      "start": 3.395458,
+      "duration": 0.284083,
+      "text": "है"
+    }
+  ]
+}

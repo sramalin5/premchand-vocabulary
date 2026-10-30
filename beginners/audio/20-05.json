@@ -1,0 +1,41 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "लेकिन वहाँ एक बड़ी बिल्ली भी थी।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.610791,
+      "text": "लेकिन"
+    },
+    {
+      "start": 0.725,
+      "duration": 0.411916,
+      "text": "वहाँ"
+    },
+    {
+      "start": 1.151125,
+      "duration": 0.227291,
+      "text": "एक"
+    },
+    {
+      "start": 1.392625,
+      "duration": 0.326708,
+      "text": "बड़ी"
+    },
+    {
+      "start": 1.733541,
+      "duration": 0.426125,
+      "text": "बिल्ली"
+    },
+    {
+      "start": 2.173875,
+      "duration": 0.227291,
+      "text": "भी"
+    },
+    {
+      "start": 2.415333,
+      "duration": 0.625,
+      "text": "थी"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "शेर ने पानी में अपनी परछाई देखी।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.525583,
+      "text": "शेर"
+    },
+    {
+      "start": 0.639791,
+      "duration": 0.198875,
+      "text": "ने"
+    },
+    {
+      "start": 0.852833,
+      "duration": 0.397708,
+      "text": "पानी"
+    },
+    {
+      "start": 1.264791,
+      "duration": 0.198875,
+      "text": "में"
+    },
+    {
+      "start": 1.477833,
+      "duration": 0.440333,
+      "text": "अपनी"
+    },
+    {
+      "start": 1.932375,
+      "duration": 0.511375,
+      "text": "परछाई"
+    },
+    {
+      "start": 2.457958,
+      "duration": 0.639208,
+      "text": "देखी"
+    }
+  ]
+}

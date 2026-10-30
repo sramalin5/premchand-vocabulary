@@ -1,0 +1,51 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "बंदर पेड़ पर चढ़ गया और अपनी जान बचाई।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.625,
+      "text": "बंदर"
+    },
+    {
+      "start": 0.739208,
+      "duration": 0.369333,
+      "text": "पेड़"
+    },
+    {
+      "start": 1.122708,
+      "duration": 0.213083,
+      "text": "पर"
+    },
+    {
+      "start": 1.35,
+      "duration": 0.3125,
+      "text": "चढ़"
+    },
+    {
+      "start": 1.676708,
+      "duration": 0.369333,
+      "text": "गया"
+    },
+    {
+      "start": 2.060208,
+      "duration": 0.284083,
+      "text": "और"
+    },
+    {
+      "start": 2.358541,
+      "duration": 0.426125,
+      "text": "अपनी"
+    },
+    {
+      "start": 2.798875,
+      "duration": 0.326708,
+      "text": "जान"
+    },
+    {
+      "start": 3.139791,
+      "duration": 0.696041,
+      "text": "बचाई"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "मगरमच्छ वापस मुड़ा।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.9375,
+      "text": "मगरमच्छ"
+    },
+    {
+      "start": 1.051708,
+      "duration": 0.539791,
+      "text": "वापस"
+    },
+    {
+      "start": 1.605666,
+      "duration": 0.568166,
+      "text": "मुड़ा"
+    }
+  ]
+}

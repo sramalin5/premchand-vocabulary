@@ -1,0 +1,31 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "एक कबूतर बहुत प्यासा था।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.383541,
+      "text": "एक"
+    },
+    {
+      "start": 0.497708,
+      "duration": 0.625,
+      "text": "कबूतर"
+    },
+    {
+      "start": 1.136916,
+      "duration": 0.440333,
+      "text": "बहुत"
+    },
+    {
+      "start": 1.591458,
+      "duration": 0.497166,
+      "text": "प्यासा"
+    },
+    {
+      "start": 2.102833,
+      "duration": 0.426125,
+      "text": "था"
+    }
+  ]
+}

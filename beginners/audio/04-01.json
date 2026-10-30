@@ -1,0 +1,26 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "एक बूढ़ा किसान था।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.3125,
+      "text": "एक"
+    },
+    {
+      "start": 0.426708,
+      "duration": 0.511375,
+      "text": "बूढ़ा"
+    },
+    {
+      "start": 0.952291,
+      "duration": 0.497166,
+      "text": "किसान"
+    },
+    {
+      "start": 1.463625,
+      "duration": 0.46875,
+      "text": "था"
+    }
+  ]
+}

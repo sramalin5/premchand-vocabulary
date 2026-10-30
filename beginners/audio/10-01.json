@@ -1,0 +1,26 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "एक पतला पुल था।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.426125,
+      "text": "एक"
+    },
+    {
+      "start": 0.540333,
+      "duration": 0.454541,
+      "text": "पतला"
+    },
+    {
+      "start": 1.009083,
+      "duration": 0.284083,
+      "text": "पुल"
+    },
+    {
+      "start": 1.307375,
+      "duration": 0.482958,
+      "text": "था"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "एक चालाक लोमड़ी वहाँ आई।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.397708,
+      "text": "एक"
+    },
+    {
+      "start": 0.511916,
+      "duration": 0.582375,
+      "text": "चालाक"
+    },
+    {
+      "start": 1.108541,
+      "duration": 0.539791,
+      "text": "लोमड़ी"
+    },
+    {
+      "start": 1.6625,
+      "duration": 0.383541,
+      "text": "वहाँ"
+    },
+    {
+      "start": 2.060208,
+      "duration": 0.46875,
+      "text": "आई"
+    }
+  ]
+}

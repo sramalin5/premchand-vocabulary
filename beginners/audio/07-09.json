@@ -1,0 +1,21 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "कोई नहीं आया।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.383541,
+      "text": "कोई"
+    },
+    {
+      "start": 0.497708,
+      "duration": 0.355125,
+      "text": "नहीं"
+    },
+    {
+      "start": 0.867041,
+      "duration": 0.497166,
+      "text": "आया"
+    }
+  ]
+}

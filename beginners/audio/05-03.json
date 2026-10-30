@@ -1,0 +1,36 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "पेड़ पर बहुत सारे बंदर थे।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.525583,
+      "text": "पेड़"
+    },
+    {
+      "start": 0.639791,
+      "duration": 0.213083,
+      "text": "पर"
+    },
+    {
+      "start": 0.867041,
+      "duration": 0.454541,
+      "text": "बहुत"
+    },
+    {
+      "start": 1.335791,
+      "duration": 0.426125,
+      "text": "सारे"
+    },
+    {
+      "start": 1.776125,
+      "duration": 0.454541,
+      "text": "बंदर"
+    },
+    {
+      "start": 2.244875,
+      "duration": 0.426125,
+      "text": "थे"
+    }
+  ]
+}

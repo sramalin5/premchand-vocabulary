@@ -1,0 +1,26 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "सर्दियों का मौसम आया।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.809666,
+      "text": "सर्दियों"
+    },
+    {
+      "start": 0.923875,
+      "duration": 0.15625,
+      "text": "का"
+    },
+    {
+      "start": 1.094333,
+      "duration": 0.539791,
+      "text": "मौसम"
+    },
+    {
+      "start": 1.648291,
+      "duration": 0.511375,
+      "text": "आया"
+    }
+  ]
+}

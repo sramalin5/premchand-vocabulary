@@ -1,0 +1,16 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "आदमी जागा।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.610791,
+      "text": "आदमी"
+    },
+    {
+      "start": 0.725,
+      "duration": 0.653416,
+      "text": "जागा"
+    }
+  ]
+}

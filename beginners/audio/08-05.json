@@ -1,0 +1,36 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "चींटी के पास बहुत खाना था।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.625,
+      "text": "चींटी"
+    },
+    {
+      "start": 0.739208,
+      "duration": 0.198875,
+      "text": "के"
+    },
+    {
+      "start": 0.952291,
+      "duration": 0.397708,
+      "text": "पास"
+    },
+    {
+      "start": 1.364208,
+      "duration": 0.426125,
+      "text": "बहुत"
+    },
+    {
+      "start": 1.804541,
+      "duration": 0.440333,
+      "text": "खाना"
+    },
+    {
+      "start": 2.259083,
+      "duration": 0.426125,
+      "text": "था"
+    }
+  ]
+}

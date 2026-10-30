@@ -1,0 +1,31 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "शेर ने चूहे को पकड़ा।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.525583,
+      "text": "शेर"
+    },
+    {
+      "start": 0.639791,
+      "duration": 0.184666,
+      "text": "ने"
+    },
+    {
+      "start": 0.838625,
+      "duration": 0.426125,
+      "text": "चूहे"
+    },
+    {
+      "start": 1.278958,
+      "duration": 0.213083,
+      "text": "को"
+    },
+    {
+      "start": 1.50625,
+      "duration": 0.667625,
+      "text": "पकड़ा"
+    }
+  ]
+}

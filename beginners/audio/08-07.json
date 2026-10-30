@@ -1,0 +1,36 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "उसे अपनी गलती का एहसास हुआ।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.511375,
+      "text": "उसे"
+    },
+    {
+      "start": 0.625583,
+      "duration": 0.411916,
+      "text": "अपनी"
+    },
+    {
+      "start": 1.051708,
+      "duration": 0.454541,
+      "text": "गलती"
+    },
+    {
+      "start": 1.520458,
+      "duration": 0.241458,
+      "text": "का"
+    },
+    {
+      "start": 1.776125,
+      "duration": 0.596583,
+      "text": "एहसास"
+    },
+    {
+      "start": 2.386916,
+      "duration": 0.497166,
+      "text": "हुआ"
+    }
+  ]
+}

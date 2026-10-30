@@ -1,0 +1,26 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "उसके चार बेटे थे।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.553958,
+      "text": "उसके"
+    },
+    {
+      "start": 0.668166,
+      "duration": 0.440333,
+      "text": "चार"
+    },
+    {
+      "start": 1.122708,
+      "duration": 0.440333,
+      "text": "बेटे"
+    },
+    {
+      "start": 1.577291,
+      "duration": 0.411916,
+      "text": "थे"
+    }
+  ]
+}

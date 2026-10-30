@@ -1,0 +1,36 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "एक कौआ पेड़ पर बैठा था।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.383541,
+      "text": "एक"
+    },
+    {
+      "start": 0.497708,
+      "duration": 0.383541,
+      "text": "कौआ"
+    },
+    {
+      "start": 0.895458,
+      "duration": 0.426125,
+      "text": "पेड़"
+    },
+    {
+      "start": 1.335791,
+      "duration": 0.213083,
+      "text": "पर"
+    },
+    {
+      "start": 1.563083,
+      "duration": 0.525583,
+      "text": "बैठा"
+    },
+    {
+      "start": 2.102833,
+      "duration": 0.397708,
+      "text": "था"
+    }
+  ]
+}

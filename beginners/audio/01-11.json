@@ -1,0 +1,36 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "सीख: कोई भी छोटा नहीं होता।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 1.065333,
+      "text": "सीख"
+    },
+    {
+      "start": 1.421041,
+      "duration": 0.369333,
+      "text": "कोई"
+    },
+    {
+      "start": 1.804541,
+      "duration": 0.255666,
+      "text": "भी"
+    },
+    {
+      "start": 2.074416,
+      "duration": 0.497166,
+      "text": "छोटा"
+    },
+    {
+      "start": 2.585791,
+      "duration": 0.340916,
+      "text": "नहीं"
+    },
+    {
+      "start": 2.940916,
+      "duration": 0.511375,
+      "text": "होता"
+    }
+  ]
+}

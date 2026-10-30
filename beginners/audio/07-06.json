@@ -1,0 +1,41 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "अगले दिन सच में भेड़िया आ गया।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.482958,
+      "text": "अगले"
+    },
+    {
+      "start": 0.597166,
+      "duration": 0.241458,
+      "text": "दिन"
+    },
+    {
+      "start": 0.852833,
+      "duration": 0.340916,
+      "text": "सच"
+    },
+    {
+      "start": 1.207958,
+      "duration": 0.113625,
+      "text": "में"
+    },
+    {
+      "start": 1.335791,
+      "duration": 0.667625,
+      "text": "भेड़िया"
+    },
+    {
+      "start": 2.017625,
+      "duration": 0.099416,
+      "text": "आ"
+    },
+    {
+      "start": 2.13125,
+      "duration": 0.411916,
+      "text": "गया"
+    }
+  ]
+}

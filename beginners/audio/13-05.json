@@ -1,0 +1,36 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "एक दिन दर्जी गुस्से में था।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.411916,
+      "text": "एक"
+    },
+    {
+      "start": 0.526125,
+      "duration": 0.3125,
+      "text": "दिन"
+    },
+    {
+      "start": 0.852833,
+      "duration": 0.426125,
+      "text": "दर्जी"
+    },
+    {
+      "start": 1.293166,
+      "duration": 0.426125,
+      "text": "गुस्से"
+    },
+    {
+      "start": 1.733541,
+      "duration": 0.142041,
+      "text": "में"
+    },
+    {
+      "start": 1.889791,
+      "duration": 0.511375,
+      "text": "था"
+    }
+  ]
+}

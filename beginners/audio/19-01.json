@@ -1,0 +1,61 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "एक गधा रोज़ पीठ पर नमक का बोरा ले जाता था।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.369333,
+      "text": "एक"
+    },
+    {
+      "start": 0.483541,
+      "duration": 0.397708,
+      "text": "गधा"
+    },
+    {
+      "start": 0.895458,
+      "duration": 0.440333,
+      "text": "रोज़"
+    },
+    {
+      "start": 1.35,
+      "duration": 0.454541,
+      "text": "पीठ"
+    },
+    {
+      "start": 1.81875,
+      "duration": 0.184666,
+      "text": "पर"
+    },
+    {
+      "start": 2.017625,
+      "duration": 0.440333,
+      "text": "नमक"
+    },
+    {
+      "start": 2.472166,
+      "duration": 0.198875,
+      "text": "का"
+    },
+    {
+      "start": 2.685208,
+      "duration": 0.411916,
+      "text": "बोरा"
+    },
+    {
+      "start": 3.111375,
+      "duration": 0.227291,
+      "text": "ले"
+    },
+    {
+      "start": 3.352833,
+      "duration": 0.397708,
+      "text": "जाता"
+    },
+    {
+      "start": 3.764791,
+      "duration": 0.383541,
+      "text": "था"
+    }
+  ]
+}

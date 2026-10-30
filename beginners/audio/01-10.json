@@ -1,0 +1,26 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "शेर आज़ाद हो गया।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.582375,
+      "text": "शेर"
+    },
+    {
+      "start": 0.696583,
+      "duration": 0.482958,
+      "text": "आज़ाद"
+    },
+    {
+      "start": 1.19375,
+      "duration": 0.198875,
+      "text": "हो"
+    },
+    {
+      "start": 1.406833,
+      "duration": 0.426125,
+      "text": "गया"
+    }
+  ]
+}

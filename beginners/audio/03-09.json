@@ -1,0 +1,31 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "लोमड़ी पनीर लेकर भाग गई।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.696041,
+      "text": "लोमड़ी"
+    },
+    {
+      "start": 0.810208,
+      "duration": 0.397708,
+      "text": "पनीर"
+    },
+    {
+      "start": 1.222166,
+      "duration": 0.440333,
+      "text": "लेकर"
+    },
+    {
+      "start": 1.676708,
+      "duration": 0.383541,
+      "text": "भाग"
+    },
+    {
+      "start": 2.074416,
+      "duration": 0.440333,
+      "text": "गई"
+    }
+  ]
+}

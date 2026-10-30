@@ -1,0 +1,41 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "बंदर मगरमच्छ को मीठे जामुन देता था।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.610791,
+      "text": "बंदर"
+    },
+    {
+      "start": 0.725,
+      "duration": 0.78125,
+      "text": "मगरमच्छ"
+    },
+    {
+      "start": 1.520458,
+      "duration": 0.198875,
+      "text": "को"
+    },
+    {
+      "start": 1.733541,
+      "duration": 0.539791,
+      "text": "मीठे"
+    },
+    {
+      "start": 2.2875,
+      "duration": 0.454541,
+      "text": "जामुन"
+    },
+    {
+      "start": 2.75625,
+      "duration": 0.383541,
+      "text": "देता"
+    },
+    {
+      "start": 3.153958,
+      "duration": 0.426125,
+      "text": "था"
+    }
+  ]
+}

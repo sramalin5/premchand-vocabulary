@@ -1,0 +1,31 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "एक छोटा चूहा वहाँ आया।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.369333,
+      "text": "एक"
+    },
+    {
+      "start": 0.483541,
+      "duration": 0.568166,
+      "text": "छोटा"
+    },
+    {
+      "start": 1.065916,
+      "duration": 0.411916,
+      "text": "चूहा"
+    },
+    {
+      "start": 1.492041,
+      "duration": 0.411916,
+      "text": "वहाँ"
+    },
+    {
+      "start": 1.918166,
+      "duration": 0.511375,
+      "text": "आया"
+    }
+  ]
+}

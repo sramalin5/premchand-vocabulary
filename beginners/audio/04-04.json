@@ -1,0 +1,36 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "किसान ने सबको एक-एक लकड़ी दी।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.568166,
+      "text": "किसान"
+    },
+    {
+      "start": 0.682375,
+      "duration": 0.198875,
+      "text": "ने"
+    },
+    {
+      "start": 0.895458,
+      "duration": 0.582375,
+      "text": "सबको"
+    },
+    {
+      "start": 1.492041,
+      "duration": 0.454541,
+      "text": "एक-एक"
+    },
+    {
+      "start": 1.960791,
+      "duration": 0.482958,
+      "text": "लकड़ी"
+    },
+    {
+      "start": 2.457958,
+      "duration": 0.426125,
+      "text": "दी"
+    }
+  ]
+}

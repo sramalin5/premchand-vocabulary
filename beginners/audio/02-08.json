@@ -1,0 +1,31 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "सीख: लालच बुरी बला है।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.951708,
+      "text": "सीख"
+    },
+    {
+      "start": 1.207958,
+      "duration": 0.639208,
+      "text": "लालच"
+    },
+    {
+      "start": 1.861375,
+      "duration": 0.326708,
+      "text": "बुरी"
+    },
+    {
+      "start": 2.202291,
+      "duration": 0.326708,
+      "text": "बला"
+    },
+    {
+      "start": 2.543166,
+      "duration": 0.298291,
+      "text": "है"
+    }
+  ]
+}

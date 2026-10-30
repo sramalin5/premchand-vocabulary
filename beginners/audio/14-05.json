@@ -1,0 +1,51 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "वह दीवार से टकरा गया और नीचे गिर गया।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.454541,
+      "text": "वह"
+    },
+    {
+      "start": 0.56875,
+      "duration": 0.539791,
+      "text": "दीवार"
+    },
+    {
+      "start": 1.122708,
+      "duration": 0.255666,
+      "text": "से"
+    },
+    {
+      "start": 1.392625,
+      "duration": 0.46875,
+      "text": "टकरा"
+    },
+    {
+      "start": 1.875583,
+      "duration": 0.326708,
+      "text": "गया"
+    },
+    {
+      "start": 2.216458,
+      "duration": 0.269875,
+      "text": "और"
+    },
+    {
+      "start": 2.500583,
+      "duration": 0.482958,
+      "text": "नीचे"
+    },
+    {
+      "start": 2.997708,
+      "duration": 0.255666,
+      "text": "गिर"
+    },
+    {
+      "start": 3.267625,
+      "duration": 0.440333,
+      "text": "गया"
+    }
+  ]
+}

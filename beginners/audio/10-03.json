@@ -1,0 +1,66 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "पुल पर एक समय में केवल एक ही बकरी जा सकती थी।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.411916,
+      "text": "पुल"
+    },
+    {
+      "start": 0.526125,
+      "duration": 0.184666,
+      "text": "पर"
+    },
+    {
+      "start": 0.725,
+      "duration": 0.269875,
+      "text": "एक"
+    },
+    {
+      "start": 1.009083,
+      "duration": 0.397708,
+      "text": "समय"
+    },
+    {
+      "start": 1.421041,
+      "duration": 0.426125,
+      "text": "में"
+    },
+    {
+      "start": 1.861375,
+      "duration": 0.497166,
+      "text": "केवल"
+    },
+    {
+      "start": 2.372708,
+      "duration": 0.269875,
+      "text": "एक"
+    },
+    {
+      "start": 2.656833,
+      "duration": 0.170458,
+      "text": "ही"
+    },
+    {
+      "start": 2.841458,
+      "duration": 0.440333,
+      "text": "बकरी"
+    },
+    {
+      "start": 3.296041,
+      "duration": 0.213083,
+      "text": "जा"
+    },
+    {
+      "start": 3.523291,
+      "duration": 0.411916,
+      "text": "सकती"
+    },
+    {
+      "start": 3.949416,
+      "duration": 0.625,
+      "text": "थी"
+    }
+  ]
+}

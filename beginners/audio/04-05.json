@@ -1,0 +1,36 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "सबने लकड़ी आसानी से तोड़ दी।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.667625,
+      "text": "सबने"
+    },
+    {
+      "start": 0.781833,
+      "duration": 0.582375,
+      "text": "लकड़ी"
+    },
+    {
+      "start": 1.378416,
+      "duration": 0.582375,
+      "text": "आसानी"
+    },
+    {
+      "start": 1.975,
+      "duration": 0.241458,
+      "text": "से"
+    },
+    {
+      "start": 2.230666,
+      "duration": 0.355125,
+      "text": "तोड़"
+    },
+    {
+      "start": 2.6,
+      "duration": 0.426125,
+      "text": "दी"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "वह एक पेड़ के नीचे सो गया।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.426125,
+      "text": "वह"
+    },
+    {
+      "start": 0.540333,
+      "duration": 0.298291,
+      "text": "एक"
+    },
+    {
+      "start": 0.852833,
+      "duration": 0.369333,
+      "text": "पेड़"
+    },
+    {
+      "start": 1.236375,
+      "duration": 0.184666,
+      "text": "के"
+    },
+    {
+      "start": 1.435208,
+      "duration": 0.497166,
+      "text": "नीचे"
+    },
+    {
+      "start": 1.946583,
+      "duration": 0.255666,
+      "text": "सो"
+    },
+    {
+      "start": 2.216458,
+      "duration": 0.454541,
+      "text": "गया"
+    }
+  ]
+}

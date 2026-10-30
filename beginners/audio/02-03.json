@@ -1,0 +1,46 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "वह नदी के पुल पर चल रहा था।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.383541,
+      "text": "वह"
+    },
+    {
+      "start": 0.497708,
+      "duration": 0.426125,
+      "text": "नदी"
+    },
+    {
+      "start": 0.938083,
+      "duration": 0.184666,
+      "text": "के"
+    },
+    {
+      "start": 1.136916,
+      "duration": 0.326708,
+      "text": "पुल"
+    },
+    {
+      "start": 1.477833,
+      "duration": 0.198875,
+      "text": "पर"
+    },
+    {
+      "start": 1.690916,
+      "duration": 0.255666,
+      "text": "चल"
+    },
+    {
+      "start": 1.960791,
+      "duration": 0.326708,
+      "text": "रहा"
+    },
+    {
+      "start": 2.301708,
+      "duration": 0.383541,
+      "text": "था"
+    }
+  ]
+}

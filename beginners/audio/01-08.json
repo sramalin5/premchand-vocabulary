@@ -1,0 +1,41 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "एक दिन शेर जाल में फँस गया।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.397708,
+      "text": "एक"
+    },
+    {
+      "start": 0.511916,
+      "duration": 0.241458,
+      "text": "दिन"
+    },
+    {
+      "start": 0.767625,
+      "duration": 0.440333,
+      "text": "शेर"
+    },
+    {
+      "start": 1.222166,
+      "duration": 0.3125,
+      "text": "जाल"
+    },
+    {
+      "start": 1.548875,
+      "duration": 0.284083,
+      "text": "में"
+    },
+    {
+      "start": 1.847166,
+      "duration": 0.369333,
+      "text": "फँस"
+    },
+    {
+      "start": 2.230666,
+      "duration": 0.426125,
+      "text": "गया"
+    }
+  ]
+}

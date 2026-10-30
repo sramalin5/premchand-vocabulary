@@ -1,0 +1,36 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "रास्ते में उसने सच बता दिया।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.653416,
+      "text": "रास्ते"
+    },
+    {
+      "start": 0.767625,
+      "duration": 0.184666,
+      "text": "में"
+    },
+    {
+      "start": 0.966458,
+      "duration": 0.397708,
+      "text": "उसने"
+    },
+    {
+      "start": 1.378416,
+      "duration": 0.3125,
+      "text": "सच"
+    },
+    {
+      "start": 1.705125,
+      "duration": 0.326708,
+      "text": "बता"
+    },
+    {
+      "start": 2.046041,
+      "duration": 0.411916,
+      "text": "दिया"
+    }
+  ]
+}

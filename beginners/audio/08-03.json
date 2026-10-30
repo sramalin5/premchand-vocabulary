@@ -1,0 +1,56 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "टिड्डा बस गा रहा था और आराम कर रहा था।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.539791,
+      "text": "टिड्डा"
+    },
+    {
+      "start": 0.653958,
+      "duration": 0.284083,
+      "text": "बस"
+    },
+    {
+      "start": 0.952291,
+      "duration": 0.198875,
+      "text": "गा"
+    },
+    {
+      "start": 1.165333,
+      "duration": 0.340916,
+      "text": "रहा"
+    },
+    {
+      "start": 1.520458,
+      "duration": 0.298291,
+      "text": "था"
+    },
+    {
+      "start": 1.832958,
+      "duration": 0.383541,
+      "text": "और"
+    },
+    {
+      "start": 2.230666,
+      "duration": 0.46875,
+      "text": "आराम"
+    },
+    {
+      "start": 2.713625,
+      "duration": 0.15625,
+      "text": "कर"
+    },
+    {
+      "start": 2.884083,
+      "duration": 0.326708,
+      "text": "रहा"
+    },
+    {
+      "start": 3.225,
+      "duration": 0.369333,
+      "text": "था"
+    }
+  ]
+}

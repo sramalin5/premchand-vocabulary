@@ -1,0 +1,31 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "सीख: एकता में शक्ति है।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 1.008541,
+      "text": "सीख"
+    },
+    {
+      "start": 1.307375,
+      "duration": 0.525583,
+      "text": "एकता"
+    },
+    {
+      "start": 1.847166,
+      "duration": 0.142041,
+      "text": "में"
+    },
+    {
+      "start": 2.003416,
+      "duration": 0.482958,
+      "text": "शक्ति"
+    },
+    {
+      "start": 2.500583,
+      "duration": 0.269875,
+      "text": "है"
+    }
+  ]
+}

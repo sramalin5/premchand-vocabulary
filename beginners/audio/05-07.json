@@ -1,0 +1,31 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "बंदरों ने उसकी नकल की।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.653416,
+      "text": "बंदरों"
+    },
+    {
+      "start": 0.767625,
+      "duration": 0.227291,
+      "text": "ने"
+    },
+    {
+      "start": 1.009083,
+      "duration": 0.397708,
+      "text": "उसकी"
+    },
+    {
+      "start": 1.421041,
+      "duration": 0.397708,
+      "text": "नकल"
+    },
+    {
+      "start": 1.832958,
+      "duration": 0.426125,
+      "text": "की"
+    }
+  ]
+}

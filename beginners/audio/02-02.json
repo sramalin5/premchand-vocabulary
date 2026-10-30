@@ -1,0 +1,26 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "उसे एक हड्डी मिली।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.525583,
+      "text": "उसे"
+    },
+    {
+      "start": 0.639791,
+      "duration": 0.298291,
+      "text": "एक"
+    },
+    {
+      "start": 0.952291,
+      "duration": 0.440333,
+      "text": "हड्डी"
+    },
+    {
+      "start": 1.406833,
+      "duration": 0.46875,
+      "text": "मिली"
+    }
+  ]
+}

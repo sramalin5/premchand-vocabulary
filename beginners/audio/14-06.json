@@ -1,0 +1,41 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "सीख: बिना सोचे समझे काम मत करो।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 1.036916,
+      "text": "सीख"
+    },
+    {
+      "start": 1.364208,
+      "duration": 0.46875,
+      "text": "बिना"
+    },
+    {
+      "start": 1.847166,
+      "duration": 0.525583,
+      "text": "सोचे"
+    },
+    {
+      "start": 2.386916,
+      "duration": 0.497166,
+      "text": "समझे"
+    },
+    {
+      "start": 2.898291,
+      "duration": 0.269875,
+      "text": "काम"
+    },
+    {
+      "start": 3.182375,
+      "duration": 0.255666,
+      "text": "मत"
+    },
+    {
+      "start": 3.452291,
+      "duration": 0.511375,
+      "text": "करो"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "किसान बहुत अमीर बन गया।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.653416,
+      "text": "किसान"
+    },
+    {
+      "start": 0.767625,
+      "duration": 0.383541,
+      "text": "बहुत"
+    },
+    {
+      "start": 1.165333,
+      "duration": 0.426125,
+      "text": "अमीर"
+    },
+    {
+      "start": 1.605666,
+      "duration": 0.227291,
+      "text": "बन"
+    },
+    {
+      "start": 1.847166,
+      "duration": 0.426125,
+      "text": "गया"
+    }
+  ]
+}

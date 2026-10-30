@@ -1,0 +1,31 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "दोनों पानी में गिर गईं।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.610791,
+      "text": "दोनों"
+    },
+    {
+      "start": 0.725,
+      "duration": 0.383541,
+      "text": "पानी"
+    },
+    {
+      "start": 1.122708,
+      "duration": 0.127833,
+      "text": "में"
+    },
+    {
+      "start": 1.264791,
+      "duration": 0.284083,
+      "text": "गिर"
+    },
+    {
+      "start": 1.563083,
+      "duration": 0.511375,
+      "text": "गईं"
+    }
+  ]
+}

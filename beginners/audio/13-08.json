@@ -1,0 +1,26 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "वह नदी पर गया।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.397708,
+      "text": "वह"
+    },
+    {
+      "start": 0.511916,
+      "duration": 0.411916,
+      "text": "नदी"
+    },
+    {
+      "start": 0.938083,
+      "duration": 0.184666,
+      "text": "पर"
+    },
+    {
+      "start": 1.136916,
+      "duration": 0.426125,
+      "text": "गया"
+    }
+  ]
+}

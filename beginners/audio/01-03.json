@@ -1,0 +1,36 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "चूहा शेर के ऊपर कूदने लगा।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.596583,
+      "text": "चूहा"
+    },
+    {
+      "start": 0.710791,
+      "duration": 0.383541,
+      "text": "शेर"
+    },
+    {
+      "start": 1.108541,
+      "duration": 0.241458,
+      "text": "के"
+    },
+    {
+      "start": 1.364208,
+      "duration": 0.383541,
+      "text": "ऊपर"
+    },
+    {
+      "start": 1.761916,
+      "duration": 0.497166,
+      "text": "कूदने"
+    },
+    {
+      "start": 2.273291,
+      "duration": 0.482958,
+      "text": "लगा"
+    }
+  ]
+}

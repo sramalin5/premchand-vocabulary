@@ -1,0 +1,21 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "शेर गुस्सा हुआ।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.539791,
+      "text": "शेर"
+    },
+    {
+      "start": 0.653958,
+      "duration": 0.383541,
+      "text": "गुस्सा"
+    },
+    {
+      "start": 1.051708,
+      "duration": 0.596583,
+      "text": "हुआ"
+    }
+  ]
+}

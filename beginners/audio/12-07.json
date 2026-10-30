@@ -1,0 +1,26 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "अंदर कुछ नहीं था।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.454541,
+      "text": "अंदर"
+    },
+    {
+      "start": 0.56875,
+      "duration": 0.269875,
+      "text": "कुछ"
+    },
+    {
+      "start": 0.852833,
+      "duration": 0.326708,
+      "text": "नहीं"
+    },
+    {
+      "start": 1.19375,
+      "duration": 0.411916,
+      "text": "था"
+    }
+  ]
+}

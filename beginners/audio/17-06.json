@@ -1,0 +1,51 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "खरगोश शेर को एक कुएँ के पास ले गया।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.696041,
+      "text": "खरगोश"
+    },
+    {
+      "start": 0.810208,
+      "duration": 0.355125,
+      "text": "शेर"
+    },
+    {
+      "start": 1.179541,
+      "duration": 0.213083,
+      "text": "को"
+    },
+    {
+      "start": 1.406833,
+      "duration": 0.298291,
+      "text": "एक"
+    },
+    {
+      "start": 1.719333,
+      "duration": 0.3125,
+      "text": "कुएँ"
+    },
+    {
+      "start": 2.046041,
+      "duration": 0.198875,
+      "text": "के"
+    },
+    {
+      "start": 2.259083,
+      "duration": 0.397708,
+      "text": "पास"
+    },
+    {
+      "start": 2.671041,
+      "duration": 0.170458,
+      "text": "ले"
+    },
+    {
+      "start": 2.855666,
+      "duration": 0.440333,
+      "text": "गया"
+    }
+  ]
+}

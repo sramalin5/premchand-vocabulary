@@ -1,0 +1,41 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "लकड़हारे ने कहा, \"यह मेरी नहीं है।\"",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.838083,
+      "text": "लकड़हारे"
+    },
+    {
+      "start": 0.952291,
+      "duration": 0.142041,
+      "text": "ने"
+    },
+    {
+      "start": 1.108541,
+      "duration": 0.497166,
+      "text": "कहा"
+    },
+    {
+      "start": 1.847166,
+      "duration": 0.3125,
+      "text": "यह"
+    },
+    {
+      "start": 2.173875,
+      "duration": 0.3125,
+      "text": "मेरी"
+    },
+    {
+      "start": 2.500583,
+      "duration": 0.710208,
+      "text": "नहीं"
+    },
+    {
+      "start": 3.225,
+      "duration": 0.099416,
+      "text": "है"
+    }
+  ]
+}

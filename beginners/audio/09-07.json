@@ -1,0 +1,31 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "लकड़हारे ने फिर मना किया।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.880666,
+      "text": "लकड़हारे"
+    },
+    {
+      "start": 0.994875,
+      "duration": 0.213083,
+      "text": "ने"
+    },
+    {
+      "start": 1.222166,
+      "duration": 0.3125,
+      "text": "फिर"
+    },
+    {
+      "start": 1.548875,
+      "duration": 0.326708,
+      "text": "मना"
+    },
+    {
+      "start": 1.889791,
+      "duration": 0.497166,
+      "text": "किया"
+    }
+  ]
+}

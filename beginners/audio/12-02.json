@@ -1,0 +1,46 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "वह रोज़ एक सोने का अंडा देती थी।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.440333,
+      "text": "वह"
+    },
+    {
+      "start": 0.554541,
+      "duration": 0.355125,
+      "text": "रोज़"
+    },
+    {
+      "start": 0.923875,
+      "duration": 0.241458,
+      "text": "एक"
+    },
+    {
+      "start": 1.179541,
+      "duration": 0.426125,
+      "text": "सोने"
+    },
+    {
+      "start": 1.619875,
+      "duration": 0.227291,
+      "text": "का"
+    },
+    {
+      "start": 1.861375,
+      "duration": 0.383541,
+      "text": "अंडा"
+    },
+    {
+      "start": 2.259083,
+      "duration": 0.383541,
+      "text": "देती"
+    },
+    {
+      "start": 2.656833,
+      "duration": 0.582375,
+      "text": "थी"
+    }
+  ]
+}

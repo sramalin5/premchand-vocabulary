@@ -1,0 +1,36 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "चींटी खाना इकट्ठा कर रही थी।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.639208,
+      "text": "चींटी"
+    },
+    {
+      "start": 0.753416,
+      "duration": 0.525583,
+      "text": "खाना"
+    },
+    {
+      "start": 1.293166,
+      "duration": 0.610791,
+      "text": "इकट्ठा"
+    },
+    {
+      "start": 1.918166,
+      "duration": 0.142041,
+      "text": "कर"
+    },
+    {
+      "start": 2.074416,
+      "duration": 0.340916,
+      "text": "रही"
+    },
+    {
+      "start": 2.429541,
+      "duration": 0.482958,
+      "text": "थी"
+    }
+  ]
+}

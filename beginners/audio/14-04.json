@@ -1,0 +1,31 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "वह तेज़ी से वहाँ उड़ा।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.426125,
+      "text": "वह"
+    },
+    {
+      "start": 0.540333,
+      "duration": 0.497166,
+      "text": "तेज़ी"
+    },
+    {
+      "start": 1.051708,
+      "duration": 0.227291,
+      "text": "से"
+    },
+    {
+      "start": 1.293166,
+      "duration": 0.340916,
+      "text": "वहाँ"
+    },
+    {
+      "start": 1.648291,
+      "duration": 0.525583,
+      "text": "उड़ा"
+    }
+  ]
+}

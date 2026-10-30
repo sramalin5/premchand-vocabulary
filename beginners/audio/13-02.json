@@ -1,0 +1,41 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "रास्ते में एक दर्जी की दुकान थी।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.681833,
+      "text": "रास्ते"
+    },
+    {
+      "start": 0.796041,
+      "duration": 0.213083,
+      "text": "में"
+    },
+    {
+      "start": 1.023291,
+      "duration": 0.326708,
+      "text": "एक"
+    },
+    {
+      "start": 1.364208,
+      "duration": 0.454541,
+      "text": "दर्जी"
+    },
+    {
+      "start": 1.832958,
+      "duration": 0.184666,
+      "text": "की"
+    },
+    {
+      "start": 2.031833,
+      "duration": 0.46875,
+      "text": "दुकान"
+    },
+    {
+      "start": 2.514791,
+      "duration": 0.46875,
+      "text": "थी"
+    }
+  ]
+}

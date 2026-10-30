@@ -1,0 +1,36 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "उसने अंगूर की एक बेल देखी।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.553958,
+      "text": "उसने"
+    },
+    {
+      "start": 0.668166,
+      "duration": 0.553958,
+      "text": "अंगूर"
+    },
+    {
+      "start": 1.236375,
+      "duration": 0.241458,
+      "text": "की"
+    },
+    {
+      "start": 1.492041,
+      "duration": 0.255666,
+      "text": "एक"
+    },
+    {
+      "start": 1.761916,
+      "duration": 0.3125,
+      "text": "बेल"
+    },
+    {
+      "start": 2.088625,
+      "duration": 0.625,
+      "text": "देखी"
+    }
+  ]
+}

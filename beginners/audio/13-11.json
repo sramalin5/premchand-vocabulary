@@ -1,0 +1,26 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "सीख: जैसे को तैसा।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.980125,
+      "text": "सीख"
+    },
+    {
+      "start": 1.293166,
+      "duration": 0.539791,
+      "text": "जैसे"
+    },
+    {
+      "start": 1.847166,
+      "duration": 0.227291,
+      "text": "को"
+    },
+    {
+      "start": 2.088625,
+      "duration": 0.667625,
+      "text": "तैसा"
+    }
+  ]
+}

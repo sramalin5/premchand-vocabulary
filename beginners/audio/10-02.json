@@ -1,0 +1,36 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "दोनों तरफ से दो बकरियाँ आईं।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.639208,
+      "text": "दोनों"
+    },
+    {
+      "start": 0.753416,
+      "duration": 0.383541,
+      "text": "तरफ"
+    },
+    {
+      "start": 1.151125,
+      "duration": 0.255666,
+      "text": "से"
+    },
+    {
+      "start": 1.421041,
+      "duration": 0.340916,
+      "text": "दो"
+    },
+    {
+      "start": 1.776125,
+      "duration": 0.625,
+      "text": "बकरियाँ"
+    },
+    {
+      "start": 2.415333,
+      "duration": 0.596583,
+      "text": "आईं"
+    }
+  ]
+}

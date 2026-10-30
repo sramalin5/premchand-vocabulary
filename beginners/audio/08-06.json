@@ -1,0 +1,21 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "टिड्डा भूखा था।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.525583,
+      "text": "टिड्डा"
+    },
+    {
+      "start": 0.639791,
+      "duration": 0.511375,
+      "text": "भूखा"
+    },
+    {
+      "start": 1.165333,
+      "duration": 0.426125,
+      "text": "था"
+    }
+  ]
+}

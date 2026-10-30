@@ -1,0 +1,85 @@
+{
+  "tool": "Built-in image_gen",
+  "prompts": [
+    {
+      "story": 1,
+      "prompt": "Use case: illustration-story. Create a landscape 3:2 children's storybook watercolor illustration for a Hindi beginner reading website. A gentle golden lion lies beside a rope net in an Indian forest while a tiny mouse bites through a rope to free him. Both are friendly and expressive, the small mouse visibly helping the large lion. Warm cream paper texture, muted sage greens, ochre and terracotta, fine ink details, soft sunlight, polished hand-painted book art. No lettering, no words, no border, no watermark. One complete scene."
+    },
+    {
+      "story": 2,
+      "prompt": "Use case: illustration-story. Asset: landscape 3:2 illustration for a Hindi beginner story website. Scene: A brown dog carrying a bone stands on a small wooden bridge over a quiet river, looking at his own reflection holding a bone in the water. Style: polished children's storybook watercolor, warm cream paper texture, muted sage green, ochre and terracotta, delicate ink details, soft sunlight, expressive friendly animals, Indian folktale setting. One complete scene, no lettering, no words, no border, no watermark."
+    },
+    {
+      "story": 3,
+      "prompt": "Use case: illustration-story. Asset: landscape 3:2 illustration for a Hindi beginner story website. Scene: A clever orange fox looks up at a black crow perched in a leafy tree; a piece of pale cheese is falling from the crow's open beak toward the fox. Style: polished children's storybook watercolor, warm cream paper texture, muted sage green, ochre and terracotta, delicate ink details, soft sunlight, expressive friendly animals, Indian folktale setting. One complete scene, no lettering, no words, no border, no watermark."
+    },
+    {
+      "story": 4,
+      "prompt": "Use case: illustration-story. Asset: landscape 3:2 illustration for a Hindi beginner story website. Scene: An elderly Indian farmer in simple village clothing shows four grown sons a firmly tied bundle of sticks; a few broken single sticks rest nearby, teaching strength in unity. Style: polished children's storybook watercolor, warm cream paper texture, muted sage green, ochre and terracotta, delicate ink details, soft sunlight, expressive friendly animals, Indian folktale setting. One complete scene, no lettering, no words, no border, no watermark."
+    },
+    {
+      "story": 5,
+      "prompt": "Use case: illustration-story. Asset: landscape 3:2 illustration for a Hindi beginner story website. Scene: An Indian cap seller beneath a large tree tosses his cap onto the ground while mischievous monkeys in the branches imitate him, dropping colorful caps. Style: polished children's storybook watercolor, warm cream paper texture, muted sage green, ochre and terracotta, delicate ink details, soft sunlight, expressive friendly animals, Indian folktale setting. One complete scene, no lettering, no words, no border, no watermark."
+    },
+    {
+      "story": 6,
+      "prompt": "Use case: illustration-story. Asset: landscape 3:2 illustration for a Hindi beginner story website. Scene: A clever monkey sits safely on a jamun tree branch over a river, with purple jamun fruit visible; a friendly-looking crocodile waits below in the river. Style: polished children's storybook watercolor, warm cream paper texture, muted sage green, ochre and terracotta, delicate ink details, soft sunlight, expressive friendly animals, Indian folktale setting. One complete scene, no lettering, no words, no border, no watermark."
+    },
+    {
+      "story": 7,
+      "prompt": "Use case: illustration-story. Asset: landscape 3:2 illustration for a Hindi beginner story website. Scene: An Indian village shepherd boy beside his goats calls toward distant villagers while a wolf emerges at the edge of the pasture. Gentle cautionary scene without attack or injury. Style: polished children's storybook watercolor, warm cream paper texture, muted sage green, ochre and terracotta, delicate ink details, soft sunlight, expressive friendly animals, Indian folktale setting. One complete scene, no lettering, no words, no border, no watermark."
+    },
+    {
+      "story": 8,
+      "prompt": "Use case: illustration-story. Asset: landscape 3:2 illustration for a Hindi beginner story website. Scene: A hardworking ant carries grains toward a neat underground pantry while a relaxed green grasshopper sings nearby in a sunny summer meadow. Style: polished children's storybook watercolor, warm cream paper texture, muted sage green, ochre and terracotta, delicate ink details, soft sunlight, expressive friendly animals, Indian folktale setting. One complete scene, no lettering, no words, no border, no watermark."
+    },
+    {
+      "story": 9,
+      "prompt": "Use case: illustration-story. Asset: landscape 3:2 illustration for a Hindi beginner story website. Scene: An honest Indian woodcutter beside a river meets a kindly water deity rising from the water, presenting three distinct axes: gold, silver, and plain iron. Style: polished children's storybook watercolor, warm cream paper texture, muted sage green, ochre and terracotta, delicate ink details, soft sunlight, expressive friendly animals, Indian folktale setting. One complete scene, no lettering, no words, no border, no watermark."
+    },
+    {
+      "story": 10,
+      "prompt": "Use case: illustration-story. Asset: landscape 3:2 illustration for a Hindi beginner story website. Scene: Two stubborn goats face each other in the middle of a very narrow rustic bridge above a blue stream; they block each other's way. No falling, injuries or distress. Style: polished children's storybook watercolor, warm cream paper texture, muted sage green, ochre and terracotta, delicate ink details, soft sunlight, expressive friendly animals, Indian folktale setting. One complete scene, no lettering, no words, no border, no watermark."
+    },
+    {
+      "story": 11,
+      "prompt": "Use case: illustration-story. Asset: landscape 3:2 illustration for a Hindi beginner story website. Scene: Two wise goats cooperate on a narrow bridge over a stream: one crouches low while the other carefully steps over her to pass. Clearly show kind cooperation. Style: polished children's storybook watercolor, warm cream paper texture, muted sage green, ochre and terracotta, delicate ink details, soft sunlight, expressive friendly animals, Indian folktale setting. One complete scene, no lettering, no words, no border, no watermark."
+    },
+    {
+      "story": 12,
+      "prompt": "Use case: illustration-story. Asset: landscape 3:2 illustration for a Hindi beginner story website. Scene: An Indian village farmer admires a special brown hen beside a nest with one glowing golden egg in a peaceful courtyard. No violence. Style: polished children's storybook watercolor, warm cream paper texture, muted sage green, ochre and terracotta, delicate ink details, soft sunlight, expressive friendly animals, Indian folktale setting. One complete scene, no lettering, no words, no border, no watermark."
+    },
+    {
+      "story": 13,
+      "prompt": "Use case: illustration-story. Asset: landscape 3:2 illustration for a Hindi beginner story website. Scene: A large gentle elephant outside an Indian tailor's open village shop playfully sprays muddy river water from its trunk toward hanging clothes; a surprised tailor stands safely aside. Style: polished children's storybook watercolor, warm cream paper texture, muted sage green, ochre and terracotta, delicate ink details, soft sunlight, expressive friendly animals, Indian folktale setting. One complete scene, no lettering, no words, no border, no watermark."
+    },
+    {
+      "story": 14,
+      "prompt": "Use case: illustration-story. Asset: landscape 3:2 illustration for a Hindi beginner story website. Scene: A thirsty pigeon flies toward a painted picture of a bowl of water on a village wall, mistaking the painting for real water. Show the illusion clearly, no collision or injury. Style: polished children's storybook watercolor, warm cream paper texture, muted sage green, ochre and terracotta, delicate ink details, soft sunlight, expressive friendly animals, Indian folktale setting. One complete scene, no lettering, no words, no border, no watermark."
+    },
+    {
+      "story": 15,
+      "prompt": "Use case: illustration-story. Asset: landscape 3:2 illustration for a Hindi beginner story website. Scene: A hungry orange fox looks up at bunches of purple grapes hanging high from a lush grapevine, just out of reach, with a comically disappointed expression. Style: polished children's storybook watercolor, warm cream paper texture, muted sage green, ochre and terracotta, delicate ink details, soft sunlight, expressive friendly animals, Indian folktale setting. One complete scene, no lettering, no words, no border, no watermark."
+    },
+    {
+      "story": 16,
+      "prompt": "Use case: illustration-story. Asset: landscape 3:2 illustration for a Hindi beginner story website. Scene: A flock of small birds works together to lift a loose rope net into the sky above an Indian field while a distant surprised hunter watches, with no weapons visible. Style: polished children's storybook watercolor, warm cream paper texture, muted sage green, ochre and terracotta, delicate ink details, soft sunlight, expressive friendly animals, Indian folktale setting. One complete scene, no lettering, no words, no border, no watermark."
+    },
+    {
+      "story": 17,
+      "prompt": "Use case: illustration-story. Asset: landscape 3:2 illustration for a Hindi beginner story website. Scene: A small clever hare leads a proud golden lion to an old stone well in an Indian forest; the lion peers into the water and sees his own reflection. Safe gentle scene. Style: polished children's storybook watercolor, warm cream paper texture, muted sage green, ochre and terracotta, delicate ink details, soft sunlight, expressive friendly animals, Indian folktale setting. One complete scene, no lettering, no words, no border, no watermark."
+    },
+    {
+      "story": 18,
+      "prompt": "Use case: illustration-story. Asset: landscape 3:2 illustration for a Hindi beginner story website. Scene: A small fluffy yellow chick smiles beside its caring mother hen at the entrance of a tiny cozy house only the chick can enter, celebrating being small. Style: polished children's storybook watercolor, warm cream paper texture, muted sage green, ochre and terracotta, delicate ink details, soft sunlight, expressive friendly animals, Indian folktale setting. One complete scene, no lettering, no words, no border, no watermark."
+    },
+    {
+      "story": 19,
+      "prompt": "Use case: illustration-story. Asset: landscape 3:2 illustration for a Hindi beginner story website. Scene: A donkey stands in a shallow river carrying two bulky sacks of water-soaked white cotton, with an Indian village owner watching thoughtfully from the bank. Gentle, no suffering. Style: polished children's storybook watercolor, warm cream paper texture, muted sage green, ochre and terracotta, delicate ink details, soft sunlight, expressive friendly animals, Indian folktale setting. One complete scene, no lettering, no words, no border, no watermark."
+    },
+    {
+      "story": 20,
+      "prompt": "Use case: illustration-story. Asset: landscape 3:2 illustration for a Hindi beginner story website. Scene: Two friendly mice sit together comparing simple grain in a peaceful village corner with a distant rich city dining table where a large cat peers over the edge. One cohesive storybook scene illustrating peace over luxury. Style: polished children's storybook watercolor, warm cream paper texture, muted sage green, ochre and terracotta, delicate ink details, soft sunlight, expressive friendly animals, Indian folktale setting. One complete scene, no lettering, no words, no border, no watermark."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "एक कुत्ता था।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.369333,
+      "text": "एक"
+    },
+    {
+      "start": 0.483541,
+      "duration": 0.426125,
+      "text": "कुत्ता"
+    },
+    {
+      "start": 0.923875,
+      "duration": 0.454541,
+      "text": "था"
+    }
+  ]
+}

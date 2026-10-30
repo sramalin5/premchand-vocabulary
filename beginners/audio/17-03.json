@@ -1,0 +1,26 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "वह देर से पहुँचा।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.46875,
+      "text": "वह"
+    },
+    {
+      "start": 0.582958,
+      "duration": 0.355125,
+      "text": "देर"
+    },
+    {
+      "start": 0.952291,
+      "duration": 0.227291,
+      "text": "से"
+    },
+    {
+      "start": 1.19375,
+      "duration": 0.696041,
+      "text": "पहुँचा"
+    }
+  ]
+}

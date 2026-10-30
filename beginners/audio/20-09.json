@@ -1,0 +1,36 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "सीख: शांति सबसे बड़ा सुख है।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 1.051125,
+      "text": "सीख"
+    },
+    {
+      "start": 1.406833,
+      "duration": 0.724416,
+      "text": "शांति"
+    },
+    {
+      "start": 2.145458,
+      "duration": 0.553958,
+      "text": "सबसे"
+    },
+    {
+      "start": 2.713625,
+      "duration": 0.326708,
+      "text": "बड़ा"
+    },
+    {
+      "start": 3.054541,
+      "duration": 0.340916,
+      "text": "सुख"
+    },
+    {
+      "start": 3.409666,
+      "duration": 0.3125,
+      "text": "है"
+    }
+  ]
+}

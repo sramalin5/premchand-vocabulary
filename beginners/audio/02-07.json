@@ -1,0 +1,36 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "उसकी हड्डी पानी में गिर गई।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.46875,
+      "text": "उसकी"
+    },
+    {
+      "start": 0.582958,
+      "duration": 0.482958,
+      "text": "हड्डी"
+    },
+    {
+      "start": 1.080125,
+      "duration": 0.383541,
+      "text": "पानी"
+    },
+    {
+      "start": 1.477833,
+      "duration": 0.142041,
+      "text": "में"
+    },
+    {
+      "start": 1.634083,
+      "duration": 0.3125,
+      "text": "गिर"
+    },
+    {
+      "start": 1.960791,
+      "duration": 0.440333,
+      "text": "गई"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "वे हमेशा लड़ते थे।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.326708,
+      "text": "वे"
+    },
+    {
+      "start": 0.440916,
+      "duration": 0.653416,
+      "text": "हमेशा"
+    },
+    {
+      "start": 1.108541,
+      "duration": 0.454541,
+      "text": "लड़ते"
+    },
+    {
+      "start": 1.577291,
+      "duration": 0.397708,
+      "text": "थे"
+    }
+  ]
+}

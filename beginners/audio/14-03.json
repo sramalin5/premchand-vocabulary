@@ -1,0 +1,41 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "उसने सोचा कि वह असली पानी है।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.539791,
+      "text": "उसने"
+    },
+    {
+      "start": 0.653958,
+      "duration": 0.553958,
+      "text": "सोचा"
+    },
+    {
+      "start": 1.222166,
+      "duration": 0.184666,
+      "text": "कि"
+    },
+    {
+      "start": 1.421041,
+      "duration": 0.340916,
+      "text": "वह"
+    },
+    {
+      "start": 1.776125,
+      "duration": 0.426125,
+      "text": "असली"
+    },
+    {
+      "start": 2.216458,
+      "duration": 0.454541,
+      "text": "पानी"
+    },
+    {
+      "start": 2.685208,
+      "duration": 0.269875,
+      "text": "है"
+    }
+  ]
+}

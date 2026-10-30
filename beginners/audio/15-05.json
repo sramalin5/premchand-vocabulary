@@ -1,0 +1,36 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "वह अंगूरों तक नहीं पहुँच सकी।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.411916,
+      "text": "वह"
+    },
+    {
+      "start": 0.526125,
+      "duration": 0.610791,
+      "text": "अंगूरों"
+    },
+    {
+      "start": 1.151125,
+      "duration": 0.227291,
+      "text": "तक"
+    },
+    {
+      "start": 1.392625,
+      "duration": 0.369333,
+      "text": "नहीं"
+    },
+    {
+      "start": 1.776125,
+      "duration": 0.284083,
+      "text": "पहुँच"
+    },
+    {
+      "start": 2.074416,
+      "duration": 0.568166,
+      "text": "सकी"
+    }
+  ]
+}

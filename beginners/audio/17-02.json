@@ -1,0 +1,46 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "एक दिन एक छोटे खरगोश की बारी आई।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.411916,
+      "text": "एक"
+    },
+    {
+      "start": 0.526125,
+      "duration": 0.241458,
+      "text": "दिन"
+    },
+    {
+      "start": 0.781833,
+      "duration": 0.269875,
+      "text": "एक"
+    },
+    {
+      "start": 1.065916,
+      "duration": 0.497166,
+      "text": "छोटे"
+    },
+    {
+      "start": 1.577291,
+      "duration": 0.639208,
+      "text": "खरगोश"
+    },
+    {
+      "start": 2.230666,
+      "duration": 0.184666,
+      "text": "की"
+    },
+    {
+      "start": 2.429541,
+      "duration": 0.46875,
+      "text": "बारी"
+    },
+    {
+      "start": 2.9125,
+      "duration": 0.497166,
+      "text": "आई"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "शेर जाग गया।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.610791,
+      "text": "शेर"
+    },
+    {
+      "start": 0.725,
+      "duration": 0.340916,
+      "text": "जाग"
+    },
+    {
+      "start": 1.080125,
+      "duration": 0.46875,
+      "text": "गया"
+    }
+  ]
+}

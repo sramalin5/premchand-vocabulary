@@ -1,0 +1,46 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "एक बंदर जामुन के पेड़ पर रहता था।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.355125,
+      "text": "एक"
+    },
+    {
+      "start": 0.469333,
+      "duration": 0.497166,
+      "text": "बंदर"
+    },
+    {
+      "start": 0.980666,
+      "duration": 0.454541,
+      "text": "जामुन"
+    },
+    {
+      "start": 1.449416,
+      "duration": 0.184666,
+      "text": "के"
+    },
+    {
+      "start": 1.648291,
+      "duration": 0.426125,
+      "text": "पेड़"
+    },
+    {
+      "start": 2.088625,
+      "duration": 0.142041,
+      "text": "पर"
+    },
+    {
+      "start": 2.244875,
+      "duration": 0.411916,
+      "text": "रहता"
+    },
+    {
+      "start": 2.671041,
+      "duration": 0.411916,
+      "text": "था"
+    }
+  ]
+}

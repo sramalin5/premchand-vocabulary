@@ -1,0 +1,26 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "उसका मालिक समझ गया।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.482958,
+      "text": "उसका"
+    },
+    {
+      "start": 0.597166,
+      "duration": 0.482958,
+      "text": "मालिक"
+    },
+    {
+      "start": 1.094333,
+      "duration": 0.411916,
+      "text": "समझ"
+    },
+    {
+      "start": 1.520458,
+      "duration": 0.46875,
+      "text": "गया"
+    }
+  ]
+}

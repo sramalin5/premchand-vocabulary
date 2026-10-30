@@ -1,0 +1,1062 @@
+[
+  {
+    "number": 1,
+    "title": "शेर और चूहा",
+    "english": "The Lion and the Mouse",
+    "sentences": [
+      {
+        "hi": "एक शेर सो रहा था।",
+        "pron": "Ek sher so raha tha.",
+        "en": "A lion was sleeping."
+      },
+      {
+        "hi": "एक छोटा चूहा वहाँ आया।",
+        "pron": "Ek chhota chooha vahaan aaya.",
+        "en": "A small mouse came there."
+      },
+      {
+        "hi": "चूहा शेर के ऊपर कूदने लगा।",
+        "pron": "Chooha sher ke oopar koodne laga.",
+        "en": "The mouse began to jump on the lion."
+      },
+      {
+        "hi": "शेर जाग गया।",
+        "pron": "Sher jaag gaya.",
+        "en": "The lion woke up."
+      },
+      {
+        "hi": "शेर ने चूहे को पकड़ा।",
+        "pron": "Sher ne choohe ko pakda.",
+        "en": "The lion caught the mouse."
+      },
+      {
+        "hi": "चूहे ने कहा, \"मुझे छोड़ दो, मैं तुम्हारी मदद करूँगा।\"",
+        "pron": "Choohe ne kaha, \"Mujhe chhod do, main tumhari madad karoonga\".",
+        "en": "The mouse said, \"Leave me, I will help you.\""
+      },
+      {
+        "hi": "शेर हँसा और उसने चूहे को छोड़ दिया।",
+        "pron": "Sher hansa aur usne choohe ko chhod diya.",
+        "en": "The lion laughed and let the mouse go."
+      },
+      {
+        "hi": "एक दिन शेर जाल में फँस गया।",
+        "pron": "Ek din sher jaal mein phans gaya.",
+        "en": "One day the lion got caught in a net."
+      },
+      {
+        "hi": "चूहे ने जाल काट दिया।",
+        "pron": "Choohe ne jaal kaat diya.",
+        "en": "The mouse bit the net."
+      },
+      {
+        "hi": "शेर आज़ाद हो गया।",
+        "pron": "Sher azaad ho gaya.",
+        "en": "The lion became free."
+      },
+      {
+        "hi": "सीख: कोई भी छोटा नहीं होता।",
+        "pron": "Seekh: Koi bhi chhota nahi hota.",
+        "en": "Moral: No one is too small."
+      }
+    ],
+    "file": "01-lion-and-mouse.html",
+    "titlePronunciation": "Sher aur chooha"
+  },
+  {
+    "number": 2,
+    "title": "लालची कुत्ता",
+    "english": "The Greedy Dog",
+    "sentences": [
+      {
+        "hi": "एक कुत्ता था।",
+        "pron": "Ek kutta tha.",
+        "en": "There was a dog."
+      },
+      {
+        "hi": "उसे एक हड्डी मिली।",
+        "pron": "Use ek haddi mili.",
+        "en": "He found a bone."
+      },
+      {
+        "hi": "वह नदी के पुल पर चल रहा था।",
+        "pron": "Vah nadi ke pul par chal raha tha.",
+        "en": "He was walking on a river bridge."
+      },
+      {
+        "hi": "उसने पानी में अपनी परछाई देखी।",
+        "pron": "Usne paani mein apni parchhaai dekhi.",
+        "en": "He saw his reflection in the water."
+      },
+      {
+        "hi": "उसने सोचा कि वह दूसरा कुत्ता है जिसके पास भी हड्डी है।",
+        "pron": "Usne socha ki vah doosra kutta hai jiske paas bhi haddi hai.",
+        "en": "He thought it was another dog who also had a bone."
+      },
+      {
+        "hi": "कुत्ते ने भौंकने के लिए मुँह खोला।",
+        "pron": "Kutte ne bhaunkne ke liye munh khola.",
+        "en": "The dog opened his mouth to bark."
+      },
+      {
+        "hi": "उसकी हड्डी पानी में गिर गई।",
+        "pron": "Uski haddi paani mein gir gayi.",
+        "en": "His bone fell into the water."
+      },
+      {
+        "hi": "सीख: लालच बुरी बला है।",
+        "pron": "Seekh: Laalach buri bala hai.",
+        "en": "Moral: Greed is an evil thing."
+      }
+    ],
+    "file": "02-greedy-dog.html",
+    "titlePronunciation": "Laalchi kutta"
+  },
+  {
+    "number": 3,
+    "title": "चालाक लोमड़ी और कौआ",
+    "english": "The Clever Fox and the Crow",
+    "sentences": [
+      {
+        "hi": "एक कौआ पेड़ पर बैठा था।",
+        "pron": "Ek kauwa ped par baitha tha.",
+        "en": "A crow was sitting on a tree."
+      },
+      {
+        "hi": "उसके मुँह में पनीर का टुकड़ा था।",
+        "pron": "Uske munh mein paneer ka tukda tha.",
+        "en": "There was a piece of cheese in his mouth."
+      },
+      {
+        "hi": "एक चालाक लोमड़ी वहाँ आई।",
+        "pron": "Ek chaalaak lomdi vahaan aayi.",
+        "en": "A clever fox came there."
+      },
+      {
+        "hi": "उसने पनीर देखा।",
+        "pron": "Usne paneer dekha.",
+        "en": "She saw the cheese."
+      },
+      {
+        "hi": "लोमड़ी ने कहा, \"कौआ भाई!",
+        "pron": "Lomdi ne kaha, \"Kauwa bhaai!",
+        "en": "The fox said, \"Brother Crow!"
+      },
+      {
+        "hi": "तुम बहुत अच्छा गाते हो।",
+        "pron": "Tum bahut acchha gaate ho.",
+        "en": "You sing very well."
+      },
+      {
+        "hi": "एक गाना गाओ।\"",
+        "pron": "Ek gaana gaao\".",
+        "en": "Sing a song.\""
+      },
+      {
+        "hi": "कौए ने जैसे ही मुँह खोला, पनीर नीचे गिर गया।",
+        "pron": "Kauwe ne jaise hi munh khola, paneer neeche gir gaya.",
+        "en": "As soon as the crow opened his mouth, the cheese fell down."
+      },
+      {
+        "hi": "लोमड़ी पनीर लेकर भाग गई।",
+        "pron": "Lomdi paneer lekar bhaag gayi.",
+        "en": "The fox took the cheese and ran away."
+      },
+      {
+        "hi": "सीख: झूठी तारीफ़ से बचो।",
+        "pron": "Seekh: Jhoothi taareef se bacho.",
+        "en": "Moral: Beware of false flattery."
+      }
+    ],
+    "file": "03-fox-and-crow.html",
+    "titlePronunciation": "Chaalaak lomdi aur kauwa"
+  },
+  {
+    "number": 4,
+    "title": "एकता में शक्ति",
+    "english": "Strength in Unity",
+    "sentences": [
+      {
+        "hi": "एक बूढ़ा किसान था।",
+        "pron": "Ek boodha kisaan tha.",
+        "en": "There was an old farmer."
+      },
+      {
+        "hi": "उसके चार बेटे थे।",
+        "pron": "Uske chaar bete the.",
+        "en": "He had four sons."
+      },
+      {
+        "hi": "वे हमेशा लड़ते थे।",
+        "pron": "Ve hamesha ladte the.",
+        "en": "They always fought."
+      },
+      {
+        "hi": "किसान ने सबको एक-एक लकड़ी दी।",
+        "pron": "Kisaan ne sabko ek-ek lakdi dee.",
+        "en": "The farmer gave everyone one stick each."
+      },
+      {
+        "hi": "सबने लकड़ी आसानी से तोड़ दी।",
+        "pron": "Sabne lakdi aasaani se tod dee.",
+        "en": "Everyone broke the stick easily."
+      },
+      {
+        "hi": "फिर उसने लकड़ियों का एक गट्ठर दिया।",
+        "pron": "Phir usne lakdiyon ka ek gatthar diya.",
+        "en": "Then he gave a bundle of sticks."
+      },
+      {
+        "hi": "कोई भी उसे नहीं तोड़ सका।",
+        "pron": "Koi bhi use nahi tod saka.",
+        "en": "No one could break it."
+      },
+      {
+        "hi": "किसान ने कहा, \"अगर तुम साथ रहोगे, तो कोई तुम्हें नुकसान नहीं पहुँचा सकता।\"",
+        "pron": "Kisaan ne kaha, \"Agar tum saath rahoge, toh koi tumhein nuksaan nahi pahuncha sakta\".",
+        "en": "The farmer said, \"If you stay together, no one can harm you.\""
+      },
+      {
+        "hi": "सीख: एकता में शक्ति है।",
+        "pron": "Seekh: Ekta mein shakti hai.",
+        "en": "Moral: Unity is strength."
+      }
+    ],
+    "file": "04-strength-in-unity.html",
+    "titlePronunciation": "Ekta mein shakti"
+  },
+  {
+    "number": 5,
+    "title": "बंदर और टोपीवाला",
+    "english": "The Monkey and the Cap Seller",
+    "sentences": [
+      {
+        "hi": "एक आदमी टोपियाँ बेचता था।",
+        "pron": "Ek aadmi topiyaan bechta tha.",
+        "en": "A man used to sell caps."
+      },
+      {
+        "hi": "वह एक पेड़ के नीचे सो गया।",
+        "pron": "Vah ek ped ke neeche so gaya.",
+        "en": "He fell asleep under a tree."
+      },
+      {
+        "hi": "पेड़ पर बहुत सारे बंदर थे।",
+        "pron": "Ped par bahut saare bandar the.",
+        "en": "There were many monkeys on the tree."
+      },
+      {
+        "hi": "उन्होंने टोपियाँ ले लीं और पहन लीं।",
+        "pron": "Unhone topiyaan le leen aur pehan leen.",
+        "en": "They took the caps and wore them."
+      },
+      {
+        "hi": "आदमी जागा।",
+        "pron": "Aadmi jaaga.",
+        "en": "The man woke up."
+      },
+      {
+        "hi": "उसने अपनी टोपी ज़मीन पर फेंक दी।",
+        "pron": "Usne apni topi zameen par phenk dee.",
+        "en": "He threw his own cap on the ground."
+      },
+      {
+        "hi": "बंदरों ने उसकी नकल की।",
+        "pron": "Bandaron ne uski nakal kee.",
+        "en": "The monkeys copied him."
+      },
+      {
+        "hi": "सबने अपनी टोपियाँ नीचे फेंक दीं।",
+        "pron": "Sabne apni topiyaan neeche phenk deen.",
+        "en": "Everyone threw their caps down."
+      },
+      {
+        "hi": "आदमी ने टोपियाँ इकट्ठी कीं और चला गया।",
+        "pron": "Aadmi ne topiyaan ikatthi keen aur chala gaya.",
+        "en": "The man collected the caps and left."
+      },
+      {
+        "hi": "सीख: सूझबूझ से काम लें।",
+        "pron": "Seekh: Soojh-boojh se kaam lein.",
+        "en": "Moral: Act with intelligence."
+      }
+    ],
+    "file": "05-monkey-and-cap-seller.html",
+    "titlePronunciation": "Bandar aur topiwaala"
+  },
+  {
+    "number": 6,
+    "title": "बंदर और मगरमच्छ",
+    "english": "The Monkey and the Crocodile",
+    "sentences": [
+      {
+        "hi": "एक बंदर जामुन के पेड़ पर रहता था।",
+        "pron": "Ek bandar jaamun ke ped par rehta tha.",
+        "en": "A monkey lived on a jamun tree."
+      },
+      {
+        "hi": "नदी में एक मगरमच्छ रहता था।",
+        "pron": "Nadi mein ek magarmachh rehta tha.",
+        "en": "A crocodile lived in the river."
+      },
+      {
+        "hi": "दोनों दोस्त बन गए।",
+        "pron": "Donon dost ban gaye.",
+        "en": "Both became friends."
+      },
+      {
+        "hi": "बंदर मगरमच्छ को मीठे जामुन देता था।",
+        "pron": "Bandar magarmachh ko meethe jaamun deta tha.",
+        "en": "The monkey gave sweet jamuns to the crocodile."
+      },
+      {
+        "hi": "मगरमच्छ की पत्नी बंदर का दिल खाना चाहती थी।",
+        "pron": "Magarmachh kee patni bandar ka dil khaana chaahti thee.",
+        "en": "The crocodile's wife wanted to eat the monkey's heart."
+      },
+      {
+        "hi": "मगरमच्छ ने बंदर को अपनी पीठ पर बैठाया।",
+        "pron": "Magarmachh ne bandar ko apni peeth par baithaaya.",
+        "en": "The crocodile seated the monkey on his back."
+      },
+      {
+        "hi": "रास्ते में उसने सच बता दिया।",
+        "pron": "Raaste mein usne sach bata diya.",
+        "en": "On the way, he told the truth."
+      },
+      {
+        "hi": "बंदर ने कहा, \"मेरा दिल तो पेड़ पर ही रह गया!\"",
+        "pron": "Bandar ne kaha, \"Mera dil toh ped par hi reh gaya!\"",
+        "en": "The monkey said, \"My heart is left on the tree!\""
+      },
+      {
+        "hi": "मगरमच्छ वापस मुड़ा।",
+        "pron": "Magarmachh vaapas muda.",
+        "en": "The crocodile turned back."
+      },
+      {
+        "hi": "बंदर पेड़ पर चढ़ गया और अपनी जान बचाई।",
+        "pron": "Bandar ped par chadh gaya aur apni jaan bachaayi.",
+        "en": "The monkey climbed the tree and saved his life."
+      },
+      {
+        "hi": "सीख: मुसीबत में बुद्धि का प्रयोग करें।",
+        "pron": "Seekh: Musibat mein buddhi ka prayog karein.",
+        "en": "Moral: Use intelligence in times of trouble."
+      }
+    ],
+    "file": "06-monkey-and-crocodile.html",
+    "titlePronunciation": "Bandar aur magarmachh"
+  },
+  {
+    "number": 7,
+    "title": "चरवाहा और भेड़िया",
+    "english": "The Shepherd and the Wolf",
+    "sentences": [
+      {
+        "hi": "एक लड़का बकरियाँ चराता था।",
+        "pron": "Ek ladka bakriyaan charaata tha.",
+        "en": "A boy used to graze goats."
+      },
+      {
+        "hi": "वह अक्सर झूठ बोलता था।",
+        "pron": "Vah aksar jhooth bolta tha.",
+        "en": "He often lied."
+      },
+      {
+        "hi": "एक दिन वह चिल्लाया, \"भेड़िया आया!",
+        "pron": "Ek din vah chillaaya, \"Bhediya aaya!",
+        "en": "One day he shouted, \"Wolf!"
+      },
+      {
+        "hi": "भेड़िया आया!\"",
+        "pron": "Bhediya aaya!\"",
+        "en": "Wolf!\""
+      },
+      {
+        "hi": "गाँव वाले आए, पर कोई भेड़िया नहीं था।",
+        "pron": "Gaanv vaale aaye, par koi bhediya nahi tha.",
+        "en": "The villagers came, but there was no wolf."
+      },
+      {
+        "hi": "अगले दिन सच में भेड़िया आ गया।",
+        "pron": "Agle din sach mein bhediya aa gaya.",
+        "en": "The next day a wolf really came."
+      },
+      {
+        "hi": "लड़का बहुत चिल्लाया।",
+        "pron": "Ladka bahut chillaaya.",
+        "en": "The boy shouted a lot."
+      },
+      {
+        "hi": "गाँव वालों ने सोचा वह फिर झूठ बोल रहा है।",
+        "pron": "Gaanv vaalon ne socha vah phir jhooth bol raha hai.",
+        "en": "The villagers thought he was lying again."
+      },
+      {
+        "hi": "कोई नहीं आया।",
+        "pron": "Koi nahi aaya.",
+        "en": "No one came."
+      },
+      {
+        "hi": "भेड़िया उसकी बकरियाँ ले गया।",
+        "pron": "Bhediya uski bakriyaan le gaya.",
+        "en": "The wolf took his goats."
+      },
+      {
+        "hi": "सीख: झूठ बोलने वाले पर कोई विश्वास नहीं करता।",
+        "pron": "Seekh: Jhooth bolne vaale par koi vishvaas nahi karta.",
+        "en": "Moral: No one believes a liar."
+      }
+    ],
+    "file": "07-shepherd-and-wolf.html",
+    "titlePronunciation": "Charvaaha aur bhediya"
+  },
+  {
+    "number": 8,
+    "title": "चींटी और टिड्डा",
+    "english": "The Ant and the Grasshopper",
+    "sentences": [
+      {
+        "hi": "गर्मी का मौसम था।",
+        "pron": "Garmi ka mausam tha.",
+        "en": "It was summer season."
+      },
+      {
+        "hi": "चींटी खाना इकट्ठा कर रही थी।",
+        "pron": "Cheenti khaana ikatthha kar rahi thee.",
+        "en": "The ant was collecting food."
+      },
+      {
+        "hi": "टिड्डा बस गा रहा था और आराम कर रहा था।",
+        "pron": "Tidda bas gaa raha tha aur aaraam kar raha tha.",
+        "en": "The grasshopper was just singing and resting."
+      },
+      {
+        "hi": "सर्दियों का मौसम आया।",
+        "pron": "Sardiyon ka mausam aaya.",
+        "en": "Winter season came."
+      },
+      {
+        "hi": "चींटी के पास बहुत खाना था।",
+        "pron": "Cheenti ke paas bahut khaana tha.",
+        "en": "The ant had plenty of food."
+      },
+      {
+        "hi": "टिड्डा भूखा था।",
+        "pron": "Tidda bhookha tha.",
+        "en": "The grasshopper was hungry."
+      },
+      {
+        "hi": "उसे अपनी गलती का एहसास हुआ।",
+        "pron": "Use apni galti ka ehsaas hua.",
+        "en": "He realized his mistake."
+      },
+      {
+        "hi": "सीख: आज की मेहनत कल काम आती है।",
+        "pron": "Seekh: Aaj kee mehnat kal kaam aati hai.",
+        "en": "Moral: Today's hard work pays off tomorrow."
+      }
+    ],
+    "file": "08-ant-and-grasshopper.html",
+    "titlePronunciation": "Cheenti aur tidda"
+  },
+  {
+    "number": 9,
+    "title": "सच्चा सोना",
+    "english": "True Gold",
+    "sentences": [
+      {
+        "hi": "एक लकड़हारा था।",
+        "pron": "Ek lakadhaara tha.",
+        "en": "There was a woodcutter."
+      },
+      {
+        "hi": "उसकी कुल्हाड़ी नदी में गिर गई।",
+        "pron": "Uski kulhaadi nadi mein gir gayi.",
+        "en": "His axe fell into the river."
+      },
+      {
+        "hi": "जलदेवता नदी से बाहर आए।",
+        "pron": "Jaldevta nadi se baahar aaye.",
+        "en": "The Water God came out of the river."
+      },
+      {
+        "hi": "उन्होंने एक सोने की कुल्हाड़ी दिखाई।",
+        "pron": "Unhone ek sone kee kulhaadi dikhaayi.",
+        "en": "He showed a golden axe."
+      },
+      {
+        "hi": "लकड़हारे ने कहा, \"यह मेरी नहीं है।\"",
+        "pron": "lakadhaare ne kaha, \"Yeh meri nahi hai.\"",
+        "en": "The woodcutter said, \"This is not mine.\""
+      },
+      {
+        "hi": "फिर देवता ने चाँदी की कुल्हाड़ी दिखाई।",
+        "pron": "Phir devta ne chaandi kee kulhaadi dikhaayi.",
+        "en": "Then the God showed a silver axe."
+      },
+      {
+        "hi": "लकड़हारे ने फिर मना किया।",
+        "pron": "lakadhaare ne phir mana kiya.",
+        "en": "The woodcutter refused again."
+      },
+      {
+        "hi": "अंत में देवता ने लोहे की कुल्हाड़ी दिखाई।",
+        "pron": "Ant mein devta ne lohe kee kulhaadi dikhaayi.",
+        "en": "Finally, the God showed the iron axe."
+      },
+      {
+        "hi": "लकड़हारा खुश हो गया और बोला, \"हाँ, यह मेरी है!\"",
+        "pron": "lakadhaara khush ho gaya aur bola, \"Haan, yeh meri hai!\"",
+        "en": "The woodcutter became happy and said, \"Yes, this is mine!\""
+      },
+      {
+        "hi": "देवता उसकी ईमानदारी से बहुत खुश हुए।",
+        "pron": "Devta uski eemaandaari se bahut khush hue.",
+        "en": "The God was very pleased with his honesty."
+      },
+      {
+        "hi": "सीख: ईमानदारी सबसे अच्छी नीति है।",
+        "pron": "Seekh: Eemaandaari sabse acchhi neeti hai.",
+        "en": "Moral: Honesty is the best policy."
+      }
+    ],
+    "file": "09-honest-woodcutter.html",
+    "titlePronunciation": "Saccha sona"
+  },
+  {
+    "number": 10,
+    "title": "दो मूर्ख बकरियाँ",
+    "english": "The Two Foolish Goats",
+    "sentences": [
+      {
+        "hi": "एक पतला पुल था।",
+        "pron": "Ek patla pul tha.",
+        "en": "There was a narrow bridge."
+      },
+      {
+        "hi": "दोनों तरफ से दो बकरियाँ आईं।",
+        "pron": "Donon taraf se do bakriyaan aayeen.",
+        "en": "Two goats came from opposite sides."
+      },
+      {
+        "hi": "पुल पर एक समय में केवल एक ही बकरी जा सकती थी।",
+        "pron": "Pul par ek samay mein keval ek hi bakri ja sakti thee.",
+        "en": "Only one goat could cross the bridge at a time."
+      },
+      {
+        "hi": "वे बीच में मिलीं और लड़ने लगीं।",
+        "pron": "Ve beech mein mileen aur ladne lageen.",
+        "en": "They met in the middle and started fighting."
+      },
+      {
+        "hi": "दोनों पानी में गिर गईं।",
+        "pron": "Donon paani mein gir gayeen.",
+        "en": "Both fell into the water."
+      },
+      {
+        "hi": "सीख: लड़ाई से केवल नुकसान होता है।",
+        "pron": "Seekh: Ladaai se keval nuksaan hota hai.",
+        "en": "Moral: Fighting only leads to loss."
+      }
+    ],
+    "file": "10-two-foolish-goats.html",
+    "titlePronunciation": "Do moorkh bakriyaan"
+  },
+  {
+    "number": 11,
+    "title": "दो समझदार बकरियाँ",
+    "english": "The Two Wise Goats",
+    "sentences": [
+      {
+        "hi": "वही पतला पुल था।",
+        "pron": "Vahi patla pul tha.",
+        "en": "It was the same narrow bridge."
+      },
+      {
+        "hi": "दो और बकरियाँ आमने-सामने आईं।",
+        "pron": "Do aur bakriyaan aamne-saamne aayeen.",
+        "en": "Two other goats came face to face."
+      },
+      {
+        "hi": "एक बकरी पुल पर बैठ गई।",
+        "pron": "Ek bakri pul par baith gayi.",
+        "en": "One goat sat down on the bridge."
+      },
+      {
+        "hi": "दूसरी बकरी उसके ऊपर से निकल गई।",
+        "pron": "Doosri bakri uske oopar se nikal gayi.",
+        "en": "The other goat walked over her."
+      },
+      {
+        "hi": "फिर पहली बकरी उठी और रास्ता पार कर लिया।",
+        "pron": "Phir pehli bakri uthi aur raasta paar kar liya.",
+        "en": "Then the first goat stood up and crossed the path."
+      },
+      {
+        "hi": "सीख: समझदारी से हर मुश्किल आसान होती है।",
+        "pron": "Seekh: Samajhdaari se har mushkil aasaan hoti hai.",
+        "en": "Moral: Wisdom makes every difficulty easy."
+      }
+    ],
+    "file": "11-two-wise-goats.html",
+    "titlePronunciation": "Do samajhdaar bakriyaan"
+  },
+  {
+    "number": 12,
+    "title": "सोने का अंडा देने वाली मुर्गी",
+    "english": "The Hen That Lays a Golden Egg",
+    "sentences": [
+      {
+        "hi": "एक किसान के पास एक अनोखी मुर्गी थी।",
+        "pron": "Ek kisaan ke paas ek anokhi murgi thee.",
+        "en": "A farmer had a unique hen."
+      },
+      {
+        "hi": "वह रोज़ एक सोने का अंडा देती थी।",
+        "pron": "Vah roz ek sone ka anda detee thee.",
+        "en": "She laid a golden egg every day."
+      },
+      {
+        "hi": "किसान बहुत अमीर बन गया।",
+        "pron": "Kisaan bahut ameer ban gaya.",
+        "en": "The farmer became very rich."
+      },
+      {
+        "hi": "पर वह बहुत लालची था।",
+        "pron": "Par vah bahut laalchi tha.",
+        "en": "But he was very greedy."
+      },
+      {
+        "hi": "उसने सोचा, \"मैं मुर्गी को मारकर सारे अंडे एक साथ निकाल लूँ।\"",
+        "pron": "Usne socha, \"Main murgi ko maarkar saare ande ek saath nikaal loon\".",
+        "en": "He thought, \"I will kill the hen and take out all the eggs at once.\""
+      },
+      {
+        "hi": "उसने मुर्गी को मार दिया।",
+        "pron": "Usne murgi ko maar diya.",
+        "en": "He killed the hen."
+      },
+      {
+        "hi": "अंदर कुछ नहीं था।",
+        "pron": "Andar kuch nahi tha.",
+        "en": "There was nothing inside."
+      },
+      {
+        "hi": "अब उसे रोज़ एक अंडा भी नहीं मिला।",
+        "pron": "Ab use roz ek anda bhi nahi mila.",
+        "en": "Now he didn't even get one egg a day."
+      },
+      {
+        "hi": "सीख: सब कुछ एक साथ पाने के चक्कर में सब खो जाता है।",
+        "pron": "Seekh: Sab kuch ek saath paane ke chakkar mein sab kho jaata hai.",
+        "en": "Moral: In trying to get everything at once, all is lost."
+      }
+    ],
+    "file": "12-golden-egg-hen.html",
+    "titlePronunciation": "Sone ka anda dene waali murgi"
+  },
+  {
+    "number": 13,
+    "title": "हाथी और दर्जी",
+    "english": "The Elephant and the Tailor",
+    "sentences": [
+      {
+        "hi": "एक हाथी रोज़ नदी पर पानी पीने जाता था।",
+        "pron": "Ek haathi roz nadi par paani peene jaata tha.",
+        "en": "An elephant went to the river every day to drink water."
+      },
+      {
+        "hi": "रास्ते में एक दर्जी की दुकान थी।",
+        "pron": "Raaste mein ek darzi kee dukaan thee.",
+        "en": "On the way, there was a tailor's shop."
+      },
+      {
+        "hi": "दर्जी रोज़ हाथी को कुछ खाने को देता था।",
+        "pron": "Darzi roz haathi ko kuch khaane ko deta tha.",
+        "en": "The tailor gave the elephant something to eat every day."
+      },
+      {
+        "hi": "दोनों दोस्त थे।",
+        "pron": "Donon dost the.",
+        "en": "They were friends."
+      },
+      {
+        "hi": "एक दिन दर्जी गुस्से में था।",
+        "pron": "Ek din darzi gusse mein tha.",
+        "en": "One day the tailor was angry."
+      },
+      {
+        "hi": "उसने हाथी की सूंड में सुई चुभा दी।",
+        "pron": "Usne haathi kee soond mein sui chubha dee.",
+        "en": "He pricked a needle into the elephant's trunk."
+      },
+      {
+        "hi": "हाथी शांत रहा।",
+        "pron": "Haathi shaant raha.",
+        "en": "The elephant stayed calm."
+      },
+      {
+        "hi": "वह नदी पर गया।",
+        "pron": "Vah nadi par gaya.",
+        "en": "He went to the river."
+      },
+      {
+        "hi": "उसने अपनी सूंड में गंदा पानी भरा।",
+        "pron": "Usne apni soond mein ganda paani bhara.",
+        "en": "He filled his trunk with dirty water."
+      },
+      {
+        "hi": "वापस आते समय उसने सारा गंदा पानी दर्जी के नए कपड़ों पर फेंक दिया।",
+        "pron": "Vaapas aate samay usne saara ganda paani darzi ke naye kapdon par phenk diya.",
+        "en": "While returning, he threw all the dirty water on the tailor's new clothes."
+      },
+      {
+        "hi": "सीख: जैसे को तैसा।",
+        "pron": "Seekh: Jaise ko taisa.",
+        "en": "Moral: Tit for tat."
+      }
+    ],
+    "file": "13-elephant-and-tailor.html",
+    "titlePronunciation": "Haathi aur darzi"
+  },
+  {
+    "number": 14,
+    "title": "प्यासा कबूतर",
+    "english": "The Thirsty Pigeon",
+    "sentences": [
+      {
+        "hi": "एक कबूतर बहुत प्यासा था।",
+        "pron": "Ek kabootar bahut pyaasa tha.",
+        "en": "A pigeon was very thirsty."
+      },
+      {
+        "hi": "उसने दीवार पर पानी का चित्र देखा।",
+        "pron": "Usne deevaar par paani ka chitra dekha.",
+        "en": "He saw a picture of water on a wall."
+      },
+      {
+        "hi": "उसने सोचा कि वह असली पानी है।",
+        "pron": "Usne socha ki vah asli paani hai.",
+        "en": "He thought it was real water."
+      },
+      {
+        "hi": "वह तेज़ी से वहाँ उड़ा।",
+        "pron": "Vah tezi se vahaan uda.",
+        "en": "He flew there fast."
+      },
+      {
+        "hi": "वह दीवार से टकरा गया और नीचे गिर गया।",
+        "pron": "Vah deevaar se takra gaya aur neeche gir gaya.",
+        "en": "He hit the wall and fell down."
+      },
+      {
+        "hi": "सीख: बिना सोचे समझे काम मत करो।",
+        "pron": "Seekh: Bina soche samjhe kaam mat karo.",
+        "en": "Moral: Do not act without thinking."
+      }
+    ],
+    "file": "14-thirsty-pigeon.html",
+    "titlePronunciation": "Pyaasa kabootar"
+  },
+  {
+    "number": 15,
+    "title": "अंगूर खट्टे हैं",
+    "english": "The Grapes Are Sour",
+    "sentences": [
+      {
+        "hi": "एक भूखी लोमड़ी जंगल में घूम रही थी।",
+        "pron": "Ek bhookhi lomdi jangal mein ghoom rahi thee.",
+        "en": "A hungry fox was wandering in the forest."
+      },
+      {
+        "hi": "उसने अंगूर की एक बेल देखी।",
+        "pron": "Usne angoor kee ek bel dekhee.",
+        "en": "She saw a grapevine."
+      },
+      {
+        "hi": "अंगूर बहुत ऊपर थे।",
+        "pron": "Angoor bahut oopar the.",
+        "en": "The grapes were very high up."
+      },
+      {
+        "hi": "लोमड़ी ने बार-बार छलांग लगाई।",
+        "pron": "Lomdi ne baar-baar chhalaang lagaayi.",
+        "en": "The fox jumped repeatedly."
+      },
+      {
+        "hi": "वह अंगूरों तक नहीं पहुँच सकी।",
+        "pron": "Vah angooron tak nahi pahunch sakee.",
+        "en": "She could not reach the grapes."
+      },
+      {
+        "hi": "वह थक गई।",
+        "pron": "Vah thak gayi.",
+        "en": "She got tired."
+      },
+      {
+        "hi": "जाते-जाते उसने कहा, \"ये अंगूर खट्टे हैं, मुझे नहीं चाहिए।\"",
+        "pron": "Jaate-jaate usne kaha, \"Ye angoor khatte hain, mujhe nahi chaahiye\".",
+        "en": "As she left she said, \"These grapes are sour, I don't want them.\""
+      },
+      {
+        "hi": "सीख: जब कोई चीज़ नहीं मिलती, तो लोग उसमें कमी निकालते हैं।",
+        "pron": "Seekh: Jab koi cheez nahi milti, toh log usmein kami nikaalte hain.",
+        "en": "Moral: When people can't get something, they find fault in it."
+      }
+    ],
+    "file": "15-sour-grapes.html",
+    "titlePronunciation": "Angoor khatte hain"
+  },
+  {
+    "number": 16,
+    "title": "चिड़िया और जाल",
+    "english": "The Bird and the Net",
+    "sentences": [
+      {
+        "hi": "शिकारी ने ज़मीन पर दाने डाले और जाल बिछा दिया।",
+        "pron": "Shikaari ne zameen par daane daale aur jaal bichha diya.",
+        "en": "A hunter dropped grains on the ground and spread a net."
+      },
+      {
+        "hi": "चिड़ियों का एक झुंड नीचे आया और जाल में फँस गया।",
+        "pron": "Chidiyon ka ek jhund neeche aaya aur jaal mein phans gaya.",
+        "en": "A flock of birds came down and got caught in the net."
+      },
+      {
+        "hi": "उनके राजा ने कहा, \"सब एक साथ ज़ोर लगाओ और उड़ जाओ।\"",
+        "pron": "Unke raaja ne kaha, \"Sab ek saath zor lagaao aur ud jaao\".",
+        "en": "Their king said, \"Everyone apply force together and fly away.\""
+      },
+      {
+        "hi": "सभी चिड़ियाँ जाल लेकर उड़ गईं।",
+        "pron": "Sabhi chidiyan jaal lekar ud gayeen.",
+        "en": "All the birds flew away carrying the net."
+      },
+      {
+        "hi": "शिकारी देखता रह गया।",
+        "pron": "Shikaari dekhta reh gaya.",
+        "en": "The hunter was left watching."
+      },
+      {
+        "hi": "सीख: एकता में बड़ी शक्ति है।",
+        "pron": "Seekh: Ekta mein badi shakti hai.",
+        "en": "Moral: There is great power in unity."
+      }
+    ],
+    "file": "16-birds-and-net.html",
+    "titlePronunciation": "Chidiya aur jaal"
+  },
+  {
+    "number": 17,
+    "title": "शेर और खरगोश",
+    "english": "The Lion and the Hare",
+    "sentences": [
+      {
+        "hi": "एक क्रूर शेर जंगल के जानवरों को मारता था।",
+        "pron": "Ek kroor sher jangal ke jaanvaron ko maarta tha.",
+        "en": "A cruel lion used to kill the animals of the forest."
+      },
+      {
+        "hi": "एक दिन एक छोटे खरगोश की बारी आई।",
+        "pron": "Ek din ek chhote khargosh kee baari aayi.",
+        "en": "One day it was a small rabbit's turn."
+      },
+      {
+        "hi": "वह देर से पहुँचा।",
+        "pron": "Vah der se pahuncha.",
+        "en": "He arrived late."
+      },
+      {
+        "hi": "शेर गुस्सा हुआ।",
+        "pron": "Sher gussa hua.",
+        "en": "The lion got angry."
+      },
+      {
+        "hi": "खरगोश ने कहा, \"रास्ते में मुझे दूसरा शेर मिला था।\"",
+        "pron": "Khargosh ne kaha, \"Raaste mein mujhe doosra sher mila tha\".",
+        "en": "The rabbit said, \"On the way, I met another lion.\""
+      },
+      {
+        "hi": "खरगोश शेर को एक कुएँ के पास ले गया।",
+        "pron": "Khargosh sher ko ek kuen ke paas le gaya.",
+        "en": "The rabbit took the lion to a well."
+      },
+      {
+        "hi": "शेर ने पानी में अपनी परछाई देखी।",
+        "pron": "Sher ne paani mein apni parchhaai dekhi.",
+        "en": "The lion saw his reflection in the water."
+      },
+      {
+        "hi": "उसने सोचा वह दूसरा शेर है और वह कुएँ में कूद गया।",
+        "pron": "Usne socha vah doosra sher hai aur vah kuen mein kood gaya.",
+        "en": "He thought it was the other lion and he jumped into the well."
+      },
+      {
+        "hi": "सीख: बुद्धि शारीरिक बल से बड़ी होती है।",
+        "pron": "Seekh: Buddhi shaareerik bal se badi hoti hai.",
+        "en": "Moral: Wisdom is greater than physical strength."
+      }
+    ],
+    "file": "17-lion-and-hare.html",
+    "titlePronunciation": "Sher aur khargosh"
+  },
+  {
+    "number": 18,
+    "title": "बड़ा या छोटा",
+    "english": "Big or Small",
+    "sentences": [
+      {
+        "hi": "एक छोटा चूजा था।",
+        "pron": "Ek chhota chooja tha.",
+        "en": "There was a little chick."
+      },
+      {
+        "hi": "वह हमेशा दुखी रहता था।",
+        "pron": "Vah hamesha dukhi rehta tha.",
+        "en": "He was always sad."
+      },
+      {
+        "hi": "वह कहता, \"मैं बहुत छोटा हूँ, मैं पेड़ पर नहीं चढ़ सकता।\"",
+        "pron": "Vah kehta, \"Main bahut chhota hoon, main ped par nahi chadh sakta\".",
+        "en": "He would say, \"I am too small, I cannot climb the tree.\""
+      },
+      {
+        "hi": "उसकी माँ ने कहा, \"तुम छोटे हो, इसलिए तुम इस छोटे से घर में छिप सकते हो।\"",
+        "pron": "Uski maa ne kaha, \"Tum chhote ho, isliye tum is chhote se ghar mein chhip sakte ho\".",
+        "en": "His mother said, \"You are small, that is why you can hide in this tiny house.\""
+      },
+      {
+        "hi": "चूजा खुश हो गया।",
+        "pron": "Chooja khush ho gaya.",
+        "en": "The chick became happy."
+      },
+      {
+        "hi": "वह समझ गया कि वह जैसा है, अच्छा है।",
+        "pron": "Vah samajh gaya ki vah jaisa hai, acchha hai.",
+        "en": "He understood that he is good just the way he is."
+      },
+      {
+        "hi": "सीख: खुद से प्यार करो।",
+        "pron": "Seekh: Khud se pyaar karo.",
+        "en": "Moral: Love yourself."
+      }
+    ],
+    "file": "18-too-big-too-small.html",
+    "titlePronunciation": "Bada ya chhota"
+  },
+  {
+    "number": 19,
+    "title": "आलसी गधा",
+    "english": "The Lazy Donkey",
+    "sentences": [
+      {
+        "hi": "एक गधा रोज़ पीठ पर नमक का बोरा ले जाता था।",
+        "pron": "Ek gadha roz peeth par namak ka bora le jaata tha.",
+        "en": "A donkey carried a bag of salt on his back every day."
+      },
+      {
+        "hi": "एक दिन वह नदी पार करते समय पानी में गिर गया।",
+        "pron": "Ek din vah nadi paar karte samay paani mein gir gaya.",
+        "en": "One day while crossing the river, he fell into the water."
+      },
+      {
+        "hi": "नमक घुल गया और बोरा हल्का हो गया।",
+        "pron": "Namak ghul gaya aur bora halka ho gaya.",
+        "en": "The salt dissolved and the bag became light."
+      },
+      {
+        "hi": "अगले दिन गधा जानबूझकर नदी में गिरा।",
+        "pron": "Agle din gadha jaan-boojhkar nadi mein gira.",
+        "en": "The next day the donkey intentionally fell into the river."
+      },
+      {
+        "hi": "उसका मालिक समझ गया।",
+        "pron": "Uska maalik samajh gaya.",
+        "en": "His master understood."
+      },
+      {
+        "hi": "तीसरे दिन मालिक ने बोरे में रूई भर दी।",
+        "pron": "Teesre din maalik ne bore mein rooi bhar dee.",
+        "en": "On the third day, the master filled the bag with cotton."
+      },
+      {
+        "hi": "गधा फिर पानी में गिरा।",
+        "pron": "Gadha phir paani mein gira.",
+        "en": "The donkey fell into the water again."
+      },
+      {
+        "hi": "रूई ने पानी सोख लिया और बोरा बहुत भारी हो गया।",
+        "pron": "Rooi ne paani sokh liya aur bora bahut bhaari ho gaya.",
+        "en": "The cotton absorbed the water and the bag became very heavy."
+      },
+      {
+        "hi": "गधे को सबक मिला।",
+        "pron": "Gadhe ko sabak mila.",
+        "en": "The donkey learned a lesson."
+      },
+      {
+        "hi": "सीख: काम से जी नहीं चुराना चाहिए।",
+        "pron": "Seekh: Kaam se jee nahi churaana chaahiye.",
+        "en": "Moral: One should not shirk away from work."
+      }
+    ],
+    "file": "19-lazy-donkey.html",
+    "titlePronunciation": "Aalsi gadha"
+  },
+  {
+    "number": 20,
+    "title": "दो चूहे",
+    "english": "The Two Mice",
+    "sentences": [
+      {
+        "hi": "एक गाँव का चूहा था और एक शहर का चूहा था।",
+        "pron": "Ek gaanv ka chooha tha aur ek shehar ka chooha tha.",
+        "en": "There was a village mouse and a city mouse."
+      },
+      {
+        "hi": "दोनों दोस्त थे।",
+        "pron": "Donon dost the.",
+        "en": "Both were friends."
+      },
+      {
+        "hi": "गाँव का चूहा शहर गया।",
+        "pron": "Gaanv ka chooha shehar gaya.",
+        "en": "The village mouse went to the city."
+      },
+      {
+        "hi": "वहाँ बहुत अच्छा खाना था।",
+        "pron": "Vaha bahut acchha khaana tha.",
+        "en": "There was very good food there."
+      },
+      {
+        "hi": "लेकिन वहाँ एक बड़ी बिल्ली भी थी।",
+        "pron": "Lekin vahaan ek badi billi bhi thee.",
+        "en": "But there was also a big cat there."
+      },
+      {
+        "hi": "चूहे हर समय डरते थे।",
+        "pron": "Choohe har samay darte the.",
+        "en": "The mice were scared all the time."
+      },
+      {
+        "hi": "गाँव का चूहा वापस आ गया।",
+        "pron": "Gaanv ka chooha vaapas aa gaya.",
+        "en": "The village mouse came back."
+      },
+      {
+        "hi": "उसने कहा, \"शांति का सूखा खाना, डर के हलवे से बेहतर है।\"",
+        "pron": "Usne kaha, \"Shaanti ka sookha khaana, dar ke halwe se behtar hai\".",
+        "en": "He said, \"Dry food in peace is better than a sweet feast in fear.\""
+      },
+      {
+        "hi": "सीख: शांति सबसे बड़ा सुख है।",
+        "pron": "Seekh: Shaanti sabse bada sukh hai.",
+        "en": "Moral: Peace is the greatest happiness."
+      }
+    ],
+    "file": "20-two-mice.html",
+    "titlePronunciation": "Do choohe"
+  }
+]

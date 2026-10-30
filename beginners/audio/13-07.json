@@ -1,0 +1,21 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "हाथी शांत रहा।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.568166,
+      "text": "हाथी"
+    },
+    {
+      "start": 0.682375,
+      "duration": 0.440333,
+      "text": "शांत"
+    },
+    {
+      "start": 1.136916,
+      "duration": 0.46875,
+      "text": "रहा"
+    }
+  ]
+}

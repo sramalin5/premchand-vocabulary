@@ -1,0 +1,26 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "एक छोटा चूजा था।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.397708,
+      "text": "एक"
+    },
+    {
+      "start": 0.511916,
+      "duration": 0.539791,
+      "text": "छोटा"
+    },
+    {
+      "start": 1.065916,
+      "duration": 0.440333,
+      "text": "चूजा"
+    },
+    {
+      "start": 1.520458,
+      "duration": 0.440333,
+      "text": "था"
+    }
+  ]
+}

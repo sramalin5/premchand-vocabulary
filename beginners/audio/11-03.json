@@ -1,0 +1,36 @@
+{
+  "voice": "hi-IN-SwaraNeural",
+  "text": "एक बकरी पुल पर बैठ गई।",
+  "words": [
+    {
+      "start": 0.1,
+      "duration": 0.355125,
+      "text": "एक"
+    },
+    {
+      "start": 0.469333,
+      "duration": 0.454541,
+      "text": "बकरी"
+    },
+    {
+      "start": 0.938083,
+      "duration": 0.355125,
+      "text": "पुल"
+    },
+    {
+      "start": 1.307375,
+      "duration": 0.198875,
+      "text": "पर"
+    },
+    {
+      "start": 1.520458,
+      "duration": 0.383541,
+      "text": "बैठ"
+    },
+    {
+      "start": 1.918166,
+      "duration": 0.454541,
+      "text": "गई"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+:root{color-scheme:light;--paper:#faf7f0;--ink:#253b37;--muted:#68736b;--line:#dcded3;--accent:#ad703c}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font:17px/1.45 system-ui,"Nirmala UI","Mangal",sans-serif}
+main{max-width:1200px;margin:auto;padding:22px 26px 28px}
+nav{display:flex;justify-content:flex-end;flex-wrap:wrap;gap:6px 18px;font-size:15px;margin-bottom:16px}
+a{color:#275b4b;text-underline-offset:4px}
+.eyebrow{color:var(--accent);font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:700;margin:0 0 4px}
+h1{font:500 clamp(30px,4vw,46px)/1.25 Georgia,"Nirmala UI",serif;margin:6px 0 2px}
+h1 span{display:block;font:400 26px/1.4 "Nirmala UI",sans-serif;margin-top:3px}
+.subtitle{font:21px/1.3 Georgia,serif;margin:4px 0 6px}
+.intro{color:var(--muted);max-width:760px;margin:6px 0 10px}
+.pronunciation{font-size:16px;color:#80542f}
+.title-pronunciation{margin:2px 0 5px;line-height:1.35}
+.toolbar{display:flex;flex-wrap:wrap;gap:7px;margin:10px 0}
+button{font:inherit;font-size:14px;cursor:pointer;background:#fffdf8;color:var(--ink);border:1px solid #aebdaf;border-radius:7px;padding:7px 12px;min-height:36px}
+button:hover{background:#e9ede2}
+button:focus-visible,a:focus-visible,.table-wrap:focus-visible{outline:3px solid #ad703c;outline-offset:4px}
+#audio-status{color:var(--muted);font-size:13px;min-height:19px;margin:6px 0}
+.sentence{display:grid;grid-template-columns:44px minmax(0,1fr);gap:12px;border-top:1px solid var(--line);padding:10px 0;scroll-margin-top:12px}
+.sentence p{margin:0 0 2px}
+.sentence p:last-child{margin-bottom:0}
+.hindi{font-size:26px;line-height:1.55}
+.translation{font-size:17px;line-height:1.4}
+.listen{align-self:start;padding:6px 0;margin-top:2px;min-height:44px}
+.listen[aria-pressed=true]{background:#253b37;color:#fff}
+.word.active{background:#ffe064;color:#172b24;outline:3px solid #ad703c;border-radius:4px;box-shadow:0 2px 7px #ad703c66}
+.words{margin-top:20px;border-top:2px solid var(--line)}
+.words h2{margin:12px 0 4px}
+.words>p{margin:4px 0 10px}
+.table-wrap{overflow-x:auto;border:1px solid var(--line);border-radius:8px;background:#fffdf8}
+table{border-collapse:collapse;width:100%;min-width:780px;font-size:15px}
+th,td{text-align:left;vertical-align:top;padding:8px 11px;border-bottom:1px solid var(--line)}
+th{background:#e9ede2}
+td[lang=hi]{font-size:20px;line-height:1.55}
+th:nth-child(4),th:nth-child(5){width:27%}
+.story-nav{justify-content:space-between;margin:12px 0}
+.story-picture{max-width:480px;margin:12px auto}
+.story-picture img{display:block;width:100%;height:auto;border-radius:10px;border:1px solid var(--line)}
+.cards{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin-top:18px}
+.card{background:#fffdf8;border:1px solid var(--line);border-radius:10px;overflow:hidden}
+.card a{display:block;padding:0 0 14px;height:100%;text-decoration:none;color:inherit}
+.card a>:not(img){margin-left:16px;margin-right:16px}
+.card a>.eyebrow{display:block;margin-top:10px}
+.card:hover{box-shadow:0 7px 22px #26392c16}
+.card h2{font-size:24px;font-weight:500;line-height:1.4;margin-top:4px;margin-bottom:2px}
+.card p{margin-top:4px;margin-bottom:6px;color:var(--muted)}
+.card p.pronunciation{color:#80542f;margin-top:0;margin-bottom:4px}
+.card-picture{display:block;width:100%;height:auto;aspect-ratio:3/2;object-fit:cover;background:#ede8dd}
+footer{color:var(--muted);font-size:13px;margin-top:20px}
+[hidden]{display:none!important}
+@media(max-width:800px){.cards{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:500px){main{padding:16px 14px 24px}.cards{grid-template-columns:1fr}nav{justify-content:flex-start;gap:6px 13px;font-size:14px;margin-bottom:12px}.sentence{gap:9px;padding:9px 0}.hindi{font-size:24px}.toolbar button{flex:1 1 140px;font-size:13px;min-height:44px;padding:5px 8px}.pronunciation,.translation{overflow-wrap:anywhere}.story-picture{max-width:330px;margin:10px auto}.story-picture img{border-radius:8px}}
+/* Preserve the reading column when its audio control is hidden. */
+.sentence>div{grid-column:2;min-width:0}
+.hindi-hidden .sentence{grid-template-columns:minmax(0,1fr)}
+.hindi-hidden .sentence>div{grid-column:1}
+.toolbar button[data-toggle][aria-pressed="false"]{background:#275b4b;color:#fff;border-color:#275b4b;font-weight:600}
+.toolbar button[data-toggle][aria-pressed="false"]::before{content:'✓ ';font-weight:700}
+.toolbar button[data-toggle][aria-pressed="true"]{background:#ede9e0;color:#34453e;border:1px dashed #68736b;font-weight:600}
+.toolbar button[data-toggle][aria-pressed="true"]::before{content:'+ ';font-weight:700}
+.toolbar button[data-toggle]:hover{box-shadow:0 0 0 2px #ad703c55}
+.script-reference{position:fixed;right:16px;top:18px;width:288px;z-index:20;border:1px solid #aebdaf;border-radius:9px;background:#fffdf8;box-shadow:0 5px 22px #253b3726;overflow:hidden}
+#script-reference-toggle{width:100%;display:flex;align-items:center;justify-content:space-between;gap:8px;border:0;border-radius:0;background:#275b4b;color:#fff;font-size:14px;font-weight:600;min-height:42px;padding:9px 10px}
+.script-toggle-label{font-size:12px;font-weight:400}
+#script-reference-body{padding:6px 8px 10px;max-height:calc(100vh - 92px);overflow-y:auto;overscroll-behavior:contain}
+.script-help,#script-audio-status{font-size:12px;margin:3px 0 6px;line-height:1.35;color:#34453e}
+.script-reference details{border-top:1px solid var(--line);margin-top:5px;padding-top:3px}
+.script-reference summary{font-size:12px;font-weight:600;cursor:pointer;padding:4px 0}
+.script-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:4px;margin:3px 0 6px}
+.script-sound{position:relative;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:1px;min-width:0;min-height:45px;padding:2px 1px;border-radius:5px;line-height:1.05}
+.script-sound [lang=hi]{font-size:21px;line-height:1.2}
+.script-roman{font-size:10px;line-height:1.1;overflow-wrap:anywhere}
+.script-speaker{position:absolute;right:2px;top:2px;font-size:7px;color:#275b4b}
+.script-sound[aria-pressed=true]{background:#ffe064;border-color:#80542f;box-shadow:0 0 0 1px #80542f}
+.script-full-link{font-size:12px}
+
+@media(max-width:999px){.script-reference{top:auto;bottom:10px;right:10px;width:260px}#script-reference-body{max-height:30vh}.script-grid{gap:3px}.script-sound{min-height:44px}}
+/* Show the complete character reference, fitted to the viewport without internal scrolling. */
+.script-reference{top:12px;bottom:auto;right:12px;width:min(420px,calc(100vw - 24px));overflow:visible;transform:scale(var(--reference-scale,1));transform-origin:top right}
+#script-reference-body{max-height:none;overflow:visible;overscroll-behavior:auto;padding:4px 7px 7px}
+.script-grid{grid-template-columns:repeat(10,minmax(0,1fr));gap:3px;margin:2px 0 4px}
+.script-sound{min-height:32px;height:32px;padding:1px 0}
+.script-sound [lang=hi]{font-size:18px;line-height:1.05}
+.script-roman{font-size:8px;line-height:1;white-space:nowrap;letter-spacing:-.2px}
+.script-reference summary{font-size:11px;padding:3px 0}
+.script-reference details{margin-top:3px;padding-top:2px}
+.script-help,#script-audio-status{font-size:11px;margin:2px 0 4px}
+.script-full-link{font-size:11px}
+
+/* Consonant rows: five stop/nasal groups, then semivowels and sibilants. */
+.script-grid[data-script-group="consonants"]{grid-template-columns:repeat(5,minmax(0,1fr))}
+.script-grid[data-script-group="consonants"] .script-sound:nth-child(30){grid-column:1}
+.table-audio-line{display:flex;align-items:flex-start;gap:6px;min-width:0}
+.table-listen{flex:0 0 27px;width:27px;min-height:27px;padding:3px 0;margin-top:3px;font-size:11px;line-height:1.5;border-radius:5px;color:#fff;background:#275b4b;border-color:#275b4b}
+.table-listen:hover{background:#1c4437}
+.table-listen[aria-pressed=true]{background:#ffe064;color:#172b24;border-color:#80542f}
+.context-text{min-width:0;overflow-wrap:normal}
+@media(max-width:500px){.table-listen{min-height:32px;flex-basis:30px;width:30px}}
+
+/* The reference floats over the page; vocabulary keeps the full reading width. */
+@media(min-width:1000px){body.has-script-reference section[aria-label="Story sentences"]{padding-right:430px}}
+@media(min-width:800px){.words table{min-width:0;table-layout:fixed}.words th:nth-child(1){width:14%}.words th:nth-child(2){width:16%}.words th:nth-child(3){width:18%}.words th:nth-child(4),.words th:nth-child(5){width:26%}.words td{overflow-wrap:anywhere}}
+.context-copy{min-width:0;line-height:1.55}
+.context-pronunciation{font:400 13px/1.4 system-ui,"Nirmala UI",sans-serif;color:#80542f;margin-left:5px;overflow-wrap:anywhere}
+
+/* Compact vocabulary rows with pronunciation below the Hindi context. */
+.words th,.words td{padding:5px 8px;line-height:1.3}
+.words td[lang="hi"]{font-size:19px;line-height:1.4}
+.words .table-audio-line{gap:5px}
+.words .context-copy{display:block;line-height:1.4}
+.words .context-text{display:block}
+.words .context-pronunciation{display:block;margin:1px 0 0;font-size:12px;line-height:1.25}
+.words .table-listen{margin-top:1px}
+.play-all-controls{margin:9px 0}
+#play-all-lines{background:#275b4b;border-color:#275b4b;color:#fff;font-weight:600}
+#play-all-lines[aria-pressed=true]{background:#80542f;border-color:#80542f}
+#beginner-selection-player{position:fixed;z-index:50;padding:4px;background:#fffdf8;border:1px solid #aebdaf;border-radius:8px;box-shadow:0 4px 15px #253b3733}
+#beginner-selection-speak{background:#275b4b;color:#fff;border-color:#275b4b;font-size:13px;min-height:36px;padding:6px 11px}
+#beginner-selection-speak[aria-pressed=true]{background:#80542f;border-color:#80542f}
+.word.active::selection,.word.active *::selection{background:#ffe064;color:#172b24}
